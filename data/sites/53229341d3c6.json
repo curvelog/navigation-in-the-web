@@ -1,0 +1,21 @@
+{
+  "id": "53229341d3c6",
+  "domain": "data.gov",
+  "baseUrl": "https://data.gov",
+  "title": "Data.gov Home - Data.gov",
+  "description": "The home of the U.S. Government's open data",
+  "firstDiscovered": "2026-04-15",
+  "lastCrawled": "2026-04-15",
+  "crawlCount": 1,
+  "avgSecurityScore": 80,
+  "categories": [
+    "Politics"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-15",
+      "summary": "Government's Open Data Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more. 402,396 datasets available Search Search Most Viewed Datasets Recently Added Datasets Datasets by Organization Geospatial Mission Th..."
+    }
+  ],
+  "status": "active"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "3adf5f94d36c",
+  "domain": "arstechnica.com",
+  "baseUrl": "https://arstechnica.com",
+  "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
+  "description": "News and reviews, covering IT, AI, science, space, health, gaming, cybersecurity, tech policy, computers, mobile devices, and operating systems.",
+  "firstDiscovered": "2026-04-15",
+  "lastCrawled": "2026-04-15",
+  "crawlCount": 1,
+  "avgSecurityScore": 85,
+  "categories": [
+    "Technology"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-15",
+      "summary": "Jeremy Hsu – 4/14/2026 | 64 Sony killing features for antenna, set-top box users of Bravia smart TVs in May Some 2023 and 2024 models are also affected. Jeremy Hsu – 4/14/2026 | 64 Sony killing features for antenna, set-top box users of Bravia smart TVs in May Some 2023 and 2024 models are also a..."
+    }
+  ],
+  "status": "active"
+}

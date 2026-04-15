@@ -1,0 +1,21 @@
+{
+  "id": "89d2c9c57bd0",
+  "domain": "jcs.org",
+  "baseUrl": "https://jcs.org",
+  "title": "Installing OpenBSD on the Pomera DM250{,XY?} - joshua stein",
+  "description": "",
+  "firstDiscovered": "2026-04-15",
+  "lastCrawled": "2026-04-15",
+  "crawlCount": 1,
+  "avgSecurityScore": 90,
+  "categories": [
+    "Culture"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-15",
+      "summary": "Table of Contents Top Throat-clearing Making a backup Some DM250 hardware notes Making an OpenBSD installation SD card Installing OpenBSD Post-Installation Building a custom installation ramdisk Recovery Throat-clearing Much of my work has not yet been committed upstream so installation currently..."
+    }
+  ],
+  "status": "active"
+}

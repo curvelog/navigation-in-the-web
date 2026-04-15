@@ -1,0 +1,21 @@
+{
+  "id": "7830408a0d0c",
+  "domain": "www.nature.com",
+  "baseUrl": "https://www.nature.com",
+  "title": "Nature",
+  "description": "First published in 1869, Nature is the world’s leading multidisciplinary science journal. Nature publishes the finest peer-reviewed research that drives ground-breaking discovery, and is read by thought-leaders and decision-makers around the world.",
+  "firstDiscovered": "2026-04-15",
+  "lastCrawled": "2026-04-15",
+  "crawlCount": 1,
+  "avgSecurityScore": 80,
+  "categories": [
+    "News"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-15",
+      "summary": "Mohana Basu News15 Apr 2026 AI needs solid botanical data more than ever Chris Bivins World View14 Apr 2026 The air is full of DNA — here’s what scientists are using it for Aisling Irwin News Feature14 Apr 2026 Stop the ‘space race’: space exploration must be a shared human endeavour Editorial14 ..."
+    }
+  ],
+  "status": "active"
+}

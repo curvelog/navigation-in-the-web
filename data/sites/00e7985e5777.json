@@ -1,0 +1,21 @@
+{
+  "id": "00e7985e5777",
+  "domain": "www.theverge.com",
+  "baseUrl": "https://www.theverge.com",
+  "title": "The Verge",
+  "description": "The Verge is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in video, and in podcasts.",
+  "firstDiscovered": "2026-04-15",
+  "lastCrawled": "2026-04-15",
+  "crawlCount": 1,
+  "avgSecurityScore": 75,
+  "categories": [
+    "Culture"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-15",
+      "summary": "cryptoDavid PierceApr 144The new Trump Phone design is hereDominic PrestonApr 14The new Trump Phone design is hereDominic PrestonApr 145Justin Bieber’s YouTube Coachella set had nothing to do with who owns his musicJay PetersApr 13Justin Bieber’s YouTube Coachella set had nothing to do with who o..."
+    }
+  ],
+  "status": "active"
+}

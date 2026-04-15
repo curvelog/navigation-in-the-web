@@ -1,0 +1,21 @@
+{
+  "id": "7fceb3d9f3ca",
+  "domain": "hypirion.com",
+  "baseUrl": "https://hypirion.com",
+  "title": "Understanding Clojure's Persistent Vectors, pt. 1",
+  "description": "Ever wondered how Clojure's persistent vector actually works? This is part 1 of a blog series which aims to explain them.",
+  "firstDiscovered": "2026-04-15",
+  "lastCrawled": "2026-04-15",
+  "crawlCount": 1,
+  "avgSecurityScore": 55,
+  "categories": [
+    "Culture"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-15",
+      "summary": "There is space in the root, but not in the rightmost leaf node. 1: Just Like Assoc Whenever there is enough space in the rightmost leaf node, we can just do as we do when we perform an assoc: We just copy the path, and at the newly created leaf node, we put in the value to the right of the rightm..."
+    }
+  ],
+  "status": "active"
+}

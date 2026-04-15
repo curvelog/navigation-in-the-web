@@ -1,0 +1,21 @@
+{
+  "id": "ddf2dbfa1053",
+  "domain": "www.lanacion.com.ar",
+  "baseUrl": "https://www.lanacion.com.ar",
+  "title": "Últimas noticias de Argentina y el mundo - LA NACION",
+  "description": "LA NACION ofrece las últimas noticias, fotos y videos de la Argentina y el mundo. Política, economía, deportes y toda la información en tiempo real.",
+  "firstDiscovered": "2026-04-15",
+  "lastCrawled": "2026-04-15",
+  "crawlCount": 1,
+  "avgSecurityScore": 60,
+  "categories": [
+    "Culture"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-15",
+      "summary": "Milei admitió que no le gustó el dato de inflación, pero aseguró que no cambiará la política económicaPor Paula RossiA FondoGuerra, migración, Irán… Los 8 episodios que prepararon el enfrentamiento entre Trump y el PapaEscenario¿Empezará con 0%? Inflación de marzo: De Pablo advirtió un “dato ause..."
+    }
+  ],
+  "status": "active"
+}

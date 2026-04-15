@@ -1,0 +1,21 @@
+{
+  "id": "87a3289dfb1a",
+  "domain": "www.newscientist.com",
+  "baseUrl": "https://www.newscientist.com",
+  "title": "New Scientist | Science news, articles, and features",
+  "description": "Science news and long reads from expert journalists, covering developments in science, technology, health and the environment on the website and the magazine.",
+  "firstDiscovered": "2026-04-15",
+  "lastCrawled": "2026-04-15",
+  "crawlCount": 1,
+  "avgSecurityScore": 80,
+  "categories": [
+    "News"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-15",
+      "summary": "MindHow autoimmune conditions can unexpectedly drive mental illness Antibodies mistakenly attacking the brain are linked with conditions including schizophrenia, dementia and OCD, prompting a revolution in how we think about mental health conditions FeaturesHealthFrom autism to migraines, birth o..."
+    }
+  ],
+  "status": "active"
+}

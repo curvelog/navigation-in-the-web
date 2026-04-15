@@ -1,0 +1,21 @@
+{
+  "id": "2af0325dd2f3",
+  "domain": "www.infobae.com",
+  "baseUrl": "https://www.infobae.com",
+  "title": "Infobae América - Infobae",
+  "description": "El sitio de noticias en español más leído en el mundo. Con redacciones en Ciudad de México, Madrid, Bogotá, Lima y Buenos Aires; y corresponsales en las principales ciudades del mundo.",
+  "firstDiscovered": "2026-04-15",
+  "lastCrawled": "2026-04-15",
+  "crawlCount": 1,
+  "avgSecurityScore": 75,
+  "categories": [
+    "Culture"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-15",
+      "summary": "El OIEA advirtió sobre los riesgos del programa nuclear iraní tras perder la supervisión directa del uranio enriquecido en el paísEl director del organismo, Rafael Grossi, recordó que Teherán sigue sujeto al Tratado de No Proliferación y debe rendir cuentas por su material atómico, denunciando qu..."
+    }
+  ],
+  "status": "active"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "48023251c6f1",
+  "domain": "dev.to",
+  "baseUrl": "https://dev.to",
+  "title": "DEV Community",
+  "description": "A space to discuss and keep up software development and manage your software career",
+  "firstDiscovered": "2026-04-15",
+  "lastCrawled": "2026-04-15",
+  "crawlCount": 1,
+  "avgSecurityScore": 85,
+  "categories": [
+    "Technology"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-15",
+      "summary": "Follow Apr 15 Your AI Memory System Can't Tell a River Bank from a Savings Account #ai #machinelearning #nlp #rag 1 reaction Add Comment 5 min read How I Built an Autonomous Dataset Generator with CrewAI + Ollama (72-hour run, 1,065 entries) Bernabé Puente Moure Bernabé Puente Moure Bernabé Puent..."
+    }
+  ],
+  "status": "active"
+}

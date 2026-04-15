@@ -1,0 +1,22 @@
+{
+  "id": "5c03fbd2cdd6",
+  "domain": "www.theguardian.com",
+  "baseUrl": "https://www.theguardian.com",
+  "title": "Latest news, sport and opinion from the Guardian",
+  "description": "Latest US news, world news, sports, business, opinion, analysis and reviews from the Guardian, the world's leading liberal voice",
+  "firstDiscovered": "2026-04-15",
+  "lastCrawled": "2026-04-15",
+  "crawlCount": 1,
+  "avgSecurityScore": 100,
+  "categories": [
+    "News",
+    "Politics"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-15",
+      "summary": "NewsHideLebanese and Israeli Ambassadors to the US meet in Washington, D.C.Israeli soldiers walk among destroyed buildings in southern LebanonResidents rest in front of charred cars at the site of an Israeli airstrike in Beirut, LebanonA vessel in the Strait of Hormuz, off the coast of OmanAn 11-... | Photograph: Salwan Georges/Pool/CNP/ShutterstockUS-Iran peace talks could resume in next two days, Trump saysUS president says negotiations could restart in Islamabad under ‘fantastic’ Pakistani army chief Asim Munir Middle East crisis – live updatesDonald Trump has said that US-Iranian peace tal... | Middle East crisis liveUS-Israel war on IranMiddle East crisis live: US claims blockade has ‘completely halted economic trade’ into Iran, as Trump hints at return to talks in PakistanUS military boasts blockade of the strait of Hormuz will incapacitate Iran’s economy; Trump says negotiations coul... | Photograph: Andrew Leyden/Zuma Press Wire/Rex/ShutterstockView image in fullscreenThe US president, Donald Trump, welcomes Giorgia Meloni to the White House in April last year. Until now, the Italian prime minister had limited her response to condemning specific incidents, including Israeli strik..."
+    }
+  ],
+  "status": "active"
+}

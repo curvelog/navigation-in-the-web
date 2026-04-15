@@ -1,0 +1,21 @@
+{
+  "id": "a1f365886d55",
+  "domain": "code.claude.com",
+  "baseUrl": "https://code.claude.com",
+  "title": "Automate work with routines - Claude Code Docs",
+  "description": "Put Claude Code on autopilot. Define routines that run on a schedule, trigger on API calls, or react to GitHub events from Anthropic-managed cloud infrastructure.",
+  "firstDiscovered": "2026-04-15",
+  "lastCrawled": "2026-04-15",
+  "crawlCount": 1,
+  "avgSecurityScore": 100,
+  "categories": [
+    "Technology"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-15",
+      "summary": "Skip to main contentClaude Code Docs home pageEnglishSearch...⌘KAsk AISearch...NavigationClaude Code on the webAutomate work with routinesGetting startedBuild with Claude CodeDeploymentAdministrationConfigurationReferenceAgent SDKWhat's NewResourcesGetting startedOverviewQuickstartChangelogCore c..."
+    }
+  ],
+  "status": "active"
+}

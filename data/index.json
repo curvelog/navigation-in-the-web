@@ -1,7 +1,185 @@
 {
-  "lastUpdated": "2026-04-15T02:05:52.434Z",
-  "totalDays": 0,
-  "totalSites": 0,
-  "dates": [],
-  "sites": []
+  "lastUpdated": "2026-04-15T06:49:29.346Z",
+  "totalDays": 1,
+  "totalSites": 23,
+  "dates": [
+    {
+      "date": "2026-04-15",
+      "pageCount": 100,
+      "categories": [
+        "Technology",
+        "News",
+        "Culture",
+        "General",
+        "Politics",
+        "Entertainment",
+        "Business",
+        "Health",
+        "Education"
+      ]
+    }
+  ],
+  "sites": [
+    {
+      "id": "00e7985e5777",
+      "domain": "www.theverge.com",
+      "title": "The Verge",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "061bdbf8744e",
+      "domain": "www.wikipedia.org",
+      "title": "Wikipedia",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "2af0325dd2f3",
+      "domain": "www.infobae.com",
+      "title": "Infobae América - Infobae",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "3adf5f94d36c",
+      "domain": "arstechnica.com",
+      "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "3aeb00246038",
+      "domain": "github.com",
+      "title": "Trending  repositories on GitHub today · GitHub",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "48023251c6f1",
+      "domain": "dev.to",
+      "title": "DEV Community",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "53229341d3c6",
+      "domain": "data.gov",
+      "title": "Data.gov Home - Data.gov",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "5c03fbd2cdd6",
+      "domain": "www.theguardian.com",
+      "title": "Latest news, sport and opinion from the Guardian",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "7830408a0d0c",
+      "domain": "www.nature.com",
+      "title": "Nature",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "7caff9e64d56",
+      "domain": "news.ycombinator.com",
+      "title": "Hacker News",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "7fceb3d9f3ca",
+      "domain": "hypirion.com",
+      "title": "Understanding Clojure's Persistent Vectors, pt. 1",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "80f6f8bfe1fc",
+      "domain": "www.colino.net",
+      "title": "PCBWay sponsorship: full-size SD module for Arduino projects – colin@colino.net",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "87a3289dfb1a",
+      "domain": "www.newscientist.com",
+      "title": "New Scientist | Science news, articles, and features",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "897bd535efb1",
+      "domain": "www.npr.org",
+      "title": "NPR - Breaking News, Analysis, Music, Arts &amp; Podcasts : NPR",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "89d2c9c57bd0",
+      "domain": "jcs.org",
+      "title": "Installing OpenBSD on the Pomera DM250{,XY?} - joshua stein",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "900024fc4d3b",
+      "domain": "vjay15.github.io",
+      "title": "My adventure in designing API keys",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "98afcca13439",
+      "domain": "guernica.museoreinasofia.es",
+      "title": "Guernica Gigapíxel - Repensar Guernica",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "a1f365886d55",
+      "domain": "code.claude.com",
+      "title": "Automate work with routines - Claude Code Docs",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "b0ff7d60d2a7",
+      "domain": "llama.gs",
+      "title": "Friday Archaeology: A Communist Apple II and Fourteen Years of Not Knowing What You’re Testing – Alexander Feldman's Blog",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "b916ff53f513",
+      "domain": "calpaterson.com",
+      "title": "Dependency cooldowns turn you into a free-rider",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "c9273fbfcacd",
+      "domain": "www.bbc.com",
+      "title": "BBC News - Breaking news, video and the latest top stories from the U.S. and around the world",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "ddf2dbfa1053",
+      "domain": "www.lanacion.com.ar",
+      "title": "Últimas noticias de Argentina y el mundo - LA NACION",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    },
+    {
+      "id": "efad13f564f4",
+      "domain": "techcrunch.com",
+      "title": "TechCrunch | Startup and Technology News",
+      "lastCrawled": "2026-04-15",
+      "crawlCount": 1
+    }
+  ]
 }

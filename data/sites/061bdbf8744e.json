@@ -1,0 +1,21 @@
+{
+  "id": "061bdbf8744e",
+  "domain": "www.wikipedia.org",
+  "baseUrl": "https://www.wikipedia.org",
+  "title": "Wikipedia",
+  "description": "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation.",
+  "firstDiscovered": "2026-04-15",
+  "lastCrawled": "2026-04-15",
+  "crawlCount": 1,
+  "avgSecurityScore": 55,
+  "categories": [
+    "General"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-15",
+      "summary": "Wikipedia The Free Encyclopedia Search Wikipedia Afrikaans Shqip العربية Asturianu Azərbaycanca Български 閩南語 / Bân-lâm-gú বাংলা Беларуская Català Čeština Cymraeg Dansk Deutsch Eesti Ελληνικά English Español Esperanto Euskara فارسی Français Galego 한국어 Հայերեն हिन्दी Hrvatski Bahasa Indonesia Ital..."
+    }
+  ],
+  "status": "active"
+}
