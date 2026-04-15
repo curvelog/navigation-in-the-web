@@ -1,0 +1,51 @@
+{
+  "name": "navigation-in-the-web",
+  "version": "1.0.0",
+  "description": "Automated daily web explorer, crawler, and summarizer",
+  "main": "src/main.ts",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "crawl": "tsx src/main.ts",
+    "test": "vitest run",
+    "test:watch": "vitest watch",
+    "test:coverage": "vitest run --coverage",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curvelog/navigation-in-the-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/curvelog/navigation-in-the-web/issues"
+  },
+  "homepage": "https://github.com/curvelog/navigation-in-the-web#readme",
+  "devDependencies": {
+    "@types/cheerio": "^0.22.35",
+    "@types/crypto-js": "^4.2.2",
+    "@types/node": "^25.6.0",
+    "@types/node-fetch": "^2.6.13",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@types/sanitize-html": "^2.16.1",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2",
+    "vitest": "^4.1.4"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "crypto-js": "^4.2.0",
+    "next": "^16.2.3",
+    "node-fetch": "^2.7.0",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "robots-parser": "^3.0.1",
+    "sanitize-html": "^2.17.2"
+  }
+}
