@@ -5,16 +5,22 @@
   "title": "NPR - Breaking News, Analysis, Music, Arts &amp; Podcasts : NPR",
   "description": "Top stories in the U.S. and world news, politics, health, science, business, music, arts and culture. Nonprofit journalism with a mission. This is NPR.",
   "firstDiscovered": "2026-04-15",
-  "lastCrawled": "2026-04-15",
-  "crawlCount": 1,
+  "lastCrawled": "2026-04-16",
+  "crawlCount": 2,
   "avgSecurityScore": 65,
   "categories": [
-    "News"
+    "News",
+    "Health",
+    "Culture"
   ],
   "summaryHistory": [
     {
       "date": "2026-04-15",
       "summary": "Brandon Bell/Getty Images North America hide caption toggle caption Brandon Bell/Getty Images North America There's a global shortage of natural gas because of the war. Alberto Pizzoli/AFP/Getty Images hide caption toggle caption Alberto Pizzoli/AFP/Getty Images Religion Listen: A Jesuit priest s..."
+    },
+    {
+      "date": "2026-04-16",
+      "summary": "Fentanyl deaths are plunging in the U.S, but the recovery is threatened by a new \"synthetic soup\" of toxic street drugs. Fentanyl deaths are plunging in the U.S, but the recovery is threatened by a new \"synthetic soup\" of toxic street drugs. | Joe Raedle/Getty Images hide caption toggle caption Joe Raedle/Getty Images Middle East conflict causes a fluoride shortage for US drinking water April 15, 2026 • Some U.S. Jimin Lai/AFP/via Getty Images hide caption toggle caption Jimin Lai/AFP/via Getty Images Global Health How bad for humans i... | The weaponization that happened under the Biden Administration will not happen again, as we restore integrity to our prosecutorial system.\" Politics New attorney general moves to align Justice Department with Trump's priorities Federal prosecutors pursued more severe charges and significantly har... | Kent Nishimura/AFP via Getty Images hide caption toggle caption Kent Nishimura/AFP via Getty Images Supreme Court majority seems inclined to rule against Trump on birthright citizenship April 1, 2026 • The majority seemed skeptical of the Trump administration's argument on birthright citizenship,..."
     }
   ],
   "status": "active"

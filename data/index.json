@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2026-04-15T06:49:29.346Z",
-  "totalDays": 1,
-  "totalSites": 23,
+  "lastUpdated": "2026-04-16T06:47:05.222Z",
+  "totalDays": 2,
+  "totalSites": 24,
   "dates": [
+    {
+      "date": "2026-04-16",
+      "pageCount": 100,
+      "categories": [
+        "News",
+        "Technology",
+        "Politics",
+        "Culture",
+        "Education",
+        "Science",
+        "Business",
+        "Entertainment",
+        "Health",
+        "Environment"
+      ]
+    },
     {
       "date": "2026-04-15",
       "pageCount": 100,
@@ -20,6 +36,27 @@
     }
   ],
   "sites": [
+    {
+      "id": "451677206078",
+      "domain": "theguardian.com",
+      "title": "How to contact the Guardian securely | Information | The Guardian",
+      "lastCrawled": "2026-04-16",
+      "crawlCount": 1
+    },
+    {
+      "id": "5c03fbd2cdd6",
+      "domain": "www.theguardian.com",
+      "title": "Latest news, sport and opinion from the Guardian",
+      "lastCrawled": "2026-04-16",
+      "crawlCount": 2
+    },
+    {
+      "id": "897bd535efb1",
+      "domain": "www.npr.org",
+      "title": "NPR - Breaking News, Analysis, Music, Arts &amp; Podcasts : NPR",
+      "lastCrawled": "2026-04-16",
+      "crawlCount": 2
+    },
     {
       "id": "00e7985e5777",
       "domain": "www.theverge.com",
@@ -70,13 +107,6 @@
       "crawlCount": 1
     },
     {
-      "id": "5c03fbd2cdd6",
-      "domain": "www.theguardian.com",
-      "title": "Latest news, sport and opinion from the Guardian",
-      "lastCrawled": "2026-04-15",
-      "crawlCount": 1
-    },
-    {
       "id": "7830408a0d0c",
       "domain": "www.nature.com",
       "title": "Nature",
@@ -108,13 +138,6 @@
       "id": "87a3289dfb1a",
       "domain": "www.newscientist.com",
       "title": "New Scientist | Science news, articles, and features",
-      "lastCrawled": "2026-04-15",
-      "crawlCount": 1
-    },
-    {
-      "id": "897bd535efb1",
-      "domain": "www.npr.org",
-      "title": "NPR - Breaking News, Analysis, Music, Arts &amp; Podcasts : NPR",
       "lastCrawled": "2026-04-15",
       "crawlCount": 1
     },

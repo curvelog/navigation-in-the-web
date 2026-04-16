@@ -1,0 +1,21 @@
+{
+  "id": "451677206078",
+  "domain": "theguardian.com",
+  "baseUrl": "https://theguardian.com",
+  "title": "How to contact the Guardian securely | Information | The Guardian",
+  "description": "Some of the most important stories published by the Guardian have come from confidential tips. If you have something sensitive to share with us, here’s how to get in touch",
+  "firstDiscovered": "2026-04-16",
+  "lastCrawled": "2026-04-16",
+  "crawlCount": 1,
+  "avgSecurityScore": 100,
+  "categories": [
+    "Science"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-16",
+      "summary": "How to contact the Guardian securely How to contact the Guardian securely Some of the most important stories published by the Guardian have come from confidential tips. Some Guardian journalists publish PGP keys, allowing you to encrypt the content of email messages (but not the subject line or t..."
+    }
+  ],
+  "status": "active"
+}

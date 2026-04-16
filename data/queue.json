@@ -1,713 +1,6 @@
 {
   "pending": [
     {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/fbi-arrests-california-man-shot-ice-assault",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/15/mexico-president-claudia-sheinbaum-donald-trump-ice-deaths",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/14/marie-therese-billy-ice-arrest-us-france",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/eric-swalwell-sexual-assault-accusation",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/california-governor-race-eric-swalwell-resigns",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/eric-swalwell-tony-gonzales-resignations",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/15/american-youtuber-johnny-somali-sentenced-to-jail-in-south-korea-over-comfort-women-statue-stunt",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/hampshire-college-massachusetts-closure",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/15/cherry-blossom-1200-years-japan-climate-scientist-yasuyuki-aono",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/business/2026/apr/15/air-new-zealand-skynest-bunk-beds-sleep-pods-economy",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/us-military-boat-strike-eastern-pacific",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/what-does-the-save-america-act-mean-for-us-democracy-post-your-questions-now",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/trump-doordash-delivery-grandma-mcdonalds",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/14/wildfire-cattle-ranchers-american-great-plains",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/15/iran-beating-us-social-media-wars",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/15/justice-denied-apartheid-south-africa-truth-and-reconciliation",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/14/a-pope-who-uses-his-brain-vatican-locals-and-visitors-take-sides-in-leo-v-trump-spat",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/15/my-month-tradwife-world-cant-pretend-im-not-enjoying-myself",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/film/2026/apr/15/joan-crawford-letty-lynton-wildest-film-90-years-on",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/culture/2026/apr/15/viral-artists-social-media-videos-stewart-lee-werner-herzog",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/tv-and-radio/2026/apr/15/margos-got-money-troubles-review-elle-fanning-apple-tv",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/15/moment-that-changed-me-desperate-get-off-mountain",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/technology/2026/apr/15/macbook-air-m5-review-apple-best-consumer-laptop-faster-battery-life-storage",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/film/2026/apr/15/truth-treason-review-persuasive-punchy-treatment-of-teenager-who-takes-on-the-gestapo",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/travel/2026/apr/15/summer-hiking-switzerland-valais",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/news/series/the-long-read",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/news/2026/apr/14/art-sex-nature-why-is-everything-sold-to-us-as-a-means-to-an-end-rather-than-an-end-in-itself",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/15/helen-dewitt-author-turn-down-prize-publishing-fiction",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/15/hungary-authoritarianism-poland-rule-of-law",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/commentisfree/picture/2026/apr/14/ella-baron-israel-lebanon-peace-talks-cartoon",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/14/ai-language-human-speech",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/14/donald-trump-second-coming-jesus-middle-east-pope",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/14/ai-opinion-piece-column-writing-articles-certified-human-writer",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/commentisfree/2026/apr/14/the-guardian-view-on-three-years-of-war-in-sudan-a-vast-humanitarian-crisis-persists-because-the-fighting-does",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/football/2026/apr/14/atletico-madrid-barcelona-champions-league-match-report",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/football/live/2026/apr/14/liverpool-v-paris-saint-germain-champions-league-quarter-final-second-leg-live",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/football/2026/apr/14/sponsorship-uefa-club-competitions-1billion-champions-league",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/football/2026/apr/14/arsenal-sporting-champions-league-mikel-arteta-bukayo-saka-football",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/sport/2026/apr/14/nfl-reporter-russini-resigns-amid-self-feeding-speculation-over-photos-with-patriots-vrabel",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/football/2026/apr/14/javier-mascherano-inter-miami-resigns-lionel-messi",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/sport/2026/apr/13/azzi-fudd-wnba-draft-dallas-wings-bueckers-ucla",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/football/2026/apr/14/nj-transit-train-tickets-prices-new-york-world-cup",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/sport/2026/apr/14/javokhir-sindarov-gukesh-world-chess-championship-candidates",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/football/2026/apr/14/matt-crocker-leaves-us-soccer-saudi-arabia",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/sport/2026/apr/14/boss-of-the-bronx-the-turbulent-reign-of-george-steinbrenner-baseballs-ultimate-showman",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/sport/2026/apr/13/former-nfl-cornerback-chris-payton-jones-dies-at-30-everyone-loved-him",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/film/2026/apr/15/nicole-kidman-death-doula",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/14/mark-carney-canada-parliament-liberal",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/film/2026/apr/14/disney-to-cut-jobs-ceo-layoffs",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/music/2026/apr/15/kanye-west-ban-france-marseille-ye-concert",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/ucla-gynecologist-pleads-guilty-sexual-abuse-charges-11-years-prison",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/15/cuba-beat-us-energy-blockade-investment-renewables",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/dc-conference-climate-deniers-trump-epa-chief",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/environment/2026/apr/14/summers-are-longer-more-intense-temperatures",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/environment/2026/apr/14/african-scientists-fungal-conservation-movement-aoe",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/environment/2026/apr/13/dont-mention-the-climate-trump-creates-beyond-absurd-situation-at-global-finance-talks",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/business/2026/apr/14/trump-federal-reserve-pick-kevin-warsh",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/majority-vote-for-president-us-constitution",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/florida-surgeon-removes-liver-spleen",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/15/ukraine-war-briefing-orbans-defeat-in-hungary-could-unlock-90bn-loan-for-ukraine-says-eu-official",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/14/hungary-new-era-russia-back-foot-vladimir-putin-viktor-orban",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/14/rohingya-refugees-missing-boat-capsizes-andaman-sea",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://theguardian.com/tips",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/apr/15/marina-sersale-black-and-white-in-pictures",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/books/2026/apr/15/the-fallen-by-louise-brangan-review-an-enraging-account-of-irelands-magdalene-laundries",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/film/2026/apr/14/mother-mary-movie-review-anne-hathaway",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/games/2026/apr/14/is-super-mario-galaxy-movie-really-that-bad",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/culture/2026/apr/14/miracle-mile-romcom-meets-nuclear-war",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/film/2026/apr/14/itch-review-horror-bari-kang",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/music/2026/apr/14/odeal-rnb-hottest-uk-musician-brixton-academy",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/music/2026/apr/14/louisana-sludge-metallers-acid-bath",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/science/audio/2026/apr/14/helium-the-invisible-gas-that-powers-ai-and-why-its-in-short-supply-podcast",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/music/2026/apr/13/karol-g-coachella-becky-g-wisin-tropicoqueta",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/books/2026/apr/14/my-year-in-paris-with-gertrude-stein-by-deborah-levy-review-wonderfully-entertaining",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/books/2026/apr/14/all-them-dogs-by-djamel-white-review-murderous-desires-in-the-badlands-of-dublin",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/books/2026/apr/13/ghost-eye-by-amitav-ghosh-review-a-climate-crisis-novel-let-down-by-its-prose",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/books/2026/apr/14/on-memoir-by-blake-morrison-review-lessons-in-life-writing-from-a-master",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/games/2026/apr/13/grand-theft-auto-vi-rockstar-games-data-hack-ransom",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/games/2026/apr/10/super-mario-what-the-seven-best-obscure-mario-games",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/games/2026/apr/08/how-games-capture-the-humanity-in-the-loneliness-of-space-exploration",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/games/2026/apr/01/pushing-buttons-cost-of-gaming-artificial-intelligence-ai",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/stage/2026/apr/14/jane-krakowski-ally-mcbeal-30-rock-unbreakable-kimmy-schmidt-here-we-are",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/artanddesign/2026/apr/14/peter-hujar-paul-thek-artists-book",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/culture/gallery/2026/apr/14/steve-mcqueen-bountiful-grenada-in-pictures-photobook",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/culture/2026/apr/14/it-was-life-changing-the-celebrated-art-historian-who-spent-46-years-sitting-for-frank-auerbach",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/wellness/2026/apr/14/what-is-catastrophizing-how-to-stop-it",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/thefilter-us",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theguardian.com/thefilter-us/2025/nov/11/best-juicers-to-buy",
-      "depth": 1,
-      "sourceUrl": "https://www.theguardian.com/",
-      "addedAt": "2026-04-15T06:43:00.520Z",
-      "priority": 1
-    },
-    {
-      "url": "https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5783750/overdose-fentanyl-medetomidine-xylazine",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/health",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/g-s1-117430/doj-biden-weaponization-report",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/law",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
       "url": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
       "depth": 1,
       "sourceUrl": "https://www.npr.org/",
@@ -6999,6 +6292,713 @@
       "sourceUrl": "https://news.ycombinator.com/news",
       "addedAt": "2026-04-15T06:43:37.987Z",
       "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/tone/explainers",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/donaldtrump",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://nypost.com/2026/04/13/us-news/trump-admin-live-updates-april-13-14-15-16-17-18-19",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/world/2025/dec/03/asim-munir-pakistan-army-chief",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/world/iran",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/apr/13/donald-trump-pope-leo",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xcwcnb2ckO0",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/imf",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/jd-vance",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/world/giorgia-meloni",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/trump-doordash-delivery-grandma-mcdonalds",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/apr/14/a-pope-who-uses-his-brain-vatican-locals-and-visitors-take-sides-in-leo-v-trump-spat",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/house-of-representatives",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/eric-swalwell-tony-gonzales-resignations",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/minnesota",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/ice-detention-minnesota-investigation-false-arrest",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/mississippi",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/2026/apr/14/trump-federal-reserve-pick-kevin-warsh",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2026/apr/14/majority-vote-for-president-us-constitution",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/virginia",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-news-at-a-glance-latest-updates-today",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/trump-administration",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/series/trump-administration-briefing",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/us-politics",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fapr%2F14%2Ftrump-news-at-a-glance-latest-updates-today&type=article&internalpagecode=us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "addedAt": "2026-04-16T06:43:24.748Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/series/guardian-business-live",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/business",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/politics/2026/apr/15/rachel-reeves-donald-trump-iran-war-uk-us",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/2026/apr/15/iran-war-global-debt-imf-prices-growth",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/profile/graemewearden",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfbe2d8f08259d93962191",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfc6758f08fbc58317dad2",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfc3148f08259d939621d0",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfc26e8f08259d939621c8",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfad988f08259d9396208d",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfa4118f08b9e0aac008f5",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfa02b8f08259d93961fa1",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df91e68f08fbc58317d777",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df910b8f08259d93961eb1",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df8cfa8f08fbc58317d71f",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df81db8f08fbc58317d698",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df72678f08259d93961d46",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df87ea8f08259d93961e3e",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df75328f08b9e0aac00649",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.036Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df73f58f08fbc58317d614",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df6e3f8f08fbc58317d5e2",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df62fc8f08259d93961c7b",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df5a758f08a36a1628936b",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df51b98f0838846e625a8b",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df45a68f08a36a162892d6",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df3df28f08ca2755e149e9",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df3ca68f08a36a162892a2",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df32e48f0838846e6259a6",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df2edb8f08ca2755e1498b",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df26278f08a36a16289229",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/apr/14/rachel-reeves-folly-us-going-to-war-iran-without-clear-exit-plan",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.ft.com/content/d6459373-c681-4787-9c52-48ccda530da7?syn-25a6b1a6=1",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?page=with%3Ablock-69dfa02b8f08259d93961fa1",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/economics",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/stock-markets",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/ftse",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/business/imf",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fapr%2F15%2Fstock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates&type=article&internalpagecode=business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "addedAt": "2026-04-16T06:43:27.037Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/us-capitol-breach",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2021/apr/19/proud-boys-judge-custody-capitol-attack-ethan-nordean-joseph-biggs",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2025/jan/21/enrique-tarrio-stewart-rhodes-pardon-january-6-trump",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/trump-administration",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/books/2026/apr/11/strange-people-on-the-hill-michael-edison-hayden",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2024/jan/24/proud-boys-capitol-rioter-sentenced-marc-bru",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.reuters.com/world/us/officer-who-responded-us-capitol-attack-is-third-die-by-suicide-2021-08-02",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://apps.apple.com/app/the-guardian-live-world-news/id409128287",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.guardian",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/securedrop",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/tips",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/far-right--us-",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/donaldtrump",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/us-politics",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/tone/news",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fapr%2F14%2Fjanuary-6-convictions-overturn-doj-proud-boys-oath-keepers&type=article&internalpagecode=us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "addedAt": "2026-04-16T06:43:29.225Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&utm_campaign=BN22326&utm_content=signup&utm_term=standfirst&utm_source=GUARDIAN_WEB",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/jd-vance",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/donaldtrump",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/2026/apr/12/ex-cia-director-oust-trump-25th-amendment",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/article/2024/jun/28/biden-trump-first-presidential-debate",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://apps.apple.com/app/the-guardian-live-world-news/id409128287",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=com.guardian",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/securedrop",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/tips",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/house-of-representatives",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/us-congress",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/us-politics",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/democrats",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/republicans",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.theguardian.com/tone/news",
+      "depth": 2,
+      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+      "addedAt": "2026-04-16T06:43:31.337Z",
+      "priority": 2
     }
   ],
   "completed": [
@@ -7166,399 +7166,116 @@
     "https://www.bbc.com/sport/football/articles/cvg0j37lwj7o",
     "https://www.theguardian.com/world/2026/apr/14/us-iran-peace-talks-could-resume-in-next-two-days-trump-says",
     "https://www.theguardian.com/world/live/2026/apr/15/iran-war-live-news-us-naval-blockade-strait-of-hormuz-pakistan-peace-talks-middle-east-crisis-latest",
-    "https://www.theguardian.com/world/2026/apr/14/trump-accuses-ally-meloni-of-lacking-courage-for-not-joining-attacks-on-iran"
+    "https://www.theguardian.com/world/2026/apr/14/trump-accuses-ally-meloni-of-lacking-courage-for-not-joining-attacks-on-iran",
+    "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+    "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+    "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
+    "https://www.theguardian.com/us-news/2026/apr/14/fbi-arrests-california-man-shot-ice-assault",
+    "https://www.theguardian.com/world/2026/apr/15/mexico-president-claudia-sheinbaum-donald-trump-ice-deaths",
+    "https://www.theguardian.com/world/2026/apr/14/marie-therese-billy-ice-arrest-us-france",
+    "https://www.theguardian.com/us-news/2026/apr/14/eric-swalwell-sexual-assault-accusation",
+    "https://www.theguardian.com/us-news/2026/apr/14/california-governor-race-eric-swalwell-resigns",
+    "https://www.theguardian.com/us-news/2026/apr/14/eric-swalwell-tony-gonzales-resignations",
+    "https://www.theguardian.com/world/2026/apr/15/american-youtuber-johnny-somali-sentenced-to-jail-in-south-korea-over-comfort-women-statue-stunt",
+    "https://www.theguardian.com/us-news/2026/apr/14/hampshire-college-massachusetts-closure",
+    "https://www.theguardian.com/world/2026/apr/15/cherry-blossom-1200-years-japan-climate-scientist-yasuyuki-aono",
+    "https://www.theguardian.com/business/2026/apr/15/air-new-zealand-skynest-bunk-beds-sleep-pods-economy",
+    "https://www.theguardian.com/us-news/2026/apr/14/us-military-boat-strike-eastern-pacific",
+    "https://www.theguardian.com/us-news/2026/apr/14/what-does-the-save-america-act-mean-for-us-democracy-post-your-questions-now",
+    "https://www.theguardian.com/us-news/2026/apr/14/trump-doordash-delivery-grandma-mcdonalds",
+    "https://www.theguardian.com/world/2026/apr/14/wildfire-cattle-ranchers-american-great-plains",
+    "https://www.theguardian.com/world/2026/apr/15/iran-beating-us-social-media-wars",
+    "https://www.theguardian.com/world/2026/apr/15/justice-denied-apartheid-south-africa-truth-and-reconciliation",
+    "https://www.theguardian.com/world/2026/apr/14/a-pope-who-uses-his-brain-vatican-locals-and-visitors-take-sides-in-leo-v-trump-spat",
+    "https://www.theguardian.com/lifeandstyle/2026/apr/15/my-month-tradwife-world-cant-pretend-im-not-enjoying-myself",
+    "https://www.theguardian.com/film/2026/apr/15/joan-crawford-letty-lynton-wildest-film-90-years-on",
+    "https://www.theguardian.com/culture/2026/apr/15/viral-artists-social-media-videos-stewart-lee-werner-herzog",
+    "https://www.theguardian.com/tv-and-radio/2026/apr/15/margos-got-money-troubles-review-elle-fanning-apple-tv",
+    "https://www.theguardian.com/lifeandstyle/2026/apr/15/moment-that-changed-me-desperate-get-off-mountain",
+    "https://www.theguardian.com/technology/2026/apr/15/macbook-air-m5-review-apple-best-consumer-laptop-faster-battery-life-storage",
+    "https://www.theguardian.com/film/2026/apr/15/truth-treason-review-persuasive-punchy-treatment-of-teenager-who-takes-on-the-gestapo",
+    "https://www.theguardian.com/travel/2026/apr/15/summer-hiking-switzerland-valais",
+    "https://www.theguardian.com/news/series/the-long-read",
+    "https://www.theguardian.com/news/2026/apr/14/art-sex-nature-why-is-everything-sold-to-us-as-a-means-to-an-end-rather-than-an-end-in-itself",
+    "https://www.theguardian.com/commentisfree/2026/apr/15/helen-dewitt-author-turn-down-prize-publishing-fiction",
+    "https://www.theguardian.com/commentisfree/2026/apr/15/hungary-authoritarianism-poland-rule-of-law",
+    "https://www.theguardian.com/commentisfree/picture/2026/apr/14/ella-baron-israel-lebanon-peace-talks-cartoon",
+    "https://www.theguardian.com/commentisfree/2026/apr/14/ai-language-human-speech",
+    "https://www.theguardian.com/commentisfree/2026/apr/14/donald-trump-second-coming-jesus-middle-east-pope",
+    "https://www.theguardian.com/commentisfree/2026/apr/14/ai-opinion-piece-column-writing-articles-certified-human-writer",
+    "https://www.theguardian.com/commentisfree/2026/apr/14/the-guardian-view-on-three-years-of-war-in-sudan-a-vast-humanitarian-crisis-persists-because-the-fighting-does",
+    "https://www.theguardian.com/football/2026/apr/14/atletico-madrid-barcelona-champions-league-match-report",
+    "https://www.theguardian.com/football/live/2026/apr/14/liverpool-v-paris-saint-germain-champions-league-quarter-final-second-leg-live",
+    "https://www.theguardian.com/football/2026/apr/14/sponsorship-uefa-club-competitions-1billion-champions-league",
+    "https://www.theguardian.com/football/2026/apr/14/arsenal-sporting-champions-league-mikel-arteta-bukayo-saka-football",
+    "https://www.theguardian.com/sport/2026/apr/14/nfl-reporter-russini-resigns-amid-self-feeding-speculation-over-photos-with-patriots-vrabel",
+    "https://www.theguardian.com/football/2026/apr/14/javier-mascherano-inter-miami-resigns-lionel-messi",
+    "https://www.theguardian.com/sport/2026/apr/13/azzi-fudd-wnba-draft-dallas-wings-bueckers-ucla",
+    "https://www.theguardian.com/football/2026/apr/14/nj-transit-train-tickets-prices-new-york-world-cup",
+    "https://www.theguardian.com/football/2023/jul/20/sign-up-for-soccer-with-jonathan-wilson-his-free-weekly-newsletter-on-european-soccer",
+    "https://www.theguardian.com/sport/2026/apr/14/javokhir-sindarov-gukesh-world-chess-championship-candidates",
+    "https://www.theguardian.com/football/2026/apr/14/matt-crocker-leaves-us-soccer-saudi-arabia",
+    "https://www.theguardian.com/sport/2026/apr/14/boss-of-the-bronx-the-turbulent-reign-of-george-steinbrenner-baseballs-ultimate-showman",
+    "https://www.theguardian.com/sport/2026/apr/13/former-nfl-cornerback-chris-payton-jones-dies-at-30-everyone-loved-him",
+    "https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat",
+    "https://www.theguardian.com/film/2026/apr/15/nicole-kidman-death-doula",
+    "https://www.theguardian.com/world/2026/apr/14/mark-carney-canada-parliament-liberal",
+    "https://www.theguardian.com/film/2026/apr/14/disney-to-cut-jobs-ceo-layoffs",
+    "https://www.theguardian.com/music/2026/apr/15/kanye-west-ban-france-marseille-ye-concert",
+    "https://www.theguardian.com/us-news/2026/apr/14/ucla-gynecologist-pleads-guilty-sexual-abuse-charges-11-years-prison",
+    "https://www.theguardian.com/world/2026/apr/15/cuba-beat-us-energy-blockade-investment-renewables",
+    "https://www.theguardian.com/us-news/2026/apr/14/dc-conference-climate-deniers-trump-epa-chief",
+    "https://www.theguardian.com/environment/2026/apr/14/summers-are-longer-more-intense-temperatures",
+    "https://www.theguardian.com/environment/2026/apr/14/african-scientists-fungal-conservation-movement-aoe",
+    "https://www.theguardian.com/environment/2026/apr/13/dont-mention-the-climate-trump-creates-beyond-absurd-situation-at-global-finance-talks",
+    "https://www.theguardian.com/business/2026/apr/14/trump-federal-reserve-pick-kevin-warsh",
+    "https://www.theguardian.com/us-news/2026/apr/14/majority-vote-for-president-us-constitution",
+    "https://www.theguardian.com/us-news/2026/apr/14/florida-surgeon-removes-liver-spleen",
+    "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
+    "https://www.theguardian.com/world/2026/apr/15/ukraine-war-briefing-orbans-defeat-in-hungary-could-unlock-90bn-loan-for-ukraine-says-eu-official",
+    "https://www.theguardian.com/world/2026/apr/14/hungary-new-era-russia-back-foot-vladimir-putin-viktor-orban",
+    "https://www.theguardian.com/world/2026/apr/14/rohingya-refugees-missing-boat-capsizes-andaman-sea",
+    "https://theguardian.com/tips",
+    "https://www.theguardian.com/artanddesign/gallery/2026/apr/15/marina-sersale-black-and-white-in-pictures",
+    "https://www.theguardian.com/books/2026/apr/15/the-fallen-by-louise-brangan-review-an-enraging-account-of-irelands-magdalene-laundries",
+    "https://www.theguardian.com/film/2026/apr/14/mother-mary-movie-review-anne-hathaway",
+    "https://www.theguardian.com/games/2026/apr/14/is-super-mario-galaxy-movie-really-that-bad",
+    "https://www.theguardian.com/culture/2026/apr/14/miracle-mile-romcom-meets-nuclear-war",
+    "https://www.theguardian.com/film/2026/apr/14/itch-review-horror-bari-kang",
+    "https://www.theguardian.com/music/2026/apr/14/odeal-rnb-hottest-uk-musician-brixton-academy",
+    "https://www.theguardian.com/music/2026/apr/14/louisana-sludge-metallers-acid-bath",
+    "https://www.theguardian.com/science/audio/2026/apr/14/helium-the-invisible-gas-that-powers-ai-and-why-its-in-short-supply-podcast",
+    "https://www.theguardian.com/music/2026/apr/13/karol-g-coachella-becky-g-wisin-tropicoqueta",
+    "https://www.theguardian.com/books/2026/apr/14/my-year-in-paris-with-gertrude-stein-by-deborah-levy-review-wonderfully-entertaining",
+    "https://www.theguardian.com/books/2026/apr/14/all-them-dogs-by-djamel-white-review-murderous-desires-in-the-badlands-of-dublin",
+    "https://www.theguardian.com/books/2026/apr/13/ghost-eye-by-amitav-ghosh-review-a-climate-crisis-novel-let-down-by-its-prose",
+    "https://www.theguardian.com/books/2026/apr/14/on-memoir-by-blake-morrison-review-lessons-in-life-writing-from-a-master",
+    "https://www.theguardian.com/games/2026/apr/13/grand-theft-auto-vi-rockstar-games-data-hack-ransom",
+    "https://www.theguardian.com/games/2026/apr/10/super-mario-what-the-seven-best-obscure-mario-games",
+    "https://www.theguardian.com/games/2026/apr/08/how-games-capture-the-humanity-in-the-loneliness-of-space-exploration",
+    "https://www.theguardian.com/games/2026/apr/01/pushing-buttons-cost-of-gaming-artificial-intelligence-ai",
+    "https://www.theguardian.com/stage/2026/apr/14/jane-krakowski-ally-mcbeal-30-rock-unbreakable-kimmy-schmidt-here-we-are",
+    "https://www.theguardian.com/artanddesign/2026/apr/14/peter-hujar-paul-thek-artists-book",
+    "https://www.theguardian.com/culture/gallery/2026/apr/14/steve-mcqueen-bountiful-grenada-in-pictures-photobook",
+    "https://www.theguardian.com/culture/2026/apr/14/it-was-life-changing-the-celebrated-art-historian-who-spent-46-years-sitting-for-frank-auerbach",
+    "https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors",
+    "https://www.theguardian.com/wellness/2026/apr/14/what-is-catastrophizing-how-to-stop-it",
+    "https://www.theguardian.com/thefilter-us",
+    "https://www.theguardian.com/thefilter-us/2025/nov/11/best-juicers-to-buy",
+    "https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player",
+    "https://www.npr.org/2026/04/14/nx-s1-5783750/overdose-fentanyl-medetomidine-xylazine",
+    "https://www.npr.org/sections/health",
+    "https://www.npr.org/2026/04/14/g-s1-117430/doj-biden-weaponization-report",
+    "https://www.npr.org/sections/law"
   ],
   "failed": [
     {
-      "url": "https://www.reuters.com/",
+      "url": "https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:42:55.188Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.sciencedaily.com/",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:43:21.481Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.clarin.com/",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:43:33.179Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/submit",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:43:52.606Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/vote?id=47774789&how=up&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:43:54.624Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://iczelia.net/posts/e16-20-year-old-bug",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:43:57.680Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/from?site=iczelia.net",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:43:59.811Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/hide?id=47774789&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:05.892Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/vote?id=47768133&how=up&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:07.906Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/from?site=claude.com",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:12.546Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/user?id=matthieu_bl",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:14.591Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/hide?id=47768133&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:18.837Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/vote?id=47773812&how=up&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:20.855Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/from?site=calpaterson.com",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:25.248Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/user?id=pabs3",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:27.278Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/hide?id=47773812&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:31.336Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/vote?id=47773788&how=up&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:33.349Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.stylewarning.com/posts/not-all-elementary",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:35.830Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/from?site=stylewarning.com",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:37.946Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/user?id=mmastrac",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:39.982Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/hide?id=47773788&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:44.049Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/vote?id=47765604&how=up&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:46.067Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/from?site=techcrunch.com",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:50.725Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/user?id=jrm-veris",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:52.752Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/hide?id=47765604&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:56.891Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/vote?id=47775183&how=up&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:44:58.905Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.businesswire.com/news/home/20260414237496/en/Amazon-to-Acquire-Globalstar-and-Expand-Amazon-Leo-Satellite-Network",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:45:40.908Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/from?site=businesswire.com",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:45:43.024Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/hide?id=47775183&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:45:49.118Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/vote?id=47739278&how=up&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:45:51.136Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/from?site=vjay15.github.io",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:45:55.547Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/item?id=47739278",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:45:59.604Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/hide?id=47739278&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:01.618Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/vote?id=47724571&how=up&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:03.631Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/from?site=llama.gs",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:09.459Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/user?id=major4x",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:11.497Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/hide?id=47724571&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:15.560Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/vote?id=47725897&how=up&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:17.577Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/from?site=jcs.org",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:22.399Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/user?id=djfergus",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:24.427Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/hide?id=47725897&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:28.470Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/vote?id=47732535&how=up&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:30.485Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://taoofmac.com/space/reviews/2026/04/11/1900",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:32.635Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/from?site=taoofmac.com",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:34.716Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/user?id=rcarmo",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:36.741Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/hide?id=47732535&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:40.847Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/vote?id=47721076&how=up&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:42.859Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/from?site=hypirion.com",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:47.118Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/user?id=mirzap",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:49.143Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/hide?id=47721076&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:53.186Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/vote?id=47772012&how=up&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:55.198Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://stopflock.com/",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:57.499Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/from?site=stopflock.com",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:46:59.604Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/hide?id=47772012&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:47:05.743Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/vote?id=47728662&how=up&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:47:07.756Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/from?site=museoreinasofia.es",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:47:13.124Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/user?id=guigar",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:47:15.150Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/hide?id=47728662&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:47:19.200Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/vote?id=47722731&how=up&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:47:21.212Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/hide?id=47722731&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:47:33.502Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/vote?id=47767676&how=up&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:47:35.515Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://kb.databasedesignbook.com/posts/5nf",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:47:38.965Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/from?site=databasedesignbook.com",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:47:41.079Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/user?id=petalmind",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:47:43.117Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.ycombinator.com/hide?id=47767676&goto=news",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-15T06:47:47.219Z",
+      "failedAt": "2026-04-16T06:46:56.553Z",
       "retryCount": 0
     }
   ],
-  "lastUpdated": "2026-04-15T06:49:29.197Z"
+  "lastUpdated": "2026-04-16T06:47:05.047Z"
 }
