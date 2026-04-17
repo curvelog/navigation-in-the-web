@@ -1,846 +1,6 @@
 {
   "pending": [
     {
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/climate",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/elections",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5784096/suhas-subramanyam-richard-painter-controversy-congress-resignations",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/politics",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_rep._suhas_subramanyam_d-va._on_ethics_and_the_resignations_of_2_congressmen.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=12&d=311&size=4979192&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5784096",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5783880/jesuit-priest-shares-how-catholics-are-reacting-to-trumps-criticism-of-pope-leo",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/religion",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_jesuit_priest_shares_how_catholics_are_reacting_to_trump_s_criticism_of_pope_leo.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=16&d=230&size=3695222&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5783880",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nepm.org/regional-news/2026-04-14/hampshire-college-announces-closure-effective-this-fall",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/planet-money/2026/04/14/g-s1-117075/the-labor-economics-of-alien-and-its-lessons-for-inequality-on-earth",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/planet-money-newsletter",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.tpr.org/news/2026-04-13/university-health-in-san-antonio-performs-the-first-7-pair-living-donor-liver-exchange-in-the-nation?utm_source=npr.org&utm_medium=referral&utm_campaign=national_highlight&utm_content=homepage",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/g-s1-117410/deepfake-ai-images-child-sex-abuse",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "http://youraislopbores.me/",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/culture",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.wgbh.org/news/local/2026-04-13/immigration-judges-who-ruled-in-ozturk-mahdawi-cases-fired?utm_source=npr.org&utm_medium=referral&utm_campaign=national_highlight&utm_content=homepage",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5785065/why-hollywood-heavyweights-oppose-the-paramount-and-warner-brothers-deal",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/podcasts/510355/considerthis",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510355/npr.simplecastaudio.com/2a4a748e-0a2f-495a-8208-99765f0dad47/episodes/6d1d6f88-df87-4c47-aca8-d7c7f18428fe/audio/128/default.mp3?awCollectionId=2a4a748e-0a2f-495a-8208-99765f0dad47&awEpisodeId=6d1d6f88-df87-4c47-aca8-d7c7f18428fe&feed=4XF9Dp_o&t=podcast&e=nx-s1-5785065&p=510355&d=506&size=8106363&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5781219/brain-vision-neurons-imagine-new-things",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/science",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/04/20260409_atc_how_the_brain_imagines.mp3?d=224&size=3588642&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5784551/lebanon-israel-talks",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/series/1205445976/middle-east-crisis",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/12/g-s1-117045/hezbollah-commander-lebanon-israel",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5768270/what-to-know-about-section-702-surveillance",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/13/g-s1-116803/mannequin-pussy-tiny-desk-concert",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/lifekit",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2023/10/03/1196977935/save-money-energy-tips",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/podcasts/510338/all-guides",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/d75aa536-e292-4732-8ef2-46c13c98d1ec/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=d75aa536-e292-4732-8ef2-46c13c98d1ec&t=podcast&e=1196977935&p=510338&d=1125&size=18015757&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/transcripts/1196977935",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2023/07/07/1186405105/what-to-do-when-youre-constipated",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://media.npr.org/assets/img/2023/07/07/poop_02-a92268489ec96d63148c9153e5e0c81b06d3f855.jpg?s=2600&c=100&f=jpeg",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/d465a00b-a7f2-4fa1-acb0-1d973efa0773/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=d465a00b-a7f2-4fa1-acb0-1d973efa0773&t=podcast&e=1186405105&p=510338&d=967&size=15570696&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/transcripts/1186405105",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2022/06/23/1107226998/how-to-deal-with-online-harassment-and-protect-yourself-from-future-attacks",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://media.npr.org/assets/img/2022/06/23/npr-digital-wave-carlo-cadenas-1a30fbeb9f38ddcc43f768a22fbad6927e878f16.jpg?s=2600&c=100&f=jpeg",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/3cc38a2d-02b5-4f17-b1af-20049360b566/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=3cc38a2d-02b5-4f17-b1af-20049360b566&t=podcast&e=1107226998&p=510338&d=1212&size=19455603&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/transcripts/1107226998",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2024/06/26/g-s1-4136/stuck-in-a-rut-how-to-appreciate-your-life-again-according-to-science",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/bac007f1-b840-4537-9f2e-c80822be7112/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=bac007f1-b840-4537-9f2e-c80822be7112&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2025/04/08/nx-s1-4964844/harmful-chemicals-skin-care-cosmetics-personal-care-products",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/f010e869-72fc-45d1-85ce-3d4d3946e2e5/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=f010e869-72fc-45d1-85ce-3d4d3946e2e5&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/health-shots/2023/02/24/1158881773/friendships-at-work-can-boost-happiness-heres-how-to-nurture-them",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://media.npr.org/assets/img/2023/02/22/finding-connections-in-the-workplace_black-line-final-4285782d958c04bf2c6fb9cac00ecd6738266ba5.jpg?s=2600&c=100&f=jpeg",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/health-shots",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2025/08/02/nx-s1-5442506/hard-to-accept-compliments-comic",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/338b5efe-3fe4-4786-8682-693d656c2ff0/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=338b5efe-3fe4-4786-8682-693d656c2ff0&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/newsletter/life-kit",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5782043/nexstar-tegna-local-tv-deal-lawsuit-antitrust",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/analysis",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/media",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/13/nx-s1-5783657/peter-magyar-hungary-prime-minister-orban-election",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/europe",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/11/nx-s1-5773321/viktor-orban-hungary-hometown",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/12/nx-s1-5782671/hungary-viktor-orban-concedes-defeat",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/g-s1-117383/fuel-protests-have-irelands-government-facing-possible-no-confidence-vote",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/world",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/10/nx-s1-5775780/us-iran-war-israel-satellite-imagery-planet-vantor-censorship",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5780066/oura-function-wearables-blood-testing-bloodwork",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/g-s1-111652/aziz-abu-sarah-maoz-inon-future-is-peace-book",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/01/20260129_me_two_friends_an_israeli_and_a_palestinian_believe_peace_is_possible_after_war.mp3?d=233&size=3736600&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/podcasts/510317/its-been-a-minute",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5784001/algorithm-bodies-the-human-need-to-worship-celebrities",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/nx-s1-5783807/after-backlash-trump-deletes-post-depicting-him-as-jesus-like-figure",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/sections/national",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_after_backlash_trump_deletes_post_depicting_him_as_jesus-like_figure.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=15&d=216&size=3470778&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5783807",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/13/nx-s1-5780996/pope-leo-begins-tour-across-africa-row-with-trump-iran-war",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260413_me_pope_leo_stands_firm_with_trump_as_vatican_washington_rift_deepens_over_iran_war.mp3?t=progseg&e=nx-s1-5759517&p=3&seg=2&d=169&size=2709256&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5780996",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/12/nx-s1-5782636/a-country-by-country-glance-at-pope-leo-xivs-trip-to-africa",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.kcur.org/news/2026-04-13/joplin-police-sniper-who-killed-a-2-year-old-girl-just-became-a-missouri-state-trooper?utm_source=npr.org&utm_medium=referral&utm_campaign=national_highlight&utm_content=homepage",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.tpr.org/government-politics/2026-04-13/texas-congressman-tony-gonzales-says-he-will-resign-amid-sexual-misconduct-allegations",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/13/nx-s1-5784030/eric-swalwell-resigns-from-congress",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_eric_swalwell_will_resign_from_congress_as_he_faces_backlash_over_assault_allegations.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=9&d=222&size=3562311&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5784030",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/14/g-s1-117332/uk-report-stabbings-at-dance-class",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/13/nx-s1-5759287/red-light-therapy-science-skin-hair",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/series/g-s1-83811/healthy-or-hype",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260413_me_is_red_light_therapy_healthy_or_all_hype.mp3?t=progseg&e=nx-s1-5759517&p=3&seg=9&d=198&size=3178624&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5759287",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2025/01/15/nx-s1-5217975/the-secret-to-doing-hard-things-and-getting-stuff-done",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/2026/04/13/nx-s1-5783924/2026-rock-roll-hall-of-fame-inductees",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.npr.org/music",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_rock_roll_hall_of_fame_s_class_of_2026_includes_phil_collins_oasis_and_sade.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=14&d=167&size=2687522&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 1,
-      "sourceUrl": "https://www.npr.org/",
-      "addedAt": "2026-04-15T06:43:02.958Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/events/strictlyvc-san-francisco-2026/?utm_source=tc&utm_medium=ad&utm_campaign=svcsf2026&utm_content=ticketsales&promo=topbanner&display=",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.137Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/events/tc-disrupt-2026/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2026&utm_content=seb&promo=topbanner_seb&display=",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.137Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/category/security",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/zack-whittaker",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/category/artificial-intelligence",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/sarah-perez",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/category/biotech-health",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/tim-fernholz",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/ivan-mehta",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/youtube-livestreams-will-now-hold-back-ads-during-peak-engagement-to-protect-the-vibe",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/aisha-malik",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/tesla-adds-streaks-and-other-stats-to-track-how-often-drivers-use-full-self-driving-software",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/kirsten-korosec",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/connie-loizos",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/latest",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/category/startups",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/julie-bort",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/category/transportation",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/category/apps",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
       "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
       "depth": 1,
       "sourceUrl": "https://techcrunch.com/",
@@ -6999,6 +6159,846 @@
       "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
       "addedAt": "2026-04-16T06:43:31.337Z",
       "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/sections/climate",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/programs/morning-edition/nx-s1-5736265/morning-edition-for-april-15-2026",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/people/1119646476/julia-simon",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_the_iran_war_created_a_global_natural_gas_shortage_a_windfall_for_u.s._companies.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=6&d=231&size=3706925&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5766431",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/06/nx-s1-5736593/middle-east-iran-energy-lng",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/series/1205445976/middle-east-crisis",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.reuters.com/business/energy/us-lng-exports-break-record-high-middle-east-war-disrupts-global-supply-2026-04-01",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.cheniere.com/newsroom/newsroom-cheniere-achieves-substantial-completion-of-train-5-at-ccl-stage-3",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/04/09/nx-s1-5745144/oil-company-profits-high-oil-prices",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/sections/business",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://investors.ventureglobal.com/news/news-details/2026/Venture-Global-Announces-Final-Investment-Decision-and-Financial-Close-for-Phase-2-of-CP2-LNG/default.aspx",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/24/g-s1-114940/asia-boosts-coal-use-as-iran-war-squeezes-global-lng-supplies",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/16/nx-s1-5732984/energy-iran-war-solar-pakistan-crisis-renewable-evs",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/tags/g-s1-112089/u-s-war-in-iran",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/tags/1138901203/lng",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/tags/672000926/energy-companies",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+      "addedAt": "2026-04-17T06:43:43.154Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/newsletter/news",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_the_iran_war_created_a_global_natural_gas_shortage_a_windfall_for_u.s._companies.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=6&d=231&size=3706925&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5766431",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/04/10/nx-s1-5770433/delay-funding-fema-hurricanes-disasters-wildfires-floods",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_communities_are_waiting_on_billions_in_disaster_funding_from_the_trump_administration.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=5&d=232&size=3718209&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5770433",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/04/03/nx-s1-5766467/climate-change-money-energy-costs-savings-question",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/sections/the-picture-show/2026/04/01/nx-s1-5749446/botanist-search-seeds-rare-death-valley-sage",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/sections/pictureshow",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/04/20260402_atc_a_botanist_searches_for_the_seeds_of_the_rare_death_valley_sage.mp3?t=progseg&e=nx-s1-5752748&p=2&seg=15&d=315&size=5046484&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5749446",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/30/nx-s1-5753765/fema-trump-extreme-weather-rural-pennsylvania",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260330_atc_trump_administration_cuts_turned_rural_towns_into_sitting_ducks_for_disasters.mp3?t=progseg&e=nx-s1-5727895&p=2&seg=5&d=248&size=3976926&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5753765",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/27/nx-s1-5671057/mangrove-fisheries-climate-change-cambodia",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260408_me_these_trees_brought_a_fishery_back_from_the_brink._they_can_help_you_too.mp3?t=progseg&e=nx-s1-5759985&p=3&seg=9&d=289&size=4628107&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5671057",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/26/nx-s1-5760979/trump-offshore-wind-climate-change-energy",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/24/g-s1-114940/asia-boosts-coal-use-as-iran-war-squeezes-global-lng-supplies",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/series/1205445976/middle-east-crisis",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/23/g-s1-114868/trump-totalenergies-offshore-wind-leases",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/sections/energy",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/23/nx-s1-5753761/trump-ev-renewables-oil-prices",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260323_me_how_trump_administration_s_policy_changes_are_affecting_what_we_pay_for_energy.mp3?t=progseg&e=nx-s1-5719513&p=3&seg=8&d=294&size=4712534&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5753761",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/16/nx-s1-5732984/energy-iran-war-solar-pakistan-crisis-renewable-evs",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260316_me_oil_and_gas_prices_are_soaring._some_countries_are_ready_with_solar_panels_and_evs.mp3?t=progseg&e=nx-s1-5709771&p=3&seg=9&d=231&size=3706925&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5732984",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/13/nx-s1-5746783/potomac-sewage-lawsuit",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/13/nx-s1-5736150/deep-sea-mining-impact-critical-minerals",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260314_atc_countries_are_negotiating_deep_sea_mining_rules._the_u.s._is_pushing_ahead_on_its_own.mp3?t=progseg&e=nx-s1-5699979&p=2&seg=3&d=270&size=4332191&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5736150",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/12/nx-s1-5745008/el-nino-summer-2026-forecast-hot",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.324Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260312_atc_el_ni_o_is_set_to_take_hold_this_summer_driving_up_global_temperatures.mp3?t=progseg&e=nx-s1-5702846&p=2&seg=3&d=136&size=2185135&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5745008",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/12/nx-s1-5737287/solar-panels-utilities-energy-saving",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260319_me_easy-to-use_solar_panels_are_coming_but_utilities_are_trying_to_delay_them.mp3?t=progseg&e=nx-s1-5734065&p=3&seg=6&d=231&size=3706089&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5737287",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5734455/home-insurance-risk-disasters-climate-change-extreme-weather",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260311_me_2025_saw_relatively_fewer_natural_disasters._will_you_get_a_break_on_home_insurance.mp3?t=progseg&e=nx-s1-5702968&p=3&seg=4&d=157&size=2525354&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5734455",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5737528/canada-snow-geese-migration",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/sections/animals",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5741796/rising-seas-climate-change-study",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/06/nx-s1-5736593/middle-east-iran-energy-lng",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/02/28/nx-s1-5678603/iran-strikes-oil-energy-markets",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/sections/the-picture-show/2026/02/27/g-s1-111346/madison-wisconsin-frozen-assets-festival",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/02/26/nx-s1-5726431/data-centers-ai-trump-housing-states",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/sections/national",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2026/02/20260222_wesun_democrats_and_republicans_agree_on_one_thing_regulating_the_use_of_ai.mp3?t=progseg&e=nx-s1-5679739&p=10&seg=10&d=418&size=6698676&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5726431",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/02/20/nx-s1-5649474/solar-panel-tax-credit",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/02/20260225_me_tax_credits_for_solar_panels_are_available_but_the_catch_is_you_can_t_own_them.mp3?t=progseg&e=nx-s1-5654746&p=3&seg=14&d=209&size=3349569&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5649474",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/02/23/g-s1-110980/trump-coal-energy-colorado",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/02/20260219_atc_trump_co_coal_plant.mp3?t=progseg&e=nx-s1-5701655&p=2&seg=16&d=216&size=3470360&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/g-s1-110980",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/sections/climate/archive?start=placeholder",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/sections/climate/archive",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/search",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/climate",
+      "addedAt": "2026-04-17T06:43:45.325Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/sections/elections",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
+      "addedAt": "2026-04-17T06:43:47.522Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/people/919091588/ashley-lopez",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
+      "addedAt": "2026-04-17T06:43:47.522Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.archives.gov/electoral-college/about",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
+      "addedAt": "2026-04-17T06:43:47.522Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.vpm.org/elections/2025-11-04/election-2025-democrats-win-spanberger-hashmi-jones-gov-ltgov-ag",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
+      "addedAt": "2026-04-17T06:43:47.522Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/02/22/nx-s1-5707254/power-trump-congress-house-representatives-voters-control",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
+      "addedAt": "2026-04-17T06:43:47.522Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/02/13/nx-s1-5711630/virginia-court-allows-democrats-redistricting-vote-in-their-plan-to-counter-to-trump",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
+      "addedAt": "2026-04-17T06:43:47.522Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/sections/national",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
+      "addedAt": "2026-04-17T06:43:47.523Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.pewresearch.org/short-reads/2024/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
+      "addedAt": "2026-04-17T06:43:47.523Z",
+      "priority": 2
+    },
+    {
+      "url": "https://centerforpolitics.org/crystalball/a-brief-history-of-electoral-college-bias",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
+      "addedAt": "2026-04-17T06:43:47.523Z",
+      "priority": 2
+    },
+    {
+      "url": "https://digitalcommons.law.byu.edu/lawreview/vol2012/iss5/3",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
+      "addedAt": "2026-04-17T06:43:47.523Z",
+      "priority": 2
+    },
+    {
+      "url": "https://journals.law.harvard.edu/jol/2018/10/26/combination-among-the-states-npvic-unconstitutional",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
+      "addedAt": "2026-04-17T06:43:47.523Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/tags/1102507401/voting-stories",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
+      "addedAt": "2026-04-17T06:43:47.523Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/newsletter/politics",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/04/08/nx-s1-5770114/democrats-wisconsin-georgia-election-shift-overperformance-trump",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260409_me_democrats_keep_doing_better_in_elections_since_trump_returned_to_office.mp3?t=progseg&e=nx-s1-5737664&p=3&seg=4&d=222&size=3567326&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5770114",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/04/08/nx-s1-5725279/college-trump-voting-data-probe-voting-registration",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/sections/deep-dive",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_colleges_are_trying_to_boost_student_voting._a_trump_probe_freezes_data_for_that_work.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=16&d=226&size=3618735&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5725279",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/31/nx-s1-5508948/trump-voter-list-mail-ballots-executive-order",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/27/nx-s1-5764266/voter-data-trump-doj-dhs",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/26/nx-s1-5757659/midterms-collins-maine-democrats-platner-mills-senate",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260326_me_hoping_to_unseat_collins_maine_dems_battle_it_out_in_an_expensive_us_senate_primary.mp3?t=progseg&e=nx-s1-5710115&p=3&seg=6&d=201&size=3225436&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5757659",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/23/nx-s1-5742764/evers-wisconsin-redistricting",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260323_atc_wisconsin_s_outgoing_democratic_governor_pushes_for_a_ban_on_gerrymandering.mp3?t=progseg&e=nx-s1-5719556&p=2&seg=11&d=199&size=3191999&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5742764",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/19/nx-s1-5750510/state-save-acts-florida",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/18/nx-s1-5751167/israel-democrats-primaries-polling",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/sections/analysis",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/17/nx-s1-5751169/illinois-primary-ninth-district-daniel-biss-kat-abughazaleh",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/sections/politics",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/17/g-s1-113929/illinois-primary-election-results-2026",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/13/nx-s1-5726873/generational-politics-il-9",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2026/03/20260315_wesun_how_the_democrats_generational_tug-of-war_is_playing_out_in_one_chicago-area_race.mp3?t=progseg&e=nx-s1-5730809&p=10&seg=10&d=325&size=5203636&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/transcripts/nx-s1-5726873",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/13/nx-s1-5745932/texas-primary-democrats-turnout-talarico-crockett",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/11/nx-s1-5743823/voting-poll-national-guard-election-security",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/10/nx-s1-5742711/georgia-special-election-mtg-trump-fuller-moore",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/10/g-s1-112744/mississippi-primary-election-results-2026",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.npr.org/2026/03/09/nx-s1-5742633/arizona-maricopa-county-2020-records-petersen",
+      "depth": 2,
+      "sourceUrl": "https://www.npr.org/sections/elections",
+      "addedAt": "2026-04-17T06:43:49.742Z",
+      "priority": 2
     }
   ],
   "completed": [
@@ -7267,15 +7267,249 @@
     "https://www.npr.org/2026/04/14/nx-s1-5783750/overdose-fentanyl-medetomidine-xylazine",
     "https://www.npr.org/sections/health",
     "https://www.npr.org/2026/04/14/g-s1-117430/doj-biden-weaponization-report",
-    "https://www.npr.org/sections/law"
+    "https://www.npr.org/sections/law",
+    "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
+    "https://www.npr.org/sections/climate",
+    "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
+    "https://www.npr.org/sections/elections",
+    "https://www.npr.org/2026/04/14/nx-s1-5784096/suhas-subramanyam-richard-painter-controversy-congress-resignations",
+    "https://www.npr.org/sections/politics",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_rep._suhas_subramanyam_d-va._on_ethics_and_the_resignations_of_2_congressmen.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=12&d=311&size=4979192&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5784096",
+    "https://www.npr.org/2026/04/14/nx-s1-5783880/jesuit-priest-shares-how-catholics-are-reacting-to-trumps-criticism-of-pope-leo",
+    "https://www.npr.org/sections/religion",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_jesuit_priest_shares_how_catholics_are_reacting_to_trump_s_criticism_of_pope_leo.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=16&d=230&size=3695222&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5783880",
+    "https://www.nepm.org/regional-news/2026-04-14/hampshire-college-announces-closure-effective-this-fall",
+    "https://www.npr.org/sections/planet-money/2026/04/14/g-s1-117075/the-labor-economics-of-alien-and-its-lessons-for-inequality-on-earth",
+    "https://www.npr.org/planet-money-newsletter",
+    "https://www.tpr.org/news/2026-04-13/university-health-in-san-antonio-performs-the-first-7-pair-living-donor-liver-exchange-in-the-nation?utm_source=npr.org&utm_medium=referral&utm_campaign=national_highlight&utm_content=homepage",
+    "https://www.npr.org/2026/04/14/g-s1-117410/deepfake-ai-images-child-sex-abuse",
+    "https://www.npr.org/2026/04/14/nx-s1-5776842/ai-chatbot-comedy-ben-palmer-chatgpt",
+    "http://youraislopbores.me/",
+    "https://www.npr.org/sections/culture",
+    "https://www.wgbh.org/news/local/2026-04-13/immigration-judges-who-ruled-in-ozturk-mahdawi-cases-fired?utm_source=npr.org&utm_medium=referral&utm_campaign=national_highlight&utm_content=homepage",
+    "https://www.npr.org/2026/04/14/nx-s1-5785065/why-hollywood-heavyweights-oppose-the-paramount-and-warner-brothers-deal",
+    "https://www.npr.org/podcasts/510355/considerthis",
+    "https://prfx.byspotify.com/e/play.podtrac.com/npr-510355/npr.simplecastaudio.com/2a4a748e-0a2f-495a-8208-99765f0dad47/episodes/6d1d6f88-df87-4c47-aca8-d7c7f18428fe/audio/128/default.mp3?awCollectionId=2a4a748e-0a2f-495a-8208-99765f0dad47&awEpisodeId=6d1d6f88-df87-4c47-aca8-d7c7f18428fe&feed=4XF9Dp_o&t=podcast&e=nx-s1-5785065&p=510355&d=506&size=8106363&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/2026/04/14/nx-s1-5781219/brain-vision-neurons-imagine-new-things",
+    "https://www.npr.org/sections/science",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/04/20260409_atc_how_the_brain_imagines.mp3?d=224&size=3588642&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/2026/04/14/nx-s1-5784551/lebanon-israel-talks",
+    "https://www.npr.org/series/1205445976/middle-east-crisis",
+    "https://www.npr.org/2026/04/12/g-s1-117045/hezbollah-commander-lebanon-israel",
+    "https://www.npr.org/2026/04/14/nx-s1-5768270/what-to-know-about-section-702-surveillance",
+    "https://www.npr.org/2026/04/13/g-s1-116803/mannequin-pussy-tiny-desk-concert",
+    "https://www.npr.org/lifekit",
+    "https://www.npr.org/2023/10/03/1196977935/save-money-energy-tips",
+    "https://www.npr.org/podcasts/510338/all-guides",
+    "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/d75aa536-e292-4732-8ef2-46c13c98d1ec/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=d75aa536-e292-4732-8ef2-46c13c98d1ec&t=podcast&e=1196977935&p=510338&d=1125&size=18015757&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/1196977935",
+    "https://www.npr.org/2023/07/07/1186405105/what-to-do-when-youre-constipated",
+    "https://media.npr.org/assets/img/2023/07/07/poop_02-a92268489ec96d63148c9153e5e0c81b06d3f855.jpg?s=2600&c=100&f=jpeg",
+    "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/d465a00b-a7f2-4fa1-acb0-1d973efa0773/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=d465a00b-a7f2-4fa1-acb0-1d973efa0773&t=podcast&e=1186405105&p=510338&d=967&size=15570696&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/1186405105",
+    "https://www.npr.org/2022/06/23/1107226998/how-to-deal-with-online-harassment-and-protect-yourself-from-future-attacks",
+    "https://media.npr.org/assets/img/2022/06/23/npr-digital-wave-carlo-cadenas-1a30fbeb9f38ddcc43f768a22fbad6927e878f16.jpg?s=2600&c=100&f=jpeg",
+    "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/3cc38a2d-02b5-4f17-b1af-20049360b566/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=3cc38a2d-02b5-4f17-b1af-20049360b566&t=podcast&e=1107226998&p=510338&d=1212&size=19455603&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/1107226998",
+    "https://www.npr.org/2024/06/26/g-s1-4136/stuck-in-a-rut-how-to-appreciate-your-life-again-according-to-science",
+    "https://npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/bac007f1-b840-4537-9f2e-c80822be7112/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=bac007f1-b840-4537-9f2e-c80822be7112&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/2025/04/08/nx-s1-4964844/harmful-chemicals-skin-care-cosmetics-personal-care-products",
+    "https://npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/f010e869-72fc-45d1-85ce-3d4d3946e2e5/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=f010e869-72fc-45d1-85ce-3d4d3946e2e5&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/sections/health-shots/2023/02/24/1158881773/friendships-at-work-can-boost-happiness-heres-how-to-nurture-them",
+    "https://media.npr.org/assets/img/2023/02/22/finding-connections-in-the-workplace_black-line-final-4285782d958c04bf2c6fb9cac00ecd6738266ba5.jpg?s=2600&c=100&f=jpeg",
+    "https://www.npr.org/sections/health-shots",
+    "https://www.npr.org/2025/08/02/nx-s1-5442506/hard-to-accept-compliments-comic",
+    "https://npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/338b5efe-3fe4-4786-8682-693d656c2ff0/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=338b5efe-3fe4-4786-8682-693d656c2ff0&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/newsletter/life-kit",
+    "https://www.npr.org/2026/04/14/nx-s1-5782043/nexstar-tegna-local-tv-deal-lawsuit-antitrust",
+    "https://www.npr.org/sections/analysis",
+    "https://www.npr.org/sections/media",
+    "https://www.npr.org/2026/04/13/nx-s1-5783657/peter-magyar-hungary-prime-minister-orban-election",
+    "https://www.npr.org/sections/europe",
+    "https://www.npr.org/2026/04/11/nx-s1-5773321/viktor-orban-hungary-hometown",
+    "https://www.npr.org/2026/04/12/nx-s1-5782671/hungary-viktor-orban-concedes-defeat",
+    "https://www.npr.org/2026/04/14/g-s1-117383/fuel-protests-have-irelands-government-facing-possible-no-confidence-vote",
+    "https://www.npr.org/sections/world",
+    "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
+    "https://www.npr.org/2026/04/10/nx-s1-5775780/us-iran-war-israel-satellite-imagery-planet-vantor-censorship",
+    "https://www.npr.org/2026/04/14/nx-s1-5780066/oura-function-wearables-blood-testing-bloodwork",
+    "https://www.npr.org/2026/04/14/g-s1-111652/aziz-abu-sarah-maoz-inon-future-is-peace-book",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/01/20260129_me_two_friends_an_israeli_and_a_palestinian_believe_peace_is_possible_after_war.mp3?d=233&size=3736600&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/podcasts/510317/its-been-a-minute",
+    "https://www.npr.org/2026/04/14/nx-s1-5784001/algorithm-bodies-the-human-need-to-worship-celebrities",
+    "https://www.npr.org/2026/04/14/nx-s1-5783807/after-backlash-trump-deletes-post-depicting-him-as-jesus-like-figure",
+    "https://www.npr.org/sections/national",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_after_backlash_trump_deletes_post_depicting_him_as_jesus-like_figure.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=15&d=216&size=3470778&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5783807",
+    "https://www.npr.org/2026/04/13/nx-s1-5780996/pope-leo-begins-tour-across-africa-row-with-trump-iran-war",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260413_me_pope_leo_stands_firm_with_trump_as_vatican_washington_rift_deepens_over_iran_war.mp3?t=progseg&e=nx-s1-5759517&p=3&seg=2&d=169&size=2709256&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5780996",
+    "https://www.npr.org/2026/04/12/nx-s1-5782636/a-country-by-country-glance-at-pope-leo-xivs-trip-to-africa",
+    "https://www.kcur.org/news/2026-04-13/joplin-police-sniper-who-killed-a-2-year-old-girl-just-became-a-missouri-state-trooper?utm_source=npr.org&utm_medium=referral&utm_campaign=national_highlight&utm_content=homepage",
+    "https://www.tpr.org/government-politics/2026-04-13/texas-congressman-tony-gonzales-says-he-will-resign-amid-sexual-misconduct-allegations",
+    "https://www.npr.org/2026/04/13/nx-s1-5784030/eric-swalwell-resigns-from-congress",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_eric_swalwell_will_resign_from_congress_as_he_faces_backlash_over_assault_allegations.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=9&d=222&size=3562311&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5784030",
+    "https://www.npr.org/2026/04/14/g-s1-117332/uk-report-stabbings-at-dance-class",
+    "https://www.npr.org/2026/04/13/nx-s1-5759287/red-light-therapy-science-skin-hair",
+    "https://www.npr.org/series/g-s1-83811/healthy-or-hype",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260413_me_is_red_light_therapy_healthy_or_all_hype.mp3?t=progseg&e=nx-s1-5759517&p=3&seg=9&d=198&size=3178624&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5759287",
+    "https://www.npr.org/2025/01/15/nx-s1-5217975/the-secret-to-doing-hard-things-and-getting-stuff-done",
+    "https://www.npr.org/2026/04/13/nx-s1-5783924/2026-rock-roll-hall-of-fame-inductees",
+    "https://www.npr.org/music",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_rock_roll_hall_of_fame_s_class_of_2026_includes_phil_collins_oasis_and_sade.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=14&d=167&size=2687522&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://techcrunch.com/events/strictlyvc-san-francisco-2026/?utm_source=tc&utm_medium=ad&utm_campaign=svcsf2026&utm_content=ticketsales&promo=topbanner&display=",
+    "https://techcrunch.com/events/tc-disrupt-2026/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2026&utm_content=seb&promo=topbanner_seb&display=",
+    "https://techcrunch.com/category/security",
+    "https://techcrunch.com/2026/04/14/someone-planted-backdoors-in-dozens-of-wordpress-plugins-used-in-thousands-of-websites",
+    "https://techcrunch.com/author/zack-whittaker",
+    "https://techcrunch.com/category/artificial-intelligence",
+    "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos",
+    "https://techcrunch.com/author/sarah-perez",
+    "https://techcrunch.com/category/biotech-health",
+    "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain",
+    "https://techcrunch.com/author/tim-fernholz",
+    "https://techcrunch.com/2026/04/14/how-the-rewards-app-freecash-scammed-its-way-to-the-top-of-the-app-stores",
+    "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice",
+    "https://techcrunch.com/author/ivan-mehta",
+    "https://techcrunch.com/2026/04/14/youtube-livestreams-will-now-hold-back-ads-during-peak-engagement-to-protect-the-vibe",
+    "https://techcrunch.com/author/aisha-malik",
+    "https://techcrunch.com/2026/04/14/tesla-adds-streaks-and-other-stats-to-track-how-often-drivers-use-full-self-driving-software",
+    "https://techcrunch.com/author/kirsten-korosec",
+    "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts",
+    "https://techcrunch.com/author/connie-loizos",
+    "https://techcrunch.com/latest",
+    "https://techcrunch.com/category/startups",
+    "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report",
+    "https://techcrunch.com/author/julie-bort",
+    "https://techcrunch.com/category/transportation",
+    "https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing",
+    "https://techcrunch.com/category/apps"
   ],
   "failed": [
     {
-      "url": "https://help.npr.org/contact/s/article?name=what-are-the-keyboard-shortcuts-for-using-the-npr-org-audio-player",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_rep._suhas_subramanyam_d-va._on_ethics_and_the_resignations_of_2_congressmen.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=12&d=311&size=4979192&sc=siteplayer&aw_0_1st.playerid=siteplayer",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-16T06:46:56.553Z",
+      "failedAt": "2026-04-17T06:43:56.984Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_jesuit_priest_shares_how_catholics_are_reacting_to_trump_s_criticism_of_pope_leo.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=16&d=230&size=3695222&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:44:06.471Z",
+      "retryCount": 0
+    },
+    {
+      "url": "http://youraislopbores.me/",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:44:25.944Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510355/npr.simplecastaudio.com/2a4a748e-0a2f-495a-8208-99765f0dad47/episodes/6d1d6f88-df87-4c47-aca8-d7c7f18428fe/audio/128/default.mp3?awCollectionId=2a4a748e-0a2f-495a-8208-99765f0dad47&awEpisodeId=6d1d6f88-df87-4c47-aca8-d7c7f18428fe&feed=4XF9Dp_o&t=podcast&e=nx-s1-5785065&p=510355&d=506&size=8106363&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:44:38.089Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/04/20260409_atc_how_the_brain_imagines.mp3?d=224&size=3588642&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:44:44.928Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/d75aa536-e292-4732-8ef2-46c13c98d1ec/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=d75aa536-e292-4732-8ef2-46c13c98d1ec&t=podcast&e=1196977935&p=510338&d=1125&size=18015757&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:45:04.600Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://media.npr.org/assets/img/2023/07/07/poop_02-a92268489ec96d63148c9153e5e0c81b06d3f855.jpg?s=2600&c=100&f=jpeg",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:45:12.006Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/d465a00b-a7f2-4fa1-acb0-1d973efa0773/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=d465a00b-a7f2-4fa1-acb0-1d973efa0773&t=podcast&e=1186405105&p=510338&d=967&size=15570696&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:45:14.808Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://media.npr.org/assets/img/2022/06/23/npr-digital-wave-carlo-cadenas-1a30fbeb9f38ddcc43f768a22fbad6927e878f16.jpg?s=2600&c=100&f=jpeg",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:45:21.877Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/3cc38a2d-02b5-4f17-b1af-20049360b566/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=3cc38a2d-02b5-4f17-b1af-20049360b566&t=podcast&e=1107226998&p=510338&d=1212&size=19455603&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:45:24.740Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/bac007f1-b840-4537-9f2e-c80822be7112/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=bac007f1-b840-4537-9f2e-c80822be7112&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:45:32.768Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/f010e869-72fc-45d1-85ce-3d4d3946e2e5/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=f010e869-72fc-45d1-85ce-3d4d3946e2e5&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:45:38.214Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://media.npr.org/assets/img/2023/02/22/finding-connections-in-the-workplace_black-line-final-4285782d958c04bf2c6fb9cac00ecd6738266ba5.jpg?s=2600&c=100&f=jpeg",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:45:42.797Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/338b5efe-3fe4-4786-8682-693d656c2ff0/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=338b5efe-3fe4-4786-8682-693d656c2ff0&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:45:50.400Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/01/20260129_me_two_friends_an_israeli_and_a_palestinian_believe_peace_is_possible_after_war.mp3?d=233&size=3736600&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:46:23.684Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_after_backlash_trump_deletes_post_depicting_him_as_jesus-like_figure.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=15&d=216&size=3470778&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:46:35.426Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260413_me_pope_leo_stands_firm_with_trump_as_vatican_washington_rift_deepens_over_iran_war.mp3?t=progseg&e=nx-s1-5759517&p=3&seg=2&d=169&size=2709256&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:46:41.957Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_eric_swalwell_will_resign_from_congress_as_he_faces_backlash_over_assault_allegations.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=9&d=222&size=3562311&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:46:56.414Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260413_me_is_red_light_therapy_healthy_or_all_hype.mp3?t=progseg&e=nx-s1-5759517&p=3&seg=9&d=198&size=3178624&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:47:07.707Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_rock_roll_hall_of_fame_s_class_of_2026_includes_phil_collins_oasis_and_sade.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=14&d=167&size=2687522&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-17T06:47:19.021Z",
       "retryCount": 0
     }
   ],
-  "lastUpdated": "2026-04-16T06:47:05.047Z"
+  "lastUpdated": "2026-04-17T06:48:20.405Z"
 }
