@@ -1,8 +1,24 @@
 {
-  "lastUpdated": "2026-04-17T06:48:20.601Z",
-  "totalDays": 3,
+  "lastUpdated": "2026-04-18T06:35:20.400Z",
+  "totalDays": 4,
   "totalSites": 28,
   "dates": [
+    {
+      "date": "2026-04-18",
+      "pageCount": 100,
+      "categories": [
+        "Business",
+        "Technology",
+        "News",
+        "Culture",
+        "Politics",
+        "Entertainment",
+        "Education",
+        "Health",
+        "Science",
+        "Environment"
+      ]
+    },
     {
       "date": "2026-04-17",
       "pageCount": 100,
@@ -53,6 +69,20 @@
   ],
   "sites": [
     {
+      "id": "3adf5f94d36c",
+      "domain": "arstechnica.com",
+      "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
+      "lastCrawled": "2026-04-18",
+      "crawlCount": 2
+    },
+    {
+      "id": "efad13f564f4",
+      "domain": "techcrunch.com",
+      "title": "TechCrunch | Startup and Technology News",
+      "lastCrawled": "2026-04-18",
+      "crawlCount": 3
+    },
+    {
       "id": "37a7d61e3293",
       "domain": "www.tpr.org",
       "title": "University Health in San Antonio performs the first 7-pair, living-donor liver exchange in the nation | TPR",
@@ -88,13 +118,6 @@
       "crawlCount": 1
     },
     {
-      "id": "efad13f564f4",
-      "domain": "techcrunch.com",
-      "title": "TechCrunch | Startup and Technology News",
-      "lastCrawled": "2026-04-17",
-      "crawlCount": 2
-    },
-    {
       "id": "451677206078",
       "domain": "theguardian.com",
       "title": "How to contact the Guardian securely | Information | The Guardian",
@@ -126,13 +149,6 @@
       "id": "2af0325dd2f3",
       "domain": "www.infobae.com",
       "title": "Infobae América - Infobae",
-      "lastCrawled": "2026-04-15",
-      "crawlCount": 1
-    },
-    {
-      "id": "3adf5f94d36c",
-      "domain": "arstechnica.com",
-      "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
       "lastCrawled": "2026-04-15",
       "crawlCount": 1
     },

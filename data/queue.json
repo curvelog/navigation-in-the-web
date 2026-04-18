@@ -1,713 +1,6 @@
 {
   "pending": [
     {
-      "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/category/venture",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/dominic-madori-davis",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/latest/?offset=10",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/events/strictlyvc-san-francisco-2026/?utm_source=tc&utm_medium=ad&utm_campaign=svcsf2026&utm_content=ticketsales&promo=rightrail&display=",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/amanda-silberling",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/anthony-ha",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/10/youtube-premium-youtube-music-subscription-price-increase",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/events",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/events/strictlyvc-san-francisco-2026",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/events/strictlyvc-athens-2026",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/events/techcrunch-disrupt",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/events/techcrunch-disrupt/tickets",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/events/techcrunch-disrupt/exhibit",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/events/techcrunch-founder-summit-2026",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/events/techcrunch-founder-summit-2026/tickets",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/events/techcrunch-founder-summit-2026/exhibit",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/newsletters",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/terms-of-service",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/privacy-policy",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/techcrunch-events",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/marina-temkin",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/video",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/video/why-snowflake-is-no-longer-just-a-data-warehouse",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/video/how-to-handle-layoffs-with-compassion-with-ayal-yogev-anjuna",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/maggie-stamets",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/isabelle-johannessen",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/theresa-loconsolo",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/rebecca-bellan",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/video/are-orbital-data-centers-all-hype-or-an-actual-ai-infrastructure-solution",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/sean-okane",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/video/a-diverse-team-will-make-your-startup-more-successful",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/video/the-new-competition-for-your-cap-table",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/video/hiring-during-hypergrowth-with-isaiah-granet-bland",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/video/how-soap-opera-tiktok-hybrids-became-a-billion-dollar-business",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/video/how-to-fight-with-your-co-founder",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/adobe-fixes-pdf-zero-day-security-bug-that-hackers-have-exploited-for-months",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/fbi-announces-takedown-of-phishing-operation-that-targeted-thousands-of-victims",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/author/lorenzo-franceschi-bicchierai",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/category/commerce",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/instacart-acquires-instaleap-to-expand-its-enterprise-platform-internationally",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/podcasts",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/podcasts/build-mode",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/podcasts/equity",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://techcrunch.com/podcasts/strictlyvc-download",
-      "depth": 1,
-      "sourceUrl": "https://techcrunch.com/",
-      "addedAt": "2026-04-15T06:43:05.138Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/store/product/subscriptions",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/gadgets/2026/04/two-year-old-surface-pcs-get-300-price-hikes-as-sub-1000-models-go-away",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/tech-policy/2026/04/amazon-to-merge-with-globalstar-become-iphones-primary-satellite-provider",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/science/2026/04/physicists-think-theyve-resolved-the-proton-size-puzzle",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/space/2026/04/the-moon-is-already-on-google-maps-did-artemis-ii-really-tell-us-anything-new",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/cars/2026/04/circle-k-partners-with-ionna-to-upgrade-its-ev-charging-experience",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/gaming/2026/04/retro-rewind-re-creates-the-glorious-drudgery-of-working-a-90s-video-store",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/health/2026/04/airport-measles-case-reported-in-idaho-state-with-lowest-vaccination-rate",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/gadgets/2026/04/nzxt-agrees-to-3-45-million-settlement-over-controversial-rental-pc-program",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/tech-policy/2026/04/your-tech-support-company-runs-scams-stop-or-disguise-with-more-fraud",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/culture/2026/04/sunrise-on-the-reaping-teaser-brings-us-a-second-quarter-quell",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/tech-policy/2026/04/ibm-folds-to-trump-anti-dei-push-admits-no-misconduct-but-pays-17m-penalty",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/cars/2026/04/slate-auto-raises-650-million-as-production-gets-closer-and-closer",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
       "url": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
       "depth": 1,
       "sourceUrl": "https://arstechnica.com/",
@@ -6999,6 +6292,713 @@
       "sourceUrl": "https://www.npr.org/sections/elections",
       "addedAt": "2026-04-17T06:43:49.742Z",
       "priority": 2
+    },
+    {
+      "url": "https://www.gettyimages.com/search/2/image?artistexact=picturealliance",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.reddit.com/submit?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F04%2F14%2Fgoogle-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows%2F&title=Google+adds+AI+Skills+to+Chrome+to+help+you+save+favorite+workflows",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2025/05/20/google-is-launching-a-gemini-integration-in-chrome",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2025/10/21/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/tag/ai-prompts",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/tag/chrome",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/tag/chrome-skills",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/tag/gemini",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/tag/google",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://bsky.app/profile/sarahp.bsky.social",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://mastodon.social/@Sarahp",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/events/strictlyvc-san-francisco-2026/?utm_source=tc&utm_medium=ad&utm_campaign=svcsf2026&utm_content=ticketsales&promo=rightrail&display=",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/author/amanda-silberling",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/author/anthony-ha",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+      "addedAt": "2026-04-18T06:31:21.313Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/author/dominic-madori-davis",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/events/strictlyvc-san-francisco-2026",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/author/techcrunch-events",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/author/marina-temkin",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/events/techcrunch-disrupt",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/author/isabelle-johannessen",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/podcast/how-secondary-markets-are-pricing-spacex-openai-and-anthropic-before-they-go-public",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/author/maggie-stamets",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.639Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/category/fundraising",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/author/rebecca-bellan",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/category/hardware",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/video/are-orbital-data-centers-all-hype-or-an-actual-ai-infrastructure-solution",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/author/anthony-ha",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/author/sean-okane",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/podcast/space-the-final-frontier-of-ai-infrastructure",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/podcast/diverse-teams-start-with-diverse-vcs-with-leah-solivan-taskrabbit",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/podcast/why-private-wealth-is-cutting-out-the-vc-middleman",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/author/theresa-loconsolo",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/video/the-new-competition-for-your-cap-table",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/events/strictlyvc-san-francisco-2026/?utm_source=tc&utm_medium=ad&utm_campaign=svcsf2026&utm_content=ticketsales&promo=rightrail&display=",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/author/amanda-silberling",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/category/venture",
+      "addedAt": "2026-04-18T06:31:23.640Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.reddit.com/submit?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F04%2F14%2Ffinancial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z%2F&title=Financial+risk+management+platform+Pillar+raises+%2420M+seed+in+round+led+by+a16z",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/author/dominic-madori-davis",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.pillarhq.com/",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/events/tc-disrupt-2026/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2026&utm_content=tc_inline_eb&promo=tc_inline_eb&display=",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/tag/banking",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/tag/finance",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/tag/trading",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/events/strictlyvc-san-francisco-2026/?utm_source=tc&utm_medium=ad&utm_campaign=svcsf2026&utm_content=ticketsales&promo=rightrail&display=",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/author/amanda-silberling",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/author/anthony-ha",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+      "addedAt": "2026-04-18T06:31:26.051Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
+      "addedAt": "2026-04-18T06:31:28.415Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
+      "addedAt": "2026-04-18T06:31:28.415Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
+      "addedAt": "2026-04-18T06:31:28.415Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
+      "addedAt": "2026-04-18T06:31:28.415Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
+      "addedAt": "2026-04-18T06:31:28.415Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
+      "addedAt": "2026-04-18T06:31:28.415Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
+      "addedAt": "2026-04-18T06:31:28.415Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
+      "addedAt": "2026-04-18T06:31:28.415Z",
+      "priority": 2
+    },
+    {
+      "url": "https://techcrunch.com/category/media-entertainment",
+      "depth": 2,
+      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
+      "addedAt": "2026-04-18T06:31:28.415Z",
+      "priority": 2
     }
   ],
   "completed": [
@@ -7387,129 +7387,108 @@
     "https://techcrunch.com/author/julie-bort",
     "https://techcrunch.com/category/transportation",
     "https://techcrunch.com/2026/04/14/london-gets-closer-to-its-first-robotaxi-service-as-waymo-begins-testing",
-    "https://techcrunch.com/category/apps"
+    "https://techcrunch.com/category/apps",
+    "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
+    "https://techcrunch.com/category/venture",
+    "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
+    "https://techcrunch.com/author/dominic-madori-davis",
+    "https://techcrunch.com/latest/?offset=10",
+    "https://techcrunch.com/events/strictlyvc-san-francisco-2026/?utm_source=tc&utm_medium=ad&utm_campaign=svcsf2026&utm_content=ticketsales&promo=rightrail&display=",
+    "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility",
+    "https://techcrunch.com/author/amanda-silberling",
+    "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else",
+    "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home",
+    "https://techcrunch.com/author/anthony-ha",
+    "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude",
+    "https://techcrunch.com/2026/04/10/france-to-ditch-windows-for-linux-to-reduce-reliance-on-us-tech",
+    "https://techcrunch.com/2026/04/10/youtube-premium-youtube-music-subscription-price-increase",
+    "https://techcrunch.com/2026/04/09/portal-raises-50-million-to-build-a-new-kind-of-high-power-rocket-engine",
+    "https://techcrunch.com/events",
+    "https://techcrunch.com/events/strictlyvc-san-francisco-2026",
+    "https://techcrunch.com/events/strictlyvc-athens-2026",
+    "https://techcrunch.com/events/techcrunch-disrupt",
+    "https://techcrunch.com/events/techcrunch-disrupt/tickets",
+    "https://techcrunch.com/events/techcrunch-disrupt/exhibit",
+    "https://techcrunch.com/events/techcrunch-founder-summit-2026",
+    "https://techcrunch.com/events/techcrunch-founder-summit-2026/tickets",
+    "https://techcrunch.com/events/techcrunch-founder-summit-2026/exhibit",
+    "https://techcrunch.com/newsletters",
+    "https://techcrunch.com/terms-of-service",
+    "https://techcrunch.com/privacy-policy",
+    "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder",
+    "https://techcrunch.com/author/techcrunch-events",
+    "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro",
+    "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge",
+    "https://techcrunch.com/author/marina-temkin",
+    "https://techcrunch.com/video",
+    "https://techcrunch.com/video/why-snowflake-is-no-longer-just-a-data-warehouse",
+    "https://techcrunch.com/video/how-to-handle-layoffs-with-compassion-with-ayal-yogev-anjuna",
+    "https://techcrunch.com/author/maggie-stamets",
+    "https://techcrunch.com/author/isabelle-johannessen",
+    "https://techcrunch.com/author/theresa-loconsolo",
+    "https://techcrunch.com/author/rebecca-bellan",
+    "https://techcrunch.com/video/are-orbital-data-centers-all-hype-or-an-actual-ai-infrastructure-solution",
+    "https://techcrunch.com/author/sean-okane",
+    "https://techcrunch.com/video/a-diverse-team-will-make-your-startup-more-successful",
+    "https://techcrunch.com/video/the-new-competition-for-your-cap-table",
+    "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court",
+    "https://techcrunch.com/video/hiring-during-hypergrowth-with-isaiah-granet-bland",
+    "https://techcrunch.com/video/how-soap-opera-tiktok-hybrids-became-a-billion-dollar-business",
+    "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet",
+    "https://techcrunch.com/video/how-to-fight-with-your-co-founder",
+    "https://techcrunch.com/2026/04/14/adobe-fixes-pdf-zero-day-security-bug-that-hackers-have-exploited-for-months",
+    "https://techcrunch.com/2026/04/13/fbi-announces-takedown-of-phishing-operation-that-targeted-thousands-of-victims",
+    "https://techcrunch.com/author/lorenzo-franceschi-bicchierai",
+    "https://techcrunch.com/2026/04/13/booking-com-confirms-hackers-accessed-customers-data",
+    "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips",
+    "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass",
+    "https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless",
+    "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket",
+    "https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups",
+    "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india",
+    "https://techcrunch.com/category/commerce",
+    "https://techcrunch.com/2026/04/14/instacart-acquires-instaleap-to-expand-its-enterprise-platform-internationally",
+    "https://techcrunch.com/2026/04/14/lucid-motors-names-new-ceo-lands-more-money-from-uber-and-saudis",
+    "https://techcrunch.com/2026/04/13/uber-nuro-san-francisco-testing-premium-robotaxi-service",
+    "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans",
+    "https://techcrunch.com/2026/04/13/microsoft-is-officially-killing-its-outlook-lite-app-next-month",
+    "https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs",
+    "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model",
+    "https://techcrunch.com/podcasts",
+    "https://techcrunch.com/podcasts/build-mode",
+    "https://techcrunch.com/podcasts/equity",
+    "https://techcrunch.com/podcasts/strictlyvc-download",
+    "https://arstechnica.com/store/product/subscriptions",
+    "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain",
+    "https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans",
+    "https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may",
+    "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots",
+    "https://arstechnica.com/gadgets/2026/04/two-year-old-surface-pcs-get-300-price-hikes-as-sub-1000-models-go-away",
+    "https://arstechnica.com/tech-policy/2026/04/amazon-to-merge-with-globalstar-become-iphones-primary-satellite-provider",
+    "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype",
+    "https://arstechnica.com/google/2026/04/google-introduces-skills-in-chrome-to-make-gemini-prompts-instantly-reusable",
+    "https://arstechnica.com/science/2026/04/physicists-think-theyve-resolved-the-proton-size-puzzle",
+    "https://arstechnica.com/space/2026/04/rockets-and-spaceships-are-cool-but-the-humanity-of-artemis-ii-resonated-most",
+    "https://arstechnica.com/gadgets/2026/04/websites-that-hijack-your-back-button-must-stop-by-june-15-or-face-googles-wrath",
+    "https://arstechnica.com/space/2026/04/the-moon-is-already-on-google-maps-did-artemis-ii-really-tell-us-anything-new",
+    "https://arstechnica.com/cars/2026/04/circle-k-partners-with-ionna-to-upgrade-its-ev-charging-experience",
+    "https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer",
+    "https://arstechnica.com/gaming/2026/04/retro-rewind-re-creates-the-glorious-drudgery-of-working-a-90s-video-store",
+    "https://arstechnica.com/health/2026/04/airport-measles-case-reported-in-idaho-state-with-lowest-vaccination-rate",
+    "https://arstechnica.com/gadgets/2026/04/nzxt-agrees-to-3-45-million-settlement-over-controversial-rental-pc-program",
+    "https://arstechnica.com/tech-policy/2026/04/your-tech-support-company-runs-scams-stop-or-disguise-with-more-fraud",
+    "https://arstechnica.com/culture/2026/04/sunrise-on-the-reaping-teaser-brings-us-a-second-quarter-quell",
+    "https://arstechnica.com/tech-policy/2026/04/ibm-folds-to-trump-anti-dei-push-admits-no-misconduct-but-pays-17m-penalty",
+    "https://arstechnica.com/cars/2026/04/slate-auto-raises-650-million-as-production-gets-closer-and-closer",
+    "https://arstechnica.com/ai/2026/04/meta-spins-up-ai-version-of-mark-zuckerberg-to-engage-with-employees",
+    "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing",
+    "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok",
+    "https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here",
+    "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon",
+    "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits",
+    "https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone",
+    "https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem"
   ],
-  "failed": [
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_rep._suhas_subramanyam_d-va._on_ethics_and_the_resignations_of_2_congressmen.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=12&d=311&size=4979192&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:43:56.984Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_jesuit_priest_shares_how_catholics_are_reacting_to_trump_s_criticism_of_pope_leo.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=16&d=230&size=3695222&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:44:06.471Z",
-      "retryCount": 0
-    },
-    {
-      "url": "http://youraislopbores.me/",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:44:25.944Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510355/npr.simplecastaudio.com/2a4a748e-0a2f-495a-8208-99765f0dad47/episodes/6d1d6f88-df87-4c47-aca8-d7c7f18428fe/audio/128/default.mp3?awCollectionId=2a4a748e-0a2f-495a-8208-99765f0dad47&awEpisodeId=6d1d6f88-df87-4c47-aca8-d7c7f18428fe&feed=4XF9Dp_o&t=podcast&e=nx-s1-5785065&p=510355&d=506&size=8106363&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:44:38.089Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/04/20260409_atc_how_the_brain_imagines.mp3?d=224&size=3588642&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:44:44.928Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/d75aa536-e292-4732-8ef2-46c13c98d1ec/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=d75aa536-e292-4732-8ef2-46c13c98d1ec&t=podcast&e=1196977935&p=510338&d=1125&size=18015757&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:45:04.600Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://media.npr.org/assets/img/2023/07/07/poop_02-a92268489ec96d63148c9153e5e0c81b06d3f855.jpg?s=2600&c=100&f=jpeg",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:45:12.006Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/d465a00b-a7f2-4fa1-acb0-1d973efa0773/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=d465a00b-a7f2-4fa1-acb0-1d973efa0773&t=podcast&e=1186405105&p=510338&d=967&size=15570696&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:45:14.808Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://media.npr.org/assets/img/2022/06/23/npr-digital-wave-carlo-cadenas-1a30fbeb9f38ddcc43f768a22fbad6927e878f16.jpg?s=2600&c=100&f=jpeg",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:45:21.877Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510338/npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/3cc38a2d-02b5-4f17-b1af-20049360b566/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=3cc38a2d-02b5-4f17-b1af-20049360b566&t=podcast&e=1107226998&p=510338&d=1212&size=19455603&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:45:24.740Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/bac007f1-b840-4537-9f2e-c80822be7112/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=bac007f1-b840-4537-9f2e-c80822be7112&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:45:32.768Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/f010e869-72fc-45d1-85ce-3d4d3946e2e5/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=f010e869-72fc-45d1-85ce-3d4d3946e2e5&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:45:38.214Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://media.npr.org/assets/img/2023/02/22/finding-connections-in-the-workplace_black-line-final-4285782d958c04bf2c6fb9cac00ecd6738266ba5.jpg?s=2600&c=100&f=jpeg",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:45:42.797Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://npr.simplecastaudio.com/8ae5a040-e346-4b89-ba6b-625f91f1fbd4/episodes/338b5efe-3fe4-4786-8682-693d656c2ff0/audio/128/default.mp3?awCollectionId=8ae5a040-e346-4b89-ba6b-625f91f1fbd4&awEpisodeId=338b5efe-3fe4-4786-8682-693d656c2ff0&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:45:50.400Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/01/20260129_me_two_friends_an_israeli_and_a_palestinian_believe_peace_is_possible_after_war.mp3?d=233&size=3736600&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:46:23.684Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_after_backlash_trump_deletes_post_depicting_him_as_jesus-like_figure.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=15&d=216&size=3470778&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:46:35.426Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260413_me_pope_leo_stands_firm_with_trump_as_vatican_washington_rift_deepens_over_iran_war.mp3?t=progseg&e=nx-s1-5759517&p=3&seg=2&d=169&size=2709256&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:46:41.957Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_eric_swalwell_will_resign_from_congress_as_he_faces_backlash_over_assault_allegations.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=9&d=222&size=3562311&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:46:56.414Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260413_me_is_red_light_therapy_healthy_or_all_hype.mp3?t=progseg&e=nx-s1-5759517&p=3&seg=9&d=198&size=3178624&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:47:07.707Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260414_me_rock_roll_hall_of_fame_s_class_of_2026_includes_phil_collins_oasis_and_sade.mp3?t=progseg&e=nx-s1-5747154&p=3&seg=14&d=167&size=2687522&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-17T06:47:19.021Z",
-      "retryCount": 0
-    }
-  ],
-  "lastUpdated": "2026-04-17T06:48:20.405Z"
+  "failed": [],
+  "lastUpdated": "2026-04-18T06:35:20.255Z"
 }
