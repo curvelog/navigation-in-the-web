@@ -1,0 +1,21 @@
+{
+  "id": "1a7d7b45412e",
+  "domain": "developers.google.com",
+  "baseUrl": "https://developers.google.com",
+  "title": "Introducing a new spam policy for \"back button hijacking\"  |  Google Search Central Blog  |  Google for Developers",
+  "description": "",
+  "firstDiscovered": "2026-04-19",
+  "lastCrawled": "2026-04-19",
+  "crawlCount": 1,
+  "avgSecurityScore": 85,
+  "categories": [
+    "Technology"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-19",
+      "summary": "Pages that are engaging in back button hijacking may be subject to manual spam actions or automated demotions, which can impact the site's performance in Google Search results. Pages that are engaging in back button hijacking may be subject to manual spam actions or automated demotions, which can..."
+    }
+  ],
+  "status": "active"
+}

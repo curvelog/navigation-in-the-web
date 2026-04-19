@@ -1,804 +1,6 @@
 {
   "pending": [
     {
-      "url": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://arstechnica.com/page/2",
-      "depth": 1,
-      "sourceUrl": "https://arstechnica.com/",
-      "addedAt": "2026-04-15T06:43:07.607Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.threads.net/@verge",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.youtube.com/user/theverge",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/rss/index.xml",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/908476/jon-prosser-apple-liquid-glass",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/entertainment/911678/werner-herzog-cave-forgotten-dreams-imax",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/podcast/911605/ben-mckenzie-crypto-cgm-wearables-vergecast",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911503/trump-mobile-t1-phone-redesign-new-website",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/911324/gopro-mission1-pro-action-video-camera-price-specs",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/912202/sony-is-deprecating-some-tv-guide-features-for-2023-2025-bravia-tvs",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.sony.com/electronics/support/articles/00380371",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/911897/gopro-mission-1-pro-action-camera-video",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/910834/neuralink-bcis-bet",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911975/claude-code-redesign-focuses-on-managing-multiple-ai-agents",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://claude.com/blog/claude-code-desktop-redesign",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911906/google-is-cracking-down-on-websites-that-block-your-browsers-back-button",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/transportation/911889/bmw-kills-the-ix-in-the-us-but-is-still-bullish-on-evs",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/bmw/665908/2026-bmw-ix-first-drive-refresh-pricing-specs",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/transportation/882194/america-auto-backwater-ev-loss-detroit-trump-emissions",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/news/770351/bmw-ix3-neue-klasse-ev-range-specs-price",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/transportation/837394/bmw-ix3-first-drive-neue-klasse-specs-price",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.bmwblog.com/2026/04/13/bmw-ix-discontinued-united-states",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/911806/4k-bluray-movie-three-for-33-amazon-deal-sale",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911805/dji-teaser-april-23-announcement-new-lito-x1-drone",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/909320/dji-teaser-april-16-2026-osmo-pocket-4-announcement",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=uUDrb80sXDA",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=upZFxV4ykvw",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://drdrone.ca/blogs/drone-news-drone-help-blog/dji-lito-series-leaks-rumours-and-speculation",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.digitalcameraworld.com/drones/dji-lito-drone-leak-sparks-confusion-is-this-a-mini-replacement-or-something-new",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/911802/snap-ceo-evan-spiegel-meta-ray-ban-glasses",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/column/881744/meta-smart-glasses-facial-recognition-rayban-privacy-wearables",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/policy/886348/meta-glasses-ice-doxxing-privacy",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911617/amazon-globalstar-apple-iphone-watch-satellite-internet",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911623/samsung-galaxy-phones-tablets-price-hike-ram",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/news/911789/eff-google-giving-data-ice-california-new-york",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911784/recently-someone-asked-me-if-silicon-valley-was-still-into-weird-sex-stuff",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.businessinsider.com/locked-in-tech-founders-swearing-off-dating-silicon-valley-2026-1",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.vanityfair.com/news/2018/01/brotopia-silicon-valley-secretive-orgiastic-inner-sanctum",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/874721/epstein-thiel-musk-trump-metoo",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.oaklandreviewofbooks.org/i-was-a-silicon-valley-sex-pet",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/policy/911702/elon-musk-x-money-senator-warren",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/entertainment",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/911719/lg-b5-oled-tv-48-55-inch-best-buy-deal-sale",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911674/dji-osmo-pocket-4-pro-leak-rumor-dual-camera",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/games/911760/roblox-now-has-a-native-ps5-app",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://blog.playstation.com/2026/04/14/an-upgraded-version-of-roblox-launches-on-ps5-today",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/2023/9/8/23863712/roblox-playstation-ps4-ps5-rdc-2023",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911740/gemini-with-personal-intelligence-is-rolling-out-in-more-regions",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911741/google-windows-app-launch",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911532/microsoft-mai-image-2-efficient-model-release",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://microsoft.ai/news/mai-image-2-efficient/?form=M301GN&OCID=CGE_osocial_Copilot_Free_868j8p328",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/897652/microsoft-launched-a-second-generation-version-of-its-ai-image-model",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/games/909926/get-ready-to-visit-to-titanium-court",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.businesswire.com/news/home/20260311934599/en/Titanium-Court-Wins-the-Seumas-McNally-Grand-Prize-HORSES-Receives-the-Nuovo-Award-During-the-28th-Annual-Independent-Games-Festival-Awards-at-the-2026-GDC-Festival-of-Gaming",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2364580%2FTitanium_Court%2F",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/ethics-statement",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/908132/sony-inzone-h6-air-open-back-gaming-headset-hands-on",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/news/907924/sony-inzone-m10s-ii-oled-tandem-gaming-monitor-specs-price-features",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/news/907687/sonys-wireless-gaming-earbuds-now-come-in-transparent-purple",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/2023/10/10/23911238/sony-inzone-buds-gaming-earbuds-h5-price",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.amazon.com/dp/B0GT6GXC7H?tag=theverge02-20",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://bestbuy.7tiv.net/c/482924/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fsony-inzone-buds-truly-wireless-noise-cancelling-gaming-earbuds-perfect-for-ps5-pc-violet%2FJ7XSRH5ZVS%2Fsku%2F6675159",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://electronics.sony.com/audio/gaming-audio/all-inzone-headsets/p/wfg700n-v",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4061057.jpg?quality=90&strip=all",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4061053.jpg?quality=90&strip=all",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4061029.jpg?quality=90&strip=all",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911635/blackmagic-design-davinci-resolve-21-photo-page-raw-support",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/podcast",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/podcast/910443/can-puck-reinvent-the-news-business-for-the-influencer-age",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/podcast/910725/western-electric-500-att-version-history",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.884Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/gadgets/911188/bose-quietcomfort-ultra-earbuds-2nd-gen-turtle-beach-stealth-pivot-deal-sale",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.885Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/911351/samsungs-rgb-led-tv-prices-are-cheaper-than-hisense",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.885Z",
-      "priority": 1
-    },
-    {
-      "url": "https://news.samsung.com/us/samsung-new-standard-color-micro-rgb-tv-lineup",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.885Z",
-      "priority": 1
-    },
-    {
-      "url": "https://howl.link/nerqdiyx5d978",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.885Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review",
-      "depth": 1,
-      "sourceUrl": "https://www.theverge.com/",
-      "addedAt": "2026-04-15T06:43:09.885Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/billboards",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/settings/customization",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/report-abuse?billboard=261443",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8?bb=261443",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/devteam?bb=261443",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e38",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/devteam",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/jess",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/++",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/discuss",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/top7",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
       "url": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
       "depth": 1,
       "sourceUrl": "https://dev.to/",
@@ -6999,6 +6201,804 @@
       "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
       "addedAt": "2026-04-18T06:31:28.415Z",
       "priority": 2
+    },
+    {
+      "url": "https://theintercept.com/2026/04/10/reddit-ice-protest-grand-jury",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
+      "addedAt": "2026-04-19T06:39:36.630Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.law.cornell.edu/uscode/text/19/1509",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
+      "addedAt": "2026-04-19T06:39:36.630Z",
+      "priority": 2
+    },
+    {
+      "url": "https://uscode.house.gov/view.xhtml?path=/prelim@title19/chapter4&edition=prelim",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
+      "addedAt": "2026-04-19T06:39:36.630Z",
+      "priority": 2
+    },
+    {
+      "url": "https://cldc.org/",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
+      "addedAt": "2026-04-19T06:39:36.630Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/tech-policy/2025/10/trump-admin-pressured-facebook-into-removing-ice-tracking-group",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
+      "addedAt": "2026-04-19T06:39:36.630Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.startribune.com/ice-agent-who-fatally-shot-woman-in-minneapolis-is-identified/601560214",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
+      "addedAt": "2026-04-19T06:39:36.630Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/author/jon-brodkin",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
+      "addedAt": "2026-04-19T06:39:36.630Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/civis/threads/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice.1512518",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
+      "addedAt": "2026-04-19T06:39:36.630Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
+      "addedAt": "2026-04-19T06:39:36.630Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/culture/2026/04/ridley-scotts-post-apocalyptic-the-dog-stars-drops-first-trailer",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
+      "addedAt": "2026-04-19T06:39:36.630Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
+      "addedAt": "2026-04-19T06:39:36.630Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
+      "addedAt": "2026-04-19T06:39:36.630Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
+      "addedAt": "2026-04-19T06:39:36.630Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
+      "addedAt": "2026-04-19T06:39:36.630Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
+      "addedAt": "2026-04-19T06:39:38.820Z",
+      "priority": 2
+    },
+    {
+      "url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
+      "addedAt": "2026-04-19T06:39:38.820Z",
+      "priority": 2
+    },
+    {
+      "url": "https://blogs.windows.com/windows-insider/2026/04/10/improving-your-windows-insider-experience",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
+      "addedAt": "2026-04-19T06:39:38.820Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2023/03/new-canary-channel-will-showcase-more-experimental-less-stable-windows-builds",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
+      "addedAt": "2026-04-19T06:39:38.820Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/author/andrew_cunningham",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
+      "addedAt": "2026-04-19T06:39:38.820Z",
+      "priority": 2
+    },
+    {
+      "url": "https://overduepodcast.com/",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
+      "addedAt": "2026-04-19T06:39:38.820Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/civis/threads/microsoft-makes-it-easier-for-windows-insider-testers-to-get-new-features.1512517",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
+      "addedAt": "2026-04-19T06:39:38.820Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
+      "addedAt": "2026-04-19T06:39:38.820Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/culture/2026/04/ridley-scotts-post-apocalyptic-the-dog-stars-drops-first-trailer",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
+      "addedAt": "2026-04-19T06:39:38.820Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
+      "addedAt": "2026-04-19T06:39:38.820Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
+      "addedAt": "2026-04-19T06:39:38.820Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
+      "addedAt": "2026-04-19T06:39:38.820Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
+      "addedAt": "2026-04-19T06:39:38.820Z",
+      "priority": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Bartholomew_and_the_Oobleck",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+      "addedAt": "2026-04-19T06:39:41.275Z",
+      "priority": 2
+    },
+    {
+      "url": "https://journals.aps.org/prl/abstract/10.1103/fyx7-jb1d",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+      "addedAt": "2026-04-19T06:39:41.275Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/science/2023/12/unlocking-the-secrets-of-oobleck-strange-stuff-thats-both-liquid-and-solid",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+      "addedAt": "2026-04-19T06:39:41.275Z",
+      "priority": 2
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Newtonian_fluid",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+      "addedAt": "2026-04-19T06:39:41.275Z",
+      "priority": 2
+    },
+    {
+      "url": "http://dx.doi.org/10.1103/fyx7-jb1d",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+      "addedAt": "2026-04-19T06:39:41.275Z",
+      "priority": 2
+    },
+    {
+      "url": "http://arstechnica.com/science/news/2010/03/dois-and-their-discontents-1.ars",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+      "addedAt": "2026-04-19T06:39:41.275Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/author/jenniferouellette",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+      "addedAt": "2026-04-19T06:39:41.275Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/civis/threads/%E2%80%9Coobleck%E2%80%9D-still-holds-some-surprises.1512516",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+      "addedAt": "2026-04-19T06:39:41.275Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+      "addedAt": "2026-04-19T06:39:41.275Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/culture/2026/04/ridley-scotts-post-apocalyptic-the-dog-stars-drops-first-trailer",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+      "addedAt": "2026-04-19T06:39:41.275Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+      "addedAt": "2026-04-19T06:39:41.275Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+      "addedAt": "2026-04-19T06:39:41.275Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+      "addedAt": "2026-04-19T06:39:41.275Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+      "addedAt": "2026-04-19T06:39:41.275Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2015/10/youtube-red-offers-premium-youtube-for-9-99-a-month-12-99-for-ios-users",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+      "addedAt": "2026-04-19T06:39:43.701Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2023/07/youtube-premium-gets-a-2-price-increase-now-13-99-a-month",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+      "addedAt": "2026-04-19T06:39:43.701Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.reddit.com/r/youtube/comments/1sf8chm/so_it_has_begun",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+      "addedAt": "2026-04-19T06:39:43.701Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.reddit.com/r/youtube/comments/1sf87nq/im_speechless",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+      "addedAt": "2026-04-19T06:39:43.701Z",
+      "priority": 2
+    },
+    {
+      "url": "https://old.reddit.com/r/youtube/comments/1sgsrol/youtube_says_90second_ads_dont_exist_are_you/of7hlh7",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+      "addedAt": "2026-04-19T06:39:43.701Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/author/ryanwhitwam",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+      "addedAt": "2026-04-19T06:39:43.701Z",
+      "priority": 2
+    },
+    {
+      "url": "https://bsky.app/profile/rwhitwam.bsky.social",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+      "addedAt": "2026-04-19T06:39:43.701Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/civis/threads/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug.1512515",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+      "addedAt": "2026-04-19T06:39:43.701Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+      "addedAt": "2026-04-19T06:39:43.701Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/culture/2026/04/ridley-scotts-post-apocalyptic-the-dog-stars-drops-first-trailer",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+      "addedAt": "2026-04-19T06:39:43.701Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+      "addedAt": "2026-04-19T06:39:43.701Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+      "addedAt": "2026-04-19T06:39:43.701Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+      "addedAt": "2026-04-19T06:39:43.701Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+      "addedAt": "2026-04-19T06:39:43.701Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1098/rspb.2025.2369",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus",
+      "addedAt": "2026-04-19T06:39:46.176Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/author/jacek_krywko",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus",
+      "addedAt": "2026-04-19T06:39:46.176Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/civis/threads/oldest-octopus-fossil-found-to-not-be-an-octopus.1512514",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus",
+      "addedAt": "2026-04-19T06:39:46.176Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus",
+      "addedAt": "2026-04-19T06:39:46.176Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/culture/2026/04/ridley-scotts-post-apocalyptic-the-dog-stars-drops-first-trailer",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus",
+      "addedAt": "2026-04-19T06:39:46.176Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus",
+      "addedAt": "2026-04-19T06:39:46.176Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus",
+      "addedAt": "2026-04-19T06:39:46.176Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus",
+      "addedAt": "2026-04-19T06:39:46.176Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus",
+      "addedAt": "2026-04-19T06:39:46.176Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/SteamTracking/SteamTracking/tree/a376b60d49bdd00f18391c17ceb82a8a53c5276b",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/SteamTracking/SteamTracking/blob/a376b60d49bdd00f18391c17ceb82a8a53c5276b/ProtobufsWebui/service_steamgptrenderfarm.proto",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/SteamTracking/SteamTracking/blob/a376b60d49bdd00f18391c17ceb82a8a53c5276b/ProtobufsWebui/service_steamgptsummary.proto",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/SteamTracking/SteamTracking/blob/a376b60d49bdd00f18391c17ceb82a8a53c5276b/ProtobufsWebui/service_steamgpt.proto",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.ibm.com/think/topics/gpt",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://help.steampowered.com/en/faqs/view/2F3F-25EE-2AC6-30E7",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://help.steampowered.com/en/faqs/view/571A-97DA-70E9-FF74",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://help.steampowered.com/en/faqs/view/06B0-26E6-2CF8-254C",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://help.steampowered.com/en/faqs/view/01DE-9E83-B094-313B",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://help.steampowered.com/en/faqs/view/00EF-D679-C76A-C185",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=IPFctkKv6RM",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=aCgxGfVM_d0",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gaming/2024/01/valve-most-games-made-with-ai-tools-are-now-welcome-on-steam",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.totallyhuman.io/blog/the-surprising-new-number-of-genai-games-on-steam",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/author/kyle-orland",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://bossfightbooks.com/collections/books/products/minesweeper-by-kyle-orland",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/civis/threads/what-is-%E2%80%9Csteamgpt%E2%80%9D-leaked-files-point-to-ai-powered-valve-security-review-system.1512513",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/culture/2026/04/ridley-scotts-post-apocalyptic-the-dog-stars-drops-first-trailer",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+      "addedAt": "2026-04-19T06:39:48.618Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/01/nasa-chief-reviews-orion-heat-shield-expresses-full-confidence-in-it-for-artemis-ii",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/author/ericberger",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.harpercollins.com/products/liftoff-eric-berger?variant=32126620205090",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://benbellabooks.com/shop/reentry",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/civis/posts/44362281",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/civis/posts/44362343",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nasa.gov/news-release/nasas-orion-lands-safely-on-two-of-three-parachutes-in-test",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/civis/posts/44362418",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/civis/posts/44362443",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/civis/threads/here%E2%80%99s-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii.1512510",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/culture/2026/04/pro-iran-explosive-media-trolls-trump-with-ai-generated-lego-cartoons",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/culture/2026/04/ridley-scotts-post-apocalyptic-the-dog-stars-drops-first-trailer",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/rocket-report-starship-v3-test-fired-esas-tentative-step-toward-crew-launch",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+      "addedAt": "2026-04-19T06:39:50.799Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/tech-policy/2026/04/fcc-exempts-netgear-from-ban-on-foreign-routers-doesnt-explain-why",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/page/2",
+      "addedAt": "2026-04-19T06:39:53.250Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/04/adobe-takes-creative-cloud-into-claude-code-esque-territory",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/page/2",
+      "addedAt": "2026-04-19T06:39:53.250Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/cars/2026/04/us-jobs-too-important-to-risk-chinese-car-imports-says-ford-ceo",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/page/2",
+      "addedAt": "2026-04-19T06:39:53.250Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/culture/2026/04/good-omens-s3-trailer-sets-up-a-blessed-conclusion",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/page/2",
+      "addedAt": "2026-04-19T06:39:53.250Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/page/2",
+      "addedAt": "2026-04-19T06:39:53.250Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/science/2026/04/desi-completes-its-3d-map-of-universe-right-on-schedule",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/page/2",
+      "addedAt": "2026-04-19T06:39:53.250Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/science/2026/04/whats-the-deal-with-alzheimers-disease-and-amyloid",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/page/2",
+      "addedAt": "2026-04-19T06:39:53.250Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/blue-origin-has-a-new-employee-stock-plan-but-not-everyone-is-happy",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/page/2",
+      "addedAt": "2026-04-19T06:39:53.250Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/culture/2026/04/ridley-scotts-post-apocalyptic-the-dog-stars-drops-first-trailer",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/page/2",
+      "addedAt": "2026-04-19T06:39:53.250Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/space/2026/04/artemis-ii-pilot-describes-landing-in-orion-from-intense-to-pure-elation",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/page/2",
+      "addedAt": "2026-04-19T06:39:53.250Z",
+      "priority": 2
+    },
+    {
+      "url": "https://arstechnica.com/gadgets/2026/04/amazon-wont-release-fire-sticks-that-support-sideloading-anymore",
+      "depth": 2,
+      "sourceUrl": "https://arstechnica.com/page/2",
+      "addedAt": "2026-04-19T06:39:53.250Z",
+      "priority": 2
     }
   ],
   "completed": [
@@ -7487,8 +7487,207 @@
     "https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon",
     "https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits",
     "https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone",
-    "https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem"
+    "https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem",
+    "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
+    "https://arstechnica.com/gadgets/2026/04/microsoft-makes-it-easier-for-windows-insider-testers-to-actually-get-new-features",
+    "https://arstechnica.com/science/2026/04/oobleck-still-holds-some-surprises",
+    "https://arstechnica.com/gadgets/2026/04/youtube-increases-premium-price-again-says-90-second-unskippable-ads-are-a-bug",
+    "https://arstechnica.com/science/2026/04/oldest-octopus-fossil-found-to-not-be-an-octopus",
+    "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system",
+    "https://arstechnica.com/space/2026/04/heres-what-to-expect-from-the-fiery-14-minute-return-of-artemis-ii",
+    "https://arstechnica.com/page/2",
+    "https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation",
+    "https://www.threads.net/@verge",
+    "https://www.youtube.com/user/theverge",
+    "https://www.theverge.com/rss/index.xml",
+    "https://www.theverge.com/tech/908476/jon-prosser-apple-liquid-glass",
+    "https://www.theverge.com/entertainment/911678/werner-herzog-cave-forgotten-dreams-imax",
+    "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+    "https://www.theverge.com/podcast/911605/ben-mckenzie-crypto-cgm-wearables-vergecast",
+    "https://www.theverge.com/tech/911503/trump-mobile-t1-phone-redesign-new-website",
+    "https://www.theverge.com/entertainment/911340/justin-bieber-youtube-coachella",
+    "https://www.theverge.com/gadgets/911324/gopro-mission1-pro-action-video-camera-price-specs",
+    "https://www.theverge.com/tech/912202/sony-is-deprecating-some-tv-guide-features-for-2023-2025-bravia-tvs",
+    "https://www.sony.com/electronics/support/articles/00380371",
+    "https://www.theverge.com/entertainment/912025/godzilla-minus-zero-teaser-trailer",
+    "https://www.theverge.com/tech/912114/microsoft-surface-hub-displays-discontinued",
+    "https://www.theverge.com/gadgets/911897/gopro-mission-1-pro-action-camera-video",
+    "https://www.theverge.com/tech/911888/netgear-router-ban-conditional-approval",
+    "https://www.theverge.com/tech/910834/neuralink-bcis-bet",
+    "https://www.theverge.com/tech/911182/microsoft-xbox-game-pass-too-expensive-leaked-memo",
+    "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+    "https://www.theverge.com/ai-artificial-intelligence/911975/claude-code-redesign-focuses-on-managing-multiple-ai-agents",
+    "https://claude.com/blog/claude-code-desktop-redesign",
+    "https://www.theverge.com/tech/911906/google-is-cracking-down-on-websites-that-block-your-browsers-back-button",
+    "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
+    "https://www.theverge.com/transportation/911889/bmw-kills-the-ix-in-the-us-but-is-still-bullish-on-evs",
+    "https://www.theverge.com/bmw/665908/2026-bmw-ix-first-drive-refresh-pricing-specs",
+    "https://www.theverge.com/transportation/882194/america-auto-backwater-ev-loss-detroit-trump-emissions",
+    "https://www.theverge.com/news/770351/bmw-ix3-neue-klasse-ev-range-specs-price",
+    "https://www.theverge.com/transportation/837394/bmw-ix3-first-drive-neue-klasse-specs-price",
+    "https://www.bmwblog.com/2026/04/13/bmw-ix-discontinued-united-states",
+    "https://www.theverge.com/gadgets/911806/4k-bluray-movie-three-for-33-amazon-deal-sale",
+    "https://www.theverge.com/tech/911805/dji-teaser-april-23-announcement-new-lito-x1-drone",
+    "https://www.theverge.com/tech/909320/dji-teaser-april-16-2026-osmo-pocket-4-announcement",
+    "https://www.youtube.com/watch?v=uUDrb80sXDA",
+    "https://www.youtube.com/watch?v=upZFxV4ykvw",
+    "https://drdrone.ca/blogs/drone-news-drone-help-blog/dji-lito-series-leaks-rumours-and-speculation",
+    "https://www.digitalcameraworld.com/drones/dji-lito-drone-leak-sparks-confusion-is-this-a-mini-replacement-or-something-new",
+    "https://www.theverge.com/gadgets/911802/snap-ceo-evan-spiegel-meta-ray-ban-glasses",
+    "https://www.theverge.com/column/881744/meta-smart-glasses-facial-recognition-rayban-privacy-wearables",
+    "https://www.theverge.com/policy/886348/meta-glasses-ice-doxxing-privacy",
+    "https://www.theverge.com/tech/911617/amazon-globalstar-apple-iphone-watch-satellite-internet",
+    "https://www.theverge.com/games/909344/alienware-aw2726dm-qdoled-240hz-gaming-monitor-affordable-price-specs",
+    "https://www.theverge.com/tech/911623/samsung-galaxy-phones-tablets-price-hike-ram",
+    "https://www.theverge.com/tech/911322/microsoft-surface-price-increase-ram",
+    "https://www.theverge.com/streaming/911793/amazon-prime-video-apple-tv-plus-peacock-bundle",
+    "https://www.theverge.com/news/911789/eff-google-giving-data-ice-california-new-york",
+    "https://www.theverge.com/tech/911784/recently-someone-asked-me-if-silicon-valley-was-still-into-weird-sex-stuff",
+    "https://www.businessinsider.com/locked-in-tech-founders-swearing-off-dating-silicon-valley-2026-1",
+    "https://www.vanityfair.com/news/2018/01/brotopia-silicon-valley-secretive-orgiastic-inner-sanctum",
+    "https://www.theverge.com/tech/874721/epstein-thiel-musk-trump-metoo",
+    "https://www.oaklandreviewofbooks.org/i-was-a-silicon-valley-sex-pet",
+    "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+    "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
+    "https://www.theverge.com/policy/911702/elon-musk-x-money-senator-warren",
+    "https://www.theverge.com/entertainment",
+    "https://www.theverge.com/games/910385/pragmata-review-ps5-xbox-switch-2-pc",
+    "https://www.theverge.com/games/910110/pokemon-champions-bugs-balance-issues-vgc-newcomers",
+    "https://www.theverge.com/gadgets/911719/lg-b5-oled-tv-48-55-inch-best-buy-deal-sale",
+    "https://www.theverge.com/tech/911674/dji-osmo-pocket-4-pro-leak-rumor-dual-camera",
+    "https://www.theverge.com/games/911760/roblox-now-has-a-native-ps5-app",
+    "https://blog.playstation.com/2026/04/14/an-upgraded-version-of-roblox-launches-on-ps5-today",
+    "https://www.theverge.com/2023/9/8/23863712/roblox-playstation-ps4-ps5-rdc-2023",
+    "https://www.theverge.com/tech/911740/gemini-with-personal-intelligence-is-rolling-out-in-more-regions",
+    "https://www.theverge.com/news/861576/google-gemini-ai-personal-intelligence-gmail-search-youtube-photos",
+    "https://www.theverge.com/tech/911741/google-windows-app-launch",
+    "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
+    "https://www.theverge.com/tech",
+    "https://www.theverge.com/tech/911532/microsoft-mai-image-2-efficient-model-release",
+    "https://microsoft.ai/news/mai-image-2-efficient/?form=M301GN&OCID=CGE_osocial_Copilot_Free_868j8p328",
+    "https://www.theverge.com/tech/897652/microsoft-launched-a-second-generation-version-of-its-ai-image-model",
+    "https://www.theverge.com/games/909926/get-ready-to-visit-to-titanium-court",
+    "https://www.businesswire.com/news/home/20260311934599/en/Titanium-Court-Wins-the-Seumas-McNally-Grand-Prize-HORSES-Receives-the-Nuovo-Award-During-the-28th-Annual-Independent-Games-Festival-Awards-at-the-2026-GDC-Festival-of-Gaming",
+    "https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2364580%2FTitanium_Court%2F",
+    "https://www.theverge.com/ethics-statement",
+    "https://www.theverge.com/tech/908132/sony-inzone-h6-air-open-back-gaming-headset-hands-on",
+    "https://www.theverge.com/news/907924/sony-inzone-m10s-ii-oled-tandem-gaming-monitor-specs-price-features",
+    "https://www.theverge.com/news/907687/sonys-wireless-gaming-earbuds-now-come-in-transparent-purple",
+    "https://www.theverge.com/2023/10/10/23911238/sony-inzone-buds-gaming-earbuds-h5-price",
+    "https://www.amazon.com/dp/B0GT6GXC7H?tag=theverge02-20",
+    "https://bestbuy.7tiv.net/c/482924/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fsony-inzone-buds-truly-wireless-noise-cancelling-gaming-earbuds-perfect-for-ps5-pc-violet%2FJ7XSRH5ZVS%2Fsku%2F6675159",
+    "https://www.anrdoezrs.net/links/8836598/type/dlg/https://electronics.sony.com/audio/gaming-audio/all-inzone-headsets/p/wfg700n-v",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4061057.jpg?quality=90&strip=all",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4061053.jpg?quality=90&strip=all",
+    "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4061029.jpg?quality=90&strip=all",
+    "https://www.theverge.com/tech/911635/blackmagic-design-davinci-resolve-21-photo-page-raw-support",
+    "https://www.theverge.com/podcast",
+    "https://www.theverge.com/podcast/910443/can-puck-reinvent-the-news-business-for-the-influencer-age",
+    "https://www.theverge.com/podcast/910725/western-electric-500-att-version-history",
+    "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+    "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
+    "https://www.theverge.com/gadgets/911188/bose-quietcomfort-ultra-earbuds-2nd-gen-turtle-beach-stealth-pivot-deal-sale",
+    "https://www.theverge.com/tech/911351/samsungs-rgb-led-tv-prices-are-cheaper-than-hisense",
+    "https://news.samsung.com/us/samsung-new-standard-color-micro-rgb-tv-lineup",
+    "https://howl.link/nerqdiyx5d978",
+    "https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review",
+    "https://dev.to/billboards",
+    "https://dev.to/settings/customization",
+    "https://dev.to/report-abuse?billboard=261443",
+    "https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8?bb=261443",
+    "https://dev.to/devteam?bb=261443",
+    "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5e38",
+    "https://dev.to/devteam",
+    "https://dev.to/jess",
+    "https://dev.to/++",
+    "https://dev.to/t/discuss",
+    "https://dev.to/t/top7"
   ],
-  "failed": [],
-  "lastUpdated": "2026-04-18T06:35:20.255Z"
+  "failed": [
+    {
+      "url": "https://www.threads.net/@verge",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-19T06:39:57.597Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.theverge.com/rss/index.xml",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-19T06:40:02.228Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.sony.com/electronics/support/articles/00380371",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-19T06:40:20.828Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.oaklandreviewofbooks.org/i-was-a-silicon-valley-sex-pet",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-19T06:41:43.737Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.businesswire.com/news/home/20260311934599/en/Titanium-Court-Wins-the-Seumas-McNally-Grand-Prize-HORSES-Receives-the-Nuovo-Award-During-the-28th-Annual-Independent-Games-Festival-Awards-at-the-2026-GDC-Festival-of-Gaming",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-19T06:43:07.646Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2364580%2FTitanium_Court%2F",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-19T06:43:09.711Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.amazon.com/dp/B0GT6GXC7H?tag=theverge02-20",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-19T06:43:22.704Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://bestbuy.7tiv.net/c/482924/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fsony-inzone-buds-truly-wireless-noise-cancelling-gaming-earbuds-perfect-for-ps5-pc-violet%2FJ7XSRH5ZVS%2Fsku%2F6675159",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-19T06:43:24.821Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://electronics.sony.com/audio/gaming-audio/all-inzone-headsets/p/wfg700n-v",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-19T06:43:26.877Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4061057.jpg?quality=90&strip=all",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-19T06:43:29.489Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4061053.jpg?quality=90&strip=all",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-19T06:43:32.367Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4061029.jpg?quality=90&strip=all",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-19T06:43:35.116Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://news.samsung.com/us/samsung-new-standard-color-micro-rgb-tv-lineup",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-19T06:44:24.234Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://howl.link/nerqdiyx5d978",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-19T06:44:27.361Z",
+      "retryCount": 0
+    }
+  ],
+  "lastUpdated": "2026-04-19T06:44:54.068Z"
 }

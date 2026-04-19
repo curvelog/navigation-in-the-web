@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-04-18T06:35:20.400Z",
-  "totalDays": 4,
-  "totalSites": 28,
+  "lastUpdated": "2026-04-19T06:44:54.236Z",
+  "totalDays": 5,
+  "totalSites": 38,
   "dates": [
+    {
+      "date": "2026-04-19",
+      "pageCount": 100,
+      "categories": [
+        "News",
+        "Technology",
+        "Culture",
+        "Science",
+        "Entertainment",
+        "Business",
+        "Politics"
+      ]
+    },
     {
       "date": "2026-04-18",
       "pageCount": 100,
@@ -69,11 +82,95 @@
   ],
   "sites": [
     {
+      "id": "00e7985e5777",
+      "domain": "www.theverge.com",
+      "title": "The Verge",
+      "lastCrawled": "2026-04-19",
+      "crawlCount": 2
+    },
+    {
+      "id": "1a7d7b45412e",
+      "domain": "developers.google.com",
+      "title": "Introducing a new spam policy for \"back button hijacking\"  |  Google Search Central Blog  |  Google for Developers",
+      "lastCrawled": "2026-04-19",
+      "crawlCount": 1
+    },
+    {
+      "id": "250eacbda3c6",
+      "domain": "www.businessinsider.com",
+      "title": "Meet the Young Tech Founders Just Saying No to Sex and Dating - Business Insider",
+      "lastCrawled": "2026-04-19",
+      "crawlCount": 1
+    },
+    {
       "id": "3adf5f94d36c",
       "domain": "arstechnica.com",
       "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
-      "lastCrawled": "2026-04-18",
+      "lastCrawled": "2026-04-19",
+      "crawlCount": 3
+    },
+    {
+      "id": "48023251c6f1",
+      "domain": "dev.to",
+      "title": "DEV Community",
+      "lastCrawled": "2026-04-19",
       "crawlCount": 2
+    },
+    {
+      "id": "49a252f16350",
+      "domain": "blog.playstation.com",
+      "title": "An upgraded version of Roblox launches on PS5 today – PlayStation.Blog",
+      "lastCrawled": "2026-04-19",
+      "crawlCount": 1
+    },
+    {
+      "id": "6860776e5611",
+      "domain": "www.youtube.com",
+      "title": "The Verge - YouTube",
+      "lastCrawled": "2026-04-19",
+      "crawlCount": 1
+    },
+    {
+      "id": "7393775a6909",
+      "domain": "drdrone.ca",
+      "title": "DJI Lito 1 and X1 Leaks, Rumours, and Speculation - DrDrone.ca",
+      "lastCrawled": "2026-04-19",
+      "crawlCount": 1
+    },
+    {
+      "id": "926a801bc457",
+      "domain": "www.digitalcameraworld.com",
+      "title": "DJI Lito drone leak sparks confusion – is this a Mini replacement or something new? | Digital Camera World",
+      "lastCrawled": "2026-04-19",
+      "crawlCount": 1
+    },
+    {
+      "id": "9bdb3a21d2b3",
+      "domain": "microsoft.ai",
+      "title": "MAI-Image-2-Efficient: Flagship Quality, 41% Lower Cost | Microsoft AI",
+      "lastCrawled": "2026-04-19",
+      "crawlCount": 1
+    },
+    {
+      "id": "ba35b59b5869",
+      "domain": "claude.com",
+      "title": "Redesigning Claude Code on desktop for parallel agents | Claude",
+      "lastCrawled": "2026-04-19",
+      "crawlCount": 1
+    },
+    {
+      "id": "c29004fe78d1",
+      "domain": "www.bmwblog.com",
+      "title": "Exclusive: BMW Is Discontinuing the iX in the U.S. — Here's What Replaces It",
+      "lastCrawled": "2026-04-19",
+      "crawlCount": 1
+    },
+    {
+      "id": "cae57ba11f17",
+      "domain": "www.vanityfair.com",
+      "title": "“Oh My God, This Is So F---ed Up”: Inside Silicon Valley’s Secretive, Orgiastic Dark Side | Vanity Fair",
+      "lastCrawled": "2026-04-19",
+      "crawlCount": 1
     },
     {
       "id": "efad13f564f4",
@@ -132,13 +229,6 @@
       "crawlCount": 2
     },
     {
-      "id": "00e7985e5777",
-      "domain": "www.theverge.com",
-      "title": "The Verge",
-      "lastCrawled": "2026-04-15",
-      "crawlCount": 1
-    },
-    {
       "id": "061bdbf8744e",
       "domain": "www.wikipedia.org",
       "title": "Wikipedia",
@@ -156,13 +246,6 @@
       "id": "3aeb00246038",
       "domain": "github.com",
       "title": "Trending  repositories on GitHub today · GitHub",
-      "lastCrawled": "2026-04-15",
-      "crawlCount": 1
-    },
-    {
-      "id": "48023251c6f1",
-      "domain": "dev.to",
-      "title": "DEV Community",
       "lastCrawled": "2026-04-15",
       "crawlCount": 1
     },
