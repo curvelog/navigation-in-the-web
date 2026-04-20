@@ -1,706 +1,6 @@
 {
   "pending": [
     {
-      "url": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/francistrdev",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/community",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/forem",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/opensource",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/the_nortern_dev/the-emotional-terror-of-closing-a-browser-tab-122k",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/the_nortern_dev",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/webdev",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/productivity",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/humor",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/developerlife",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/serhiip",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/ai",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/llm",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/javascript",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/eyepaq/your-ai-memory-system-cant-tell-a-river-bank-from-a-savings-account-34j",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/eyepaq",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/machinelearning",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/nlp",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/rag",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/robopilingui",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/automation",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/penfieldlabs",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/aimemory",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/wiki",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/obsidian",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/gde",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/xbill",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/ak",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/googleadk",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/gemini",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/a2a",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/kenwalger/the-backyard-quarry-part-5-digital-twins-for-physical-objects-5a9i",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/kenwalger",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/architecture",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/datascience",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/softwareengineering",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/stephen_jarso/confessions-of-a-dev-1i-went-blank-when-asked-whats-an-api-4e5f",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/stephen_jarso",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/programming",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/googleaichallenge",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/_402ccbd6e5cb02871506/shipping-a-go-cli-to-every-ecosystem-github-releases-homebrew-and-npm-5g27",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/_402ccbd6e5cb02871506",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/cli",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/github",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/go",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/npm",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/joehom_sum_e64272f38d9618/why-i-built-tat-a-tiny-api-test-tool-for-real-integration-work-and-fits-with-ai-workflows-4b99",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/joehom_sum_e64272f38d9618",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/testing",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/testdev",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/md8_habibullah/we-had-6-hours-a-dying-api-and-im-ran-rm-rf-we-still-won-gdf",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/md8_habibullah",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/hackathon",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/bangladesh",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/buildinpublic",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/deep_bartaria/building-a-privacy-first-voice-controlled-ai-agent-with-local-llms--15j0",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/deep_bartaria",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/openai",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/whoffagents/what-a-military-entrepreneurship-course-taught-me-about-ai-startups-1h21",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/whoffagents",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/startup",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/entrepreneurship",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/evanlausier/why-build-a-local-mcp-server-and-how-to-do-it-in-15-minutes-1423",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/evanlausier",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/python",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/mcp",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/nareshcn2/bypassing-the-pandas-ram-tax-building-a-zero-copy-csv-extractor-in-c-291l",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/nareshcn2",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/c",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/dataengineering",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/performance",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-agent-skills-and-gemini-cli-4n1h",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/googlecloudrun",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/t/a2aprotocol",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/enter?signup_subforem=1",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://dev.to/enter?signup_subforem=1&state=new-user",
-      "depth": 1,
-      "sourceUrl": "https://dev.to/",
-      "addedAt": "2026-04-15T06:43:12.021Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=ab",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=aa",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=af",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=ak",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=sq",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=am",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=ar",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=an",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=hy",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=as",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=av",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=ae",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=ay",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=az",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=bm",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=ba",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=eu",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=be",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
-      "url": "https://github.com/trending?spoken_language_code=bn",
-      "depth": 1,
-      "sourceUrl": "https://github.com/trending",
-      "addedAt": "2026-04-15T06:43:15.335Z",
-      "priority": 1
-    },
-    {
       "url": "https://github.com/trending?spoken_language_code=bh",
       "depth": 1,
       "sourceUrl": "https://github.com/trending",
@@ -6999,6 +6299,706 @@
       "sourceUrl": "https://arstechnica.com/page/2",
       "addedAt": "2026-04-19T06:39:53.250Z",
       "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/devchallenge",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/geminireflections",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/gemini",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/bash",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/konark_13",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/forem/forem/issues/22902",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/Konarksharma13",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/devteam/welcome-thread-v367-33cn",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/user-attachments/assets/f1400ac9-e5d9-4fe2-b56f-33a82fa89732",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/user-attachments/assets/dcb6f2bb-8579-49d2-babb-c3c2f53ed464",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/forem/forem/pull/22905",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/FrancisTRAlt",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/user-attachments/assets/5bed2ae6-dd05-4c08-998f-33fa6745a893",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/user-attachments/assets/f6e01251-d031-40b5-96ac-787130f697e8",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/user-attachments/assets/8afa3642-1250-4c4d-a931-cc41c6d4efb7",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/user-attachments/assets/bfefdc39-a073-4cef-b687-247143325ef1",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/user-attachments/assets/a7964e7b-905f-430f-822b-e7ded68dcb08",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/user-attachments/assets/5f4cfd2d-5896-48a2-9e98-6293e850d4a0",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/user-attachments/assets/3a843828-ead2-4635-905b-6e9d63150d20",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/ben",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/forem",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/forem/forem",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/forem/forem/actions/workflows/ci.yml",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/forem/forem/actions/workflows/cd.yml",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://camo.githubusercontent.com/8ff45d4371c6a841fba51a46b5839394d54073200ca437804873b8ad9dda0223/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f636f6d6d69742d61637469766974792f772f666f72656d2f666f72656d",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/forem/forem/issues?q=is%3Aissue+is%3Aopen+label%3A%22ready+for+dev%22",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://gitpod.io/",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://forem.com/",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/devteam/for-empowering-community-2k6h",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/settings/response-templates",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/404.html",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/sylwia-lask",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://github.com/forem/forem/pull/23141",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/math-krish",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/itsugo",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/comment/364o4",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/henryaza",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/automate-archit",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/johnnylemonny",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/marina_eremina",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/fajab_aggba_b03d8c8699c66",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/konstellate",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/david_hyland_08f49962a50f",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/leob",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p/comments",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/enter",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/report-abuse",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/enter?signup_subforem=1",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/enter?signup_subforem=1&state=new-user",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+      "addedAt": "2026-04-20T06:51:48.809Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/the-foundation",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/devengers",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/uofstthomasmn",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/community",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/forem",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/opensource",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/monthly-dev-report-march-2026-3ad5",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/devjournal",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/programming",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/beginners",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/howtodevto",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/easypollvote-dev-log-2-4g80",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/easypvdevlog",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/nextjs",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/typescript",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/enter?state=new-user",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/enter",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/easypollvote-dev-log-1-n7j",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/react",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/forem-is-slow-so-i-deleti-mean-optimized-it-bln",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/showdev",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/devchallenge",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/418challenge",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/riddle-me-this-dev-and-mlh-community-259g",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/watercooler",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/writing",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/what-is-your-wpm-words-per-minute-1af7",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/challenge",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/check-up-with-each-other-2ogc",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/wecoded",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/dei",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/career",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/a-great-visual-studio-code-extension-to-help-you-learn-data-structures-visually-5f15",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/vscode",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/python",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/codenewbie",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/geminireflections",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/gemini",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/bash",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/an-app-where-you-can-train-your-own-hand-pose-model-for-your-project-58ib",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/weekendchallenge",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/javascript",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/monthly-dev-report-february-2026-4i1p",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/why-did-you-become-a-developer-57ea",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/t/mentalhealth",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
+    },
+    {
+      "url": "https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p",
+      "depth": 2,
+      "sourceUrl": "https://dev.to/francistrdev",
+      "addedAt": "2026-04-20T06:51:50.891Z",
+      "priority": 2
     }
   ],
   "completed": [
@@ -7601,93 +7601,108 @@
     "https://dev.to/jess",
     "https://dev.to/++",
     "https://dev.to/t/discuss",
-    "https://dev.to/t/top7"
+    "https://dev.to/t/top7",
+    "https://dev.to/francistrdev/the-open-sourcerer-of-forem-beyond-the-ui-4k7p",
+    "https://dev.to/francistrdev",
+    "https://dev.to/t/community",
+    "https://dev.to/t/forem",
+    "https://dev.to/t/opensource",
+    "https://dev.to/the_nortern_dev/the-emotional-terror-of-closing-a-browser-tab-122k",
+    "https://dev.to/the_nortern_dev",
+    "https://dev.to/t/webdev",
+    "https://dev.to/t/productivity",
+    "https://dev.to/t/humor",
+    "https://dev.to/t/developerlife",
+    "https://dev.to/serhiip/things-youre-overengineering-in-your-ai-agent-the-llm-already-handles-them-2lop",
+    "https://dev.to/serhiip",
+    "https://dev.to/t/ai",
+    "https://dev.to/t/llm",
+    "https://dev.to/t/javascript",
+    "https://dev.to/eyepaq/your-ai-memory-system-cant-tell-a-river-bank-from-a-savings-account-34j",
+    "https://dev.to/eyepaq",
+    "https://dev.to/t/machinelearning",
+    "https://dev.to/t/nlp",
+    "https://dev.to/t/rag",
+    "https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280",
+    "https://dev.to/robopilingui",
+    "https://dev.to/t/automation",
+    "https://dev.to/penfieldlabs/what-karpathys-llm-wiki-is-missing-and-how-to-fix-it-1988",
+    "https://dev.to/penfieldlabs",
+    "https://dev.to/t/aimemory",
+    "https://dev.to/t/wiki",
+    "https://dev.to/t/obsidian",
+    "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-azure-aks-and-gemini-cli-231o",
+    "https://dev.to/gde",
+    "https://dev.to/xbill",
+    "https://dev.to/t/ak",
+    "https://dev.to/t/googleadk",
+    "https://dev.to/t/gemini",
+    "https://dev.to/t/a2a",
+    "https://dev.to/kenwalger/the-backyard-quarry-part-5-digital-twins-for-physical-objects-5a9i",
+    "https://dev.to/kenwalger",
+    "https://dev.to/t/architecture",
+    "https://dev.to/t/datascience",
+    "https://dev.to/t/softwareengineering",
+    "https://dev.to/stephen_jarso/confessions-of-a-dev-1i-went-blank-when-asked-whats-an-api-4e5f",
+    "https://dev.to/stephen_jarso",
+    "https://dev.to/t/programming",
+    "https://dev.to/t/googleaichallenge",
+    "https://dev.to/_402ccbd6e5cb02871506/shipping-a-go-cli-to-every-ecosystem-github-releases-homebrew-and-npm-5g27",
+    "https://dev.to/_402ccbd6e5cb02871506",
+    "https://dev.to/t/cli",
+    "https://dev.to/t/github",
+    "https://dev.to/t/go",
+    "https://dev.to/t/npm",
+    "https://dev.to/joehom_sum_e64272f38d9618/why-i-built-tat-a-tiny-api-test-tool-for-real-integration-work-and-fits-with-ai-workflows-4b99",
+    "https://dev.to/joehom_sum_e64272f38d9618",
+    "https://dev.to/t/testing",
+    "https://dev.to/t/testdev",
+    "https://dev.to/md8_habibullah/we-had-6-hours-a-dying-api-and-im-ran-rm-rf-we-still-won-gdf",
+    "https://dev.to/md8_habibullah",
+    "https://dev.to/t/hackathon",
+    "https://dev.to/t/bangladesh",
+    "https://dev.to/t/buildinpublic",
+    "https://dev.to/deep_bartaria/building-a-privacy-first-voice-controlled-ai-agent-with-local-llms--15j0",
+    "https://dev.to/deep_bartaria",
+    "https://dev.to/t/openai",
+    "https://dev.to/whoffagents/what-a-military-entrepreneurship-course-taught-me-about-ai-startups-1h21",
+    "https://dev.to/whoffagents",
+    "https://dev.to/t/startup",
+    "https://dev.to/t/entrepreneurship",
+    "https://dev.to/evanlausier/why-build-a-local-mcp-server-and-how-to-do-it-in-15-minutes-1423",
+    "https://dev.to/evanlausier",
+    "https://dev.to/t/python",
+    "https://dev.to/t/mcp",
+    "https://dev.to/nareshcn2/bypassing-the-pandas-ram-tax-building-a-zero-copy-csv-extractor-in-c-291l",
+    "https://dev.to/nareshcn2",
+    "https://dev.to/t/c",
+    "https://dev.to/t/dataengineering",
+    "https://dev.to/t/performance",
+    "https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-cloud-run-agent-skills-and-gemini-cli-4n1h",
+    "https://dev.to/t/googlecloudrun",
+    "https://dev.to/t/a2aprotocol",
+    "https://dev.to/enter?signup_subforem=1",
+    "https://dev.to/enter?signup_subforem=1&state=new-user",
+    "https://github.com/trending?spoken_language_code=ab",
+    "https://github.com/trending?spoken_language_code=aa",
+    "https://github.com/trending?spoken_language_code=af",
+    "https://github.com/trending?spoken_language_code=ak",
+    "https://github.com/trending?spoken_language_code=sq",
+    "https://github.com/trending?spoken_language_code=am",
+    "https://github.com/trending?spoken_language_code=ar",
+    "https://github.com/trending?spoken_language_code=an",
+    "https://github.com/trending?spoken_language_code=hy",
+    "https://github.com/trending?spoken_language_code=as",
+    "https://github.com/trending?spoken_language_code=av",
+    "https://github.com/trending?spoken_language_code=ae",
+    "https://github.com/trending?spoken_language_code=ay",
+    "https://github.com/trending?spoken_language_code=az",
+    "https://github.com/trending?spoken_language_code=bm",
+    "https://github.com/trending?spoken_language_code=ba",
+    "https://github.com/trending?spoken_language_code=eu",
+    "https://github.com/trending?spoken_language_code=be",
+    "https://github.com/trending?spoken_language_code=bn"
   ],
-  "failed": [
-    {
-      "url": "https://www.threads.net/@verge",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-19T06:39:57.597Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.theverge.com/rss/index.xml",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-19T06:40:02.228Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.sony.com/electronics/support/articles/00380371",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-19T06:40:20.828Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.oaklandreviewofbooks.org/i-was-a-silicon-valley-sex-pet",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-19T06:41:43.737Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.businesswire.com/news/home/20260311934599/en/Titanium-Court-Wins-the-Seumas-McNally-Grand-Prize-HORSES-Receives-the-Nuovo-Award-During-the-28th-Annual-Independent-Games-Festival-Awards-at-the-2026-GDC-Festival-of-Gaming",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-19T06:43:07.646Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://go.skimresources.com/?id=1025X1701640&xs=1&url=https%3A%2F%2Fstore.steampowered.com%2Fapp%2F2364580%2FTitanium_Court%2F",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-19T06:43:09.711Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.amazon.com/dp/B0GT6GXC7H?tag=theverge02-20",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-19T06:43:22.704Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://bestbuy.7tiv.net/c/482924/614286/10014?u=https%3A%2F%2Fwww.bestbuy.com%2Fproduct%2Fsony-inzone-buds-truly-wireless-noise-cancelling-gaming-earbuds-perfect-for-ps5-pc-violet%2FJ7XSRH5ZVS%2Fsku%2F6675159",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-19T06:43:24.821Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.anrdoezrs.net/links/8836598/type/dlg/https://electronics.sony.com/audio/gaming-audio/all-inzone-headsets/p/wfg700n-v",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-19T06:43:26.877Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4061057.jpg?quality=90&strip=all",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-19T06:43:29.489Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4061053.jpg?quality=90&strip=all",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-19T06:43:32.367Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/P4061029.jpg?quality=90&strip=all",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-19T06:43:35.116Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://news.samsung.com/us/samsung-new-standard-color-micro-rgb-tv-lineup",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-19T06:44:24.234Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://howl.link/nerqdiyx5d978",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-19T06:44:27.361Z",
-      "retryCount": 0
-    }
-  ],
-  "lastUpdated": "2026-04-19T06:44:54.068Z"
+  "failed": [],
+  "lastUpdated": "2026-04-20T06:55:24.347Z"
 }

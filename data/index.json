@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-04-19T06:44:54.236Z",
-  "totalDays": 5,
+  "lastUpdated": "2026-04-20T06:55:24.477Z",
+  "totalDays": 6,
   "totalSites": 38,
   "dates": [
+    {
+      "date": "2026-04-20",
+      "pageCount": 100,
+      "categories": [
+        "Technology",
+        "Science",
+        "Culture",
+        "Health",
+        "Education",
+        "News",
+        "Business"
+      ]
+    },
     {
       "date": "2026-04-19",
       "pageCount": 100,
@@ -82,6 +95,20 @@
   ],
   "sites": [
     {
+      "id": "3aeb00246038",
+      "domain": "github.com",
+      "title": "Trending  repositories on GitHub today · GitHub",
+      "lastCrawled": "2026-04-20",
+      "crawlCount": 2
+    },
+    {
+      "id": "48023251c6f1",
+      "domain": "dev.to",
+      "title": "DEV Community",
+      "lastCrawled": "2026-04-20",
+      "crawlCount": 3
+    },
+    {
       "id": "00e7985e5777",
       "domain": "www.theverge.com",
       "title": "The Verge",
@@ -108,13 +135,6 @@
       "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
       "lastCrawled": "2026-04-19",
       "crawlCount": 3
-    },
-    {
-      "id": "48023251c6f1",
-      "domain": "dev.to",
-      "title": "DEV Community",
-      "lastCrawled": "2026-04-19",
-      "crawlCount": 2
     },
     {
       "id": "49a252f16350",
@@ -239,13 +259,6 @@
       "id": "2af0325dd2f3",
       "domain": "www.infobae.com",
       "title": "Infobae América - Infobae",
-      "lastCrawled": "2026-04-15",
-      "crawlCount": 1
-    },
-    {
-      "id": "3aeb00246038",
-      "domain": "github.com",
-      "title": "Trending  repositories on GitHub today · GitHub",
       "lastCrawled": "2026-04-15",
       "crawlCount": 1
     },
