@@ -1,8 +1,18 @@
 {
-  "lastUpdated": "2026-04-20T06:55:24.477Z",
-  "totalDays": 6,
+  "lastUpdated": "2026-04-21T06:48:23.726Z",
+  "totalDays": 7,
   "totalSites": 38,
   "dates": [
+    {
+      "date": "2026-04-21",
+      "pageCount": 100,
+      "categories": [
+        "Technology",
+        "Science",
+        "Culture",
+        "News"
+      ]
+    },
     {
       "date": "2026-04-20",
       "pageCount": 100,
@@ -98,7 +108,14 @@
       "id": "3aeb00246038",
       "domain": "github.com",
       "title": "Trending  repositories on GitHub today · GitHub",
-      "lastCrawled": "2026-04-20",
+      "lastCrawled": "2026-04-21",
+      "crawlCount": 3
+    },
+    {
+      "id": "7830408a0d0c",
+      "domain": "www.nature.com",
+      "title": "Nature",
+      "lastCrawled": "2026-04-21",
       "crawlCount": 2
     },
     {
@@ -266,13 +283,6 @@
       "id": "53229341d3c6",
       "domain": "data.gov",
       "title": "Data.gov Home - Data.gov",
-      "lastCrawled": "2026-04-15",
-      "crawlCount": 1
-    },
-    {
-      "id": "7830408a0d0c",
-      "domain": "www.nature.com",
-      "title": "Nature",
       "lastCrawled": "2026-04-15",
       "crawlCount": 1
     },
