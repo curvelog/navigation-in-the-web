@@ -1,0 +1,21 @@
+{
+  "id": "b71fa94e6c56",
+  "domain": "digital.gov",
+  "baseUrl": "https://digital.gov",
+  "title": "Data.gov launches metrics tools | Digital.gov",
+  "description": "New Data.gov metrics dashboard provides information on most visited datasets, most downloaded files, most clicked outbound links, top search terms, and more.",
+  "firstDiscovered": "2026-04-22",
+  "lastCrawled": "2026-04-22",
+  "crawlCount": 1,
+  "avgSecurityScore": 80,
+  "categories": [
+    "News"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-22",
+      "summary": "You can also view and download the number of data harvest sources for each organization in descending order.Organization-specific pagesFrom the metrics landing page, you can search for any particular organization. You can also view and download the number of data harvest sources for each organiza..."
+    }
+  ],
+  "status": "active"
+}

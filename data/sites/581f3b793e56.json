@@ -1,0 +1,23 @@
+{
+  "id": "581f3b793e56",
+  "domain": "dx.doi.org",
+  "baseUrl": "https://dx.doi.org",
+  "title": "Scientists invented a fake disease. AI told people it was real",
+  "description": "Bixonimania doesn’t exist except in a clutch of obviously bogus academic papers. So why did AI chatbots warn people about this fictional illness?",
+  "firstDiscovered": "2026-04-22",
+  "lastCrawled": "2026-04-22",
+  "crawlCount": 1,
+  "avgSecurityScore": 50,
+  "categories": [
+    "Science",
+    "News",
+    "Culture"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-22",
+      "summary": "But if, in the past 18 months, you typed those symptoms into a range of popular chatbots and asked what was wrong with you, you might have got an odd answer: bixonimania.AI models that lie, cheat and plot murder: how dangerous are LLMs really?The condition doesn’t appear in the standard medical l... | Following GLP1 treatment, participants reported having lost a median of 4.1 kg m−2 units of BMI (or 11.3 kg of weight), equivalent to a median of 11.7% of pre-treatment weight. Participants reported greater BMI loss using tirzepatide compared with semaglutide (median 4.75 versus 3.71 kg m−2; P = ... | Here we analyse recovery trajectories across trophic levels including 16 taxonomic groups from three kingdoms in a lowland tropical forest by investigating resistance to perturbation, recovery times and return rates to old-growth forest conditions. 1: Quantifying resistance, return rates and reco... | Satellite imagery reveals increasing volatility in human night-time activity Download PDF Download PDF Subjects Environmental impactInterdisciplinary studiesOptical sensors AbstractArtificial light at night (ALAN) marks the global impact of humanity1,2. Here, using daily night-time satellite imag..."
+    }
+  ],
+  "status": "active"
+}

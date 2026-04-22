@@ -1,0 +1,22 @@
+{
+  "id": "75c8dde10198",
+  "domain": "resources.data.gov",
+  "baseUrl": "https://resources.data.gov",
+  "title": "Home | resources.data.gov",
+  "description": "Resources.data.gov is an online repository of policies, tools, case studies and other resources to support data governance, management, and use throughout the federal government",
+  "firstDiscovered": "2026-04-22",
+  "lastCrawled": "2026-04-22",
+  "crawlCount": 1,
+  "avgSecurityScore": 80,
+  "categories": [
+    "Technology",
+    "Culture"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-22",
+      "summary": "Resources.data.gov is an online repository of policies, tools, case studies, and other resources to support data governance, management, exchange, and use throughout the federal government Learn more about this repository Featured Resource DCAT-US Schema v1.1 (Project Open Data Metadata Schema) H... | Source opengovdata.org Keywords open data Assessing Data Skills Playbook The Assessing Data Skills Playbook supports the Federal Data Strategy by helping agencies get started with assessing data skills. Source Federal Data Strategy Keywords data ethics, framework, Federal Data Strategy Format PDF... | Source ckan.org Keywords data schema, data management, data inventory, open data CSV to API The CSV to API tool dynamically generates RESTful APIs from static CSVs. Source Tabula Keywords data cleaning inventory.data.gov Inventory.data.gov is a tool for federal agencies to create and publish meta... | Source General Services Administration Keywords data analytics, data analysis, workforce Challenge.gov Challenge.gov allows Federal agencies to crowdsource ideas from the public and solves problems. Source General Services Administration Keywords workforce Technology Modernization Fund The Techno... | Source Office of Management and Budget Keywords data standards, PRA Format PDF (100 pages) Guidance on Privacy Act Implications of “Call Detail” Programs Pursuant to its responsibilities under section 6 of the Privacy Act of 1974, OMB developed guidance on how the recordkeeping provisions of that... | Source Federal Emergency Management Agency Keywords data sharing Federal CDO Data Skills Training Program Case Studies This series was developed by the Chief Data Officer Council’s Data Skills & Workforce Development Working Group to provide support to agencies in implementing the Federal Data St... | Skills development Guides, tutorials, and personnel-related resources to build and develop a data-savvy workforce CDO Playbook - Advancing the Federal Data Strategy The CDO Playbook is an iterative document that explores and defines the evolution of the federal CDO role. Source Federal Data Strat..."
+    }
+  ],
+  "status": "active"
+}

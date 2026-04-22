@@ -1,0 +1,21 @@
+{
+  "id": "eb048e6eef4f",
+  "domain": "catalog-beta.data.gov",
+  "baseUrl": "https://catalog-beta.data.gov",
+  "title": "Catalog - Data.gov",
+  "description": "The Home of the U.S. Government's Open Data",
+  "firstDiscovered": "2026-04-22",
+  "lastCrawled": "2026-04-22",
+  "crawlCount": 1,
+  "avgSecurityScore": 100,
+  "categories": [
+    "Education"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-22",
+      "summary": "csv json rdf xml Search relevance: 1.00 | Views last month: 3700 | Published on: 2025-08-08 #5 Federal JPL Small Body Database Browser Organization: National Aeronautics and Space Administration Updated: 2025-03-31 The JPL Small-Body Database Browser provides data for all known asteroids and many..."
+    }
+  ],
+  "status": "active"
+}

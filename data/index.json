@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-04-21T06:48:23.726Z",
-  "totalDays": 7,
-  "totalSites": 38,
+  "lastUpdated": "2026-04-22T06:48:23.749Z",
+  "totalDays": 8,
+  "totalSites": 45,
   "dates": [
+    {
+      "date": "2026-04-22",
+      "pageCount": 100,
+      "categories": [
+        "Culture",
+        "Science",
+        "News",
+        "Technology",
+        "Health",
+        "Environment",
+        "Education",
+        "Politics"
+      ]
+    },
     {
       "date": "2026-04-21",
       "pageCount": 100,
@@ -105,18 +119,81 @@
   ],
   "sites": [
     {
-      "id": "3aeb00246038",
-      "domain": "github.com",
-      "title": "Trending  repositories on GitHub today · GitHub",
-      "lastCrawled": "2026-04-21",
-      "crawlCount": 3
+      "id": "060cd6965ba8",
+      "domain": "subscription.newscientist.com",
+      "title": "New Scientist Magazine Subscriptions - Subscribe to New Scientist magazine in print or digital subscriptions are available for tablets, smartphones and website access",
+      "lastCrawled": "2026-04-22",
+      "crawlCount": 1
+    },
+    {
+      "id": "4c265650ed6b",
+      "domain": "catalog.data.gov",
+      "title": "Catalog - Data.gov",
+      "lastCrawled": "2026-04-22",
+      "crawlCount": 1
+    },
+    {
+      "id": "53229341d3c6",
+      "domain": "data.gov",
+      "title": "Data.gov Home - Data.gov",
+      "lastCrawled": "2026-04-22",
+      "crawlCount": 2
+    },
+    {
+      "id": "581f3b793e56",
+      "domain": "dx.doi.org",
+      "title": "Scientists invented a fake disease. AI told people it was real",
+      "lastCrawled": "2026-04-22",
+      "crawlCount": 1
+    },
+    {
+      "id": "75c8dde10198",
+      "domain": "resources.data.gov",
+      "title": "Home | resources.data.gov",
+      "lastCrawled": "2026-04-22",
+      "crawlCount": 1
     },
     {
       "id": "7830408a0d0c",
       "domain": "www.nature.com",
       "title": "Nature",
-      "lastCrawled": "2026-04-21",
+      "lastCrawled": "2026-04-22",
+      "crawlCount": 3
+    },
+    {
+      "id": "87a3289dfb1a",
+      "domain": "www.newscientist.com",
+      "title": "New Scientist | Science news, articles, and features",
+      "lastCrawled": "2026-04-22",
       "crawlCount": 2
+    },
+    {
+      "id": "9e2521424a3b",
+      "domain": "strategy.data.gov",
+      "title": "Welcome - Federal Data Strategy",
+      "lastCrawled": "2026-04-22",
+      "crawlCount": 1
+    },
+    {
+      "id": "b71fa94e6c56",
+      "domain": "digital.gov",
+      "title": "Data.gov launches metrics tools | Digital.gov",
+      "lastCrawled": "2026-04-22",
+      "crawlCount": 1
+    },
+    {
+      "id": "eb048e6eef4f",
+      "domain": "catalog-beta.data.gov",
+      "title": "Catalog - Data.gov",
+      "lastCrawled": "2026-04-22",
+      "crawlCount": 1
+    },
+    {
+      "id": "3aeb00246038",
+      "domain": "github.com",
+      "title": "Trending  repositories on GitHub today · GitHub",
+      "lastCrawled": "2026-04-21",
+      "crawlCount": 3
     },
     {
       "id": "48023251c6f1",
@@ -280,13 +357,6 @@
       "crawlCount": 1
     },
     {
-      "id": "53229341d3c6",
-      "domain": "data.gov",
-      "title": "Data.gov Home - Data.gov",
-      "lastCrawled": "2026-04-15",
-      "crawlCount": 1
-    },
-    {
       "id": "7caff9e64d56",
       "domain": "news.ycombinator.com",
       "title": "Hacker News",
@@ -304,13 +374,6 @@
       "id": "80f6f8bfe1fc",
       "domain": "www.colino.net",
       "title": "PCBWay sponsorship: full-size SD module for Arduino projects – colin@colino.net",
-      "lastCrawled": "2026-04-15",
-      "crawlCount": 1
-    },
-    {
-      "id": "87a3289dfb1a",
-      "domain": "www.newscientist.com",
-      "title": "New Scientist | Science news, articles, and features",
       "lastCrawled": "2026-04-15",
       "crawlCount": 1
     },

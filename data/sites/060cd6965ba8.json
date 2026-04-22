@@ -1,0 +1,21 @@
+{
+  "id": "060cd6965ba8",
+  "domain": "subscription.newscientist.com",
+  "baseUrl": "https://subscription.newscientist.com",
+  "title": "New Scientist Magazine Subscriptions - Subscribe to New Scientist magazine in print or digital subscriptions are available for tablets, smartphones and website access",
+  "description": "",
+  "firstDiscovered": "2026-04-22",
+  "lastCrawled": "2026-04-22",
+  "crawlCount": 1,
+  "avgSecurityScore": 65,
+  "categories": [
+    "Technology"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-22",
+      "summary": "You are already logged in Manage your subscription"
+    }
+  ],
+  "status": "active"
+}

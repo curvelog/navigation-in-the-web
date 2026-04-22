@@ -1,748 +1,6 @@
 {
   "pending": [
     {
-      "url": "https://www.nature.com/articles/d41586-026-01037-2",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/articles/s41586-026-10277-1",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/nature/research-articles",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/articles/s41586-026-10324-x",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/articles/s41586-026-10493-9",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/articles/s41586-026-10482-y",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/articles/s41586-026-10486-8",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/articles/s41586-026-10339-4",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/nature/collections",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/collections/jajheedahd",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "http://dx.doi.org/10.1038/d41586-026-01100-y",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "http://dx.doi.org/10.1038/s41586-026-10330-z",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "http://dx.doi.org/10.1038/s41586-026-10365-2",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "http://dx.doi.org/10.1038/s41586-026-10260-w",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/naturecareers/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/naturecareers/job/12858407/associate-or-senior-editor-nature-communications-cardiovascular-biology-and-disease-/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/naturecareers/job/12853206/senior-amo-physicist/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/naturecareers/job/12853184/head-of-quantum-hardware/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/naturecareers/job/12858388/postdoc-systems-neuroscience-in-neurodegeneration/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/naturecareers/job/12858375/open-research-support-intern/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/info/privacy",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/search/advanced",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/subjects",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/naturecareers",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/authors/index.html",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.nature.com/authors/editorial_policies",
-      "depth": 1,
-      "sourceUrl": "https://www.nature.com/",
-      "addedAt": "2026-04-15T06:43:19.164Z",
-      "priority": 1
-    },
-    {
-      "url": "https://subscription.newscientist.com/packages/p/cms/TB?",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.893Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2521774-how-autoimmune-conditions-can-unexpectedly-drive-mental-illness",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.893Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2522884-from-autism-to-migraines-birth-order-may-have-wide-reaching-effects",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.893Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2520451-my-life-as-a-meteorologist-in-chernobyl-under-russian-occupation",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/sign-up",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2523034-is-a-super-el-nino-imminent-and-what-could-the-impacts-be",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2522111-beef-is-making-a-comeback-does-it-fit-into-a-healthy-diet",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2522913-are-neanderthals-descendants-of-modern-humans",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2523048-the-stunning-physics-of-project-hail-mary-go-back-to-ancient-china",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2522944-antioxidant-in-mushrooms-may-target-uterus-cells-to-ease-period-pain",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2522615-quantum-computers-could-usher-in-a-crisis-worse-than-y2k",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/tours/mysteries-universe-cheshire",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2520435-the-man-who-crawls-into-the-perilous-heart-of-the-chernobyl-reactor",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/section/news",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2520367-exclusive-report-inside-chernobyl-40-years-after-nuclear-disaster",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2519026-a-once-fantastical-collider-could-answer-physics-biggest-mysteries",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2519667-the-profound-effect-the-heart-brain-connection-has-on-your-health",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2520742-plug-in-solar-is-coming-how-dangerous-is-it-and-is-it-worth-it",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2518470-forget-the-multiverse-in-the-pluriverse-we-create-reality-together",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2516419-frailty-sets-in-far-earlier-than-youd-expect-but-you-can-reverse-it",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/issue/3590",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/subject/physics",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2520573-were-solving-the-fundamental-mystery-of-how-reality-is-glued-together",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/subject/mind",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2520604-i-dont-see-images-in-my-head-can-training-give-me-a-minds-eye",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/subject/environment",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/subject/chemistry",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2521037-the-weird-physics-of-plant-based-milks-is-only-just-coming-to-light",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.899Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/issues",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2515260-the-surprising-origins-of-britains-bronze-age-immigrants-revealed",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2502872-ancient-dna-may-rewrite-the-story-of-icelands-earliest-settlers",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2506343-was-a-little-known-culture-in-bronze-age-turkey-a-major-power",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2468525-pompeiis-streets-show-how-the-city-adapted-to-roman-rule",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2522770-a-key-solution-to-climate-change-isnt-happening-and-thats-good",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2522765-collapse-of-key-ocean-current-may-release-billions-of-tonnes-of-carbon",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2522701-modern-living-may-be-causing-big-changes-to-our-oestrogen-levels",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2522324-particles-seen-emerging-from-empty-space-for-first-time",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2519999-the-invisibility-cloak-inventor-now-has-better-tricks-up-his-sleeve",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2519611-oceans-are-darkening-all-over-the-planet-whats-going-on",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2519666-how-working-out-like-an-astronaut-can-reduce-back-pain-and-slow-ageing",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2519003-the-shocking-fossils-that-show-t-rex-wasnt-the-king-of-the-dinosaurs",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/science-events/stargazing-through-time-how-astronomys-past-present-and-future-shape-our-view-of-the-cosmos",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/tours/marine-biology-svalbard-arctic-expedition-cruise-norway",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/science-events/unfinished-business-how-do-we-end-hiv",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/podcasts/genetic-analysis-reveals-how-the-neanderthals-went-extinct",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/podcasts/the-future-of-humanity-decoded-in-london",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/podcasts/the-male-g-spot-has-finally-been-found",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/podcasts",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/video/2522085-we-might-be-wrong-about-humanitys-near-extinction",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/video/2521695-cern-upgrade-inside-the-worlds-largest-scientific-experiment",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/video/2521250-we-did-not-evolve-alone-the-story-of-our-origins",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/video/2520977-why-prime-numbers-might-not-be-random-after-all",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/video/2519746-professor-daisy-fancourt-on-the-life-changing-power-of-the-arts",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/video/2519939-what-we-still-get-wrong-about-dinosaurs",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2520864-how-geophysicists-are-reverse-engineering-the-earth",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2517346-can-humanity-find-a-place-in-the-rewired-world",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/article/2515222-uk-spanish-partnerships-are-solving-pharmas-toughest-challenges",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.newscientist.com/podcasts/how-uk-and-spanish-scientists-are-reimagining-the-future-of-green-pharma",
-      "depth": 1,
-      "sourceUrl": "https://www.newscientist.com/",
-      "addedAt": "2026-04-15T06:43:23.900Z",
-      "priority": 1
-    },
-    {
-      "url": "https://catalog-beta.data.gov/",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://catalog.data.gov/dataset?q=&sort=views_recent+desc",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://catalog.data.gov/dataset?q=&sort=metadata_created+desc",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://catalog.data.gov/organization",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://catalog.data.gov/dataset/?metadata_type=geospatial",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://data.gov/about",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://data.gov/timeline",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://catalog.data.gov/",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://data.gov/metrics",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://digital.gov/2024/09/13/datagov-launches-metrics-tools",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://data.gov/user-guide",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://resources.data.gov/",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://resources.data.gov/categories/data-management-governance",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://resources.data.gov/categories/data-tools",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://resources.data.gov/categories/data-incubator",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://resources.data.gov/categories/guidance",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://resources.data.gov/categories/case-studies-examples",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://resources.data.gov/categories/skills-development",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://strategy.data.gov/",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://strategy.data.gov/2021/action-plan",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://strategy.data.gov/2020/action-plan",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://strategy.data.gov/2021/progress",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
       "url": "https://strategy.data.gov/2020/progress",
       "depth": 1,
       "sourceUrl": "https://data.gov/",
@@ -6999,6 +6257,748 @@
       "sourceUrl": "https://github.com/trending?spoken_language_code=bi",
       "addedAt": "2026-04-21T06:44:00.898Z",
       "priority": 2
+    },
+    {
+      "url": "https://bsky.app/intent/compose?text=Mapping+the+maternal%E2%80%93fetal+interface+through+pregnancy+in+high+resolution%20https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-026-01037-2",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.reddit.com/submit?title=Mapping+the+maternal%E2%80%93fetal+interface+through+pregnancy+in+high+resolution&url=https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-026-01037-2",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://wa.me/?text=Mapping+the+maternal%E2%80%93fetal+interface+through+pregnancy+in+high+resolution%20https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-026-01037-2",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://wayf.springernature.com/?redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fd41586-026-01037-2",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/s41586-026-10316-x",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://shop-amers.nature.com/products/plus/?region=US",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-026-01037-2.epdf?no_publisher_access=1&r3_referer=nature",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.ajog.2015.08.042",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26428489",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=&journal=Am.%20J.%20Obstet.%20Gynecol.&doi=10.1016%2Fj.ajog.2015.08.042&volume=213&pages=S115-S122&publication_year=2015&author=Fisher%2CS.%20J.",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1146%2Fannurev-cellbio-100814-125620",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26443191",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=&journal=Annu.%20Rev.%20Cell.%20Dev.%20Biol.&doi=10.1146%2Fannurev-cellbio-100814-125620&volume=31&pages=523-552&publication_year=2015&author=Maltepe%2CE.&author=Fisher%2CS.%20J.",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.cell.2018.07.010",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=30078711",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=&journal=Cell&doi=10.1016%2Fj.cell.2018.07.010&volume=174&pages=968-981&publication_year=2018&author=Goltsev%2CY.",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1016%2FS0002-9378%2896%2970056-X",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=8942516",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=&journal=Am.%20J.%20Obstet.%20Gynecol.&doi=10.1016%2FS0002-9378%2896%2970056-X&volume=175&pages=1365-1370&publication_year=1996&author=Ness%2CR.%20B.&author=Roberts%2CJ.%20M.",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.placenta.2021.03.003",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33958236",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=&journal=Placenta&doi=10.1016%2Fj.placenta.2021.03.003&volume=116&pages=12-30&publication_year=2021&author=Lala%2CP.%20K.&author=Nandi%2CP.&author=Hadi%2CA.&author=Halari%2CC.",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://citation-needed.springer.com/v2/references/10.1038/d41586-026-01037-2?format=refman&flavour=references",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://s100.copyright.com/AppDispatchServlet?title=Mapping%20the%20maternal%E2%80%93fetal%20interface%20through%20pregnancy%20in%20high%20resolution&author=&contentID=10.1038%2Fd41586-026-01037-2&copyright=Springer%20Nature%20Limited&publication=0028-0836&publicationDate=2026-04-08&publisherName=SpringerNature&orderBeanReset=true",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-025-01706-8",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-021-03801-y",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/subjects/developmental-biology",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/subjects/transcriptomics",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/subjects/databases",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-026-01213-4",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/s41586-026-10513-8",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/s41586-026-10367-0",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-026-00782-8",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/s41586-026-10118-1",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-026-00691-w",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/d41586-026-00427-w",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/naturecareers",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/naturecareers/job/12858586/associate-editor-discover-journals/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/naturecareers/job/12848707/talent-recruitment-announcement-of-the-college-of-informatics-huazhong-agricultural-university/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/naturecareers/job/12856986/shanghai-jiao-tong-university-global-recruitment/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/naturecareers/job/12858577/associate-or-senior-editor-bmc-sports-science-medicine-and-rehabilitation-and-bmc-rheumatology/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/naturecareers/job/12858560/publisher/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/info/privacy",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/search/advanced",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/subjects",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/authors/index.html",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/authors/editorial_policies",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/d41586-026-01037-2",
+      "addedAt": "2026-04-22T06:43:30.971Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/subjects/metabolomics",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://wayf.springernature.com/?redirect_uri=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41586-026-10277-1",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://shop-amers.nature.com/products/plus/?region=US",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/s41591-022-02046-0",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/s41392-023-01399-3",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/s42255-025-01371-1",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fnrm.2016.25",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XktlCnsrY%3D",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26979502",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5729912",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Metabolomics%3A%20beyond%20biomarkers%20and%20towards%20mechanisms&journal=Nat.%20Rev.%20Mol.%20Cell%20Biol.&doi=10.1038%2Fnrm.2016.25&volume=17&pages=451-459&publication_year=2016&author=Johnson%2CCH&author=Ivanisevic%2CJ&author=Siuzdak%2CG",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fnrm3305",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC38XjtlOntbw%3D",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=22395772",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=A%20two-way%20street%3A%20reciprocal%20regulation%20of%20metabolism%20and%20signalling&journal=Nat.%20Rev.%20Mol.%20Cell%20Biol.&doi=10.1038%2Fnrm3305&volume=13&pages=270-276&publication_year=2012&author=Wellen%2CKE&author=Thompson%2CCB",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fs41580-022-00572-w",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhtV2msbk%3D",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=36635456",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Metabolites%20as%20signalling%20molecules&journal=Nat.%20Rev.%20Mol.%20Cell%20Biol.&doi=10.1038%2Fs41580-022-00572-w&volume=24&pages=355-374&publication_year=2023&author=Baker%2CSA&author=Rutter%2CJ",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.molcel.2015.04.021",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC2MXpt1Sgu7w%3D",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26000853",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4831058",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Defining%20the%20metabolome%3A%20size%2C%20flux%2C%20and%20regulation&journal=Mol.%20Cell&doi=10.1016%2Fj.molcel.2015.04.021&volume=58&pages=699-706&publication_year=2015&author=Zamboni%2CN&author=Saghatelian%2CA&author=Patti%2CGJ",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.cell.2018.03.055",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC1cXovFGhsLs%3D",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=29727671",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC6034115",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Metabolomics%20and%20isotope%20tracing&journal=Cell&doi=10.1016%2Fj.cell.2018.03.055&volume=173&pages=822-837&publication_year=2018&author=Jang%2CC&author=Chen%2CL&author=Rabinowitz%2CJD",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.cotox.2018.03.002",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Using%20untargeted%20metabolomics%20for%20detecting%20exposome%20compounds&journal=Curr.%20Opin.%20Toxicol.&doi=10.1016%2Fj.cotox.2018.03.002&volume=8&pages=87-92&publication_year=2018&author=Bloszies%2CCS&author=Fiehn%2CO",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fnrd.2016.32",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BC28XktVCgsLs%3D",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=26965202",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Emerging%20applications%20of%20metabolomics%20in%20drug%20discovery%20and%20precision%20medicine&journal=Nat.%20Rev.%20Drug%20Discov.&doi=10.1038%2Fnrd.2016.32&volume=15&pages=473-484&publication_year=2016&author=Wishart%2CDS",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.dmpk.2020.11.008",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3MXltFOhsLg%3D",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=33631535",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Identification%20of%20biomarkers%20to%20diagnose%20diseases%20and%20find%20adverse%20drug%20reactions%20by%20metabolomics&journal=Drug%20Metab.%20Pharmacokinet.&doi=10.1016%2Fj.dmpk.2020.11.008&volume=37&publication_year=2021&author=Saigusa%2CD&author=Matsukawa%2CN&author=Hishinuma%2CE&author=Koshiba%2CS",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.apsb.2023.05.021",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXht1KmtLjM",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37655318",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC10465962",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Metabolomics%20in%20drug%20research%20and%20development%3A%20the%20recent%20advances%20in%20technologies%20and%20applications&journal=Acta%20Pharm.%20Sin.%20B&doi=10.1016%2Fj.apsb.2023.05.021&volume=13&pages=3238-3251&publication_year=2023&author=Pang%2CH&author=Hu%2CZ",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fs44222-023-00023-x",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXis12gur%2FL",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Translating%20metabolomics%20into%20clinical%20practice&journal=Nat.%20Rev.%20Bioeng.&doi=10.1038%2Fs44222-023-00023-x&volume=1&pages=228-229&publication_year=2023&author=Kirwan%2CJA",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1038%2Fs41587-024-02524-5",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2MXisFCrur8%3D",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=39875672",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=A%20human%20metabolic%20map%20of%20pharmacological%20perturbations%20reveals%20drug%20modes%20of%20action&journal=Nat.%20Biotechnol.&doi=10.1038%2Fs41587-024-02524-5&volume=43&pages=1996-2008&publication_year=2025&author=Schuhknecht%2CL",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.trac.2019.02.033",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Single-cell%20metabolomics%20by%20mass%20spectrometry%3A%20advances%2C%20challenges%2C%20and%20future%20applications&journal=Trends%20Anal.%20Chem.&doi=10.1016%2Fj.trac.2019.02.033&volume=120&publication_year=2019&author=Ali%2CA",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1016%2Fj.cbpa.2023.102327",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB3sXhtVKhtLvM",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=37224735",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "http://scholar.google.com/scholar_lookup?&title=Spatial%20single%20cell%20metabolomics%3A%20current%20challenges%20and%20future%20developments&journal=Curr.%20Opin.%20Chem.%20Biol.&doi=10.1016%2Fj.cbpa.2023.102327&volume=75&publication_year=2023&author=Saunders%2CKDG&author=Lewis%2CH-M&author=Beste%2CDJV&author=Cexus%2CO&author=Bailey%2CMJ",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://doi.org/10.1021%2Facs.jproteome.4c00646",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.nature.com/articles/cas-redirect/1:CAS:528:DC%2BB2cXit1OhtLvF",
+      "depth": 2,
+      "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
+      "addedAt": "2026-04-22T06:43:34.444Z",
+      "priority": 2
     }
   ],
   "completed": [
@@ -7801,8 +7801,151 @@
     "https://www.nature.com/articles/d41586-026-00905-1",
     "https://www.nature.com/articles/d41586-026-00811-6",
     "https://www.nature.com/articles/d41586-026-00630-9",
-    "https://www.nature.com/articles/d41586-026-00812-5"
+    "https://www.nature.com/articles/d41586-026-00812-5",
+    "https://www.nature.com/articles/d41586-026-01037-2",
+    "https://www.nature.com/articles/s41586-026-10277-1",
+    "https://www.nature.com/nature/research-articles",
+    "https://www.nature.com/articles/s41586-026-10324-x",
+    "https://www.nature.com/articles/s41586-026-10493-9",
+    "https://www.nature.com/articles/s41586-026-10482-y",
+    "https://www.nature.com/articles/s41586-026-10486-8",
+    "https://www.nature.com/articles/s41586-026-10339-4",
+    "https://www.nature.com/nature/collections",
+    "https://www.nature.com/collections/jajheedahd",
+    "http://dx.doi.org/10.1038/d41586-026-01100-y",
+    "http://dx.doi.org/10.1038/s41586-026-10330-z",
+    "http://dx.doi.org/10.1038/s41586-026-10365-2",
+    "http://dx.doi.org/10.1038/s41586-026-10260-w",
+    "https://www.nature.com/naturecareers/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+    "https://www.nature.com/naturecareers/job/12858407/associate-or-senior-editor-nature-communications-cardiovascular-biology-and-disease-/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+    "https://www.nature.com/naturecareers/job/12853206/senior-amo-physicist/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+    "https://www.nature.com/naturecareers/job/12853184/head-of-quantum-hardware/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+    "https://www.nature.com/naturecareers/job/12858388/postdoc-systems-neuroscience-in-neurodegeneration/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+    "https://www.nature.com/naturecareers/job/12858375/open-research-support-intern/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+    "https://www.nature.com/info/privacy",
+    "https://www.nature.com/search/advanced",
+    "https://www.nature.com/subjects",
+    "https://www.nature.com/naturecareers",
+    "https://www.nature.com/authors/index.html",
+    "https://www.nature.com/authors/editorial_policies",
+    "https://subscription.newscientist.com/packages/p/cms/TB?",
+    "https://www.newscientist.com/article/2521774-how-autoimmune-conditions-can-unexpectedly-drive-mental-illness",
+    "https://www.newscientist.com/article/2522884-from-autism-to-migraines-birth-order-may-have-wide-reaching-effects",
+    "https://www.newscientist.com/article/2520451-my-life-as-a-meteorologist-in-chernobyl-under-russian-occupation",
+    "https://www.newscientist.com/sign-up",
+    "https://www.newscientist.com/article/2523034-is-a-super-el-nino-imminent-and-what-could-the-impacts-be",
+    "https://www.newscientist.com/article/2522111-beef-is-making-a-comeback-does-it-fit-into-a-healthy-diet",
+    "https://www.newscientist.com/article/2522913-are-neanderthals-descendants-of-modern-humans",
+    "https://www.newscientist.com/article/2523048-the-stunning-physics-of-project-hail-mary-go-back-to-ancient-china",
+    "https://www.newscientist.com/article/2522944-antioxidant-in-mushrooms-may-target-uterus-cells-to-ease-period-pain",
+    "https://www.newscientist.com/article/2522615-quantum-computers-could-usher-in-a-crisis-worse-than-y2k",
+    "https://www.newscientist.com/tours/mysteries-universe-cheshire",
+    "https://www.newscientist.com/article/2520435-the-man-who-crawls-into-the-perilous-heart-of-the-chernobyl-reactor",
+    "https://www.newscientist.com/section/news",
+    "https://www.newscientist.com/article/2520367-exclusive-report-inside-chernobyl-40-years-after-nuclear-disaster",
+    "https://www.newscientist.com/article/2519026-a-once-fantastical-collider-could-answer-physics-biggest-mysteries",
+    "https://www.newscientist.com/article/2519667-the-profound-effect-the-heart-brain-connection-has-on-your-health",
+    "https://www.newscientist.com/article/2520742-plug-in-solar-is-coming-how-dangerous-is-it-and-is-it-worth-it",
+    "https://www.newscientist.com/article/2518470-forget-the-multiverse-in-the-pluriverse-we-create-reality-together",
+    "https://www.newscientist.com/article/2516419-frailty-sets-in-far-earlier-than-youd-expect-but-you-can-reverse-it",
+    "https://www.newscientist.com/issue/3590",
+    "https://www.newscientist.com/subject/physics",
+    "https://www.newscientist.com/article/2520573-were-solving-the-fundamental-mystery-of-how-reality-is-glued-together",
+    "https://www.newscientist.com/subject/mind",
+    "https://www.newscientist.com/article/2520604-i-dont-see-images-in-my-head-can-training-give-me-a-minds-eye",
+    "https://www.newscientist.com/subject/environment",
+    "https://www.newscientist.com/subject/chemistry",
+    "https://www.newscientist.com/article/2521037-the-weird-physics-of-plant-based-milks-is-only-just-coming-to-light",
+    "https://www.newscientist.com/issues",
+    "https://www.newscientist.com/article/2515260-the-surprising-origins-of-britains-bronze-age-immigrants-revealed",
+    "https://www.newscientist.com/article/2502872-ancient-dna-may-rewrite-the-story-of-icelands-earliest-settlers",
+    "https://www.newscientist.com/article/2506343-was-a-little-known-culture-in-bronze-age-turkey-a-major-power",
+    "https://www.newscientist.com/article/2468525-pompeiis-streets-show-how-the-city-adapted-to-roman-rule",
+    "https://www.newscientist.com/article/2522770-a-key-solution-to-climate-change-isnt-happening-and-thats-good",
+    "https://www.newscientist.com/article/2522765-collapse-of-key-ocean-current-may-release-billions-of-tonnes-of-carbon",
+    "https://www.newscientist.com/article/2522701-modern-living-may-be-causing-big-changes-to-our-oestrogen-levels",
+    "https://www.newscientist.com/article/2522324-particles-seen-emerging-from-empty-space-for-first-time",
+    "https://www.newscientist.com/article/2519999-the-invisibility-cloak-inventor-now-has-better-tricks-up-his-sleeve",
+    "https://www.newscientist.com/article/2519611-oceans-are-darkening-all-over-the-planet-whats-going-on",
+    "https://www.newscientist.com/article/2519666-how-working-out-like-an-astronaut-can-reduce-back-pain-and-slow-ageing",
+    "https://www.newscientist.com/article/2519003-the-shocking-fossils-that-show-t-rex-wasnt-the-king-of-the-dinosaurs",
+    "https://www.newscientist.com/science-events/stargazing-through-time-how-astronomys-past-present-and-future-shape-our-view-of-the-cosmos",
+    "https://www.newscientist.com/tours/marine-biology-svalbard-arctic-expedition-cruise-norway",
+    "https://www.newscientist.com/science-events/unfinished-business-how-do-we-end-hiv",
+    "https://www.newscientist.com/podcasts/genetic-analysis-reveals-how-the-neanderthals-went-extinct",
+    "https://www.newscientist.com/podcasts/the-future-of-humanity-decoded-in-london",
+    "https://www.newscientist.com/podcasts/the-male-g-spot-has-finally-been-found",
+    "https://www.newscientist.com/podcasts",
+    "https://www.newscientist.com/video/2522085-we-might-be-wrong-about-humanitys-near-extinction",
+    "https://www.newscientist.com/video/2521695-cern-upgrade-inside-the-worlds-largest-scientific-experiment",
+    "https://www.newscientist.com/video/2521250-we-did-not-evolve-alone-the-story-of-our-origins",
+    "https://www.newscientist.com/video/2520977-why-prime-numbers-might-not-be-random-after-all",
+    "https://www.newscientist.com/video/2519746-professor-daisy-fancourt-on-the-life-changing-power-of-the-arts",
+    "https://www.newscientist.com/video/2519939-what-we-still-get-wrong-about-dinosaurs",
+    "https://www.newscientist.com/article/2520864-how-geophysicists-are-reverse-engineering-the-earth",
+    "https://www.newscientist.com/article/2517346-can-humanity-find-a-place-in-the-rewired-world",
+    "https://www.newscientist.com/article/2515222-uk-spanish-partnerships-are-solving-pharmas-toughest-challenges",
+    "https://www.newscientist.com/podcasts/how-uk-and-spanish-scientists-are-reimagining-the-future-of-green-pharma",
+    "https://catalog-beta.data.gov/",
+    "https://catalog.data.gov/dataset?q=&sort=views_recent+desc",
+    "https://catalog.data.gov/dataset?q=&sort=metadata_created+desc",
+    "https://catalog.data.gov/organization",
+    "https://catalog.data.gov/dataset/?metadata_type=geospatial",
+    "https://data.gov/about",
+    "https://data.gov/timeline",
+    "https://catalog.data.gov/",
+    "https://data.gov/metrics",
+    "https://digital.gov/2024/09/13/datagov-launches-metrics-tools",
+    "https://data.gov/user-guide",
+    "https://resources.data.gov/",
+    "https://resources.data.gov/categories/data-management-governance",
+    "https://resources.data.gov/categories/data-tools",
+    "https://resources.data.gov/categories/data-incubator",
+    "https://resources.data.gov/categories/guidance",
+    "https://resources.data.gov/categories/case-studies-examples",
+    "https://resources.data.gov/categories/skills-development",
+    "https://strategy.data.gov/",
+    "https://strategy.data.gov/2021/action-plan",
+    "https://strategy.data.gov/2020/action-plan",
+    "https://strategy.data.gov/2021/progress"
   ],
-  "failed": [],
-  "lastUpdated": "2026-04-21T06:48:23.559Z"
+  "failed": [
+    {
+      "url": "https://www.nature.com/naturecareers/job/12858407/associate-or-senior-editor-nature-communications-cardiovascular-biology-and-disease-/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-22T06:44:16.872Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.nature.com/naturecareers/job/12853206/senior-amo-physicist/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-22T06:44:19.438Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.nature.com/naturecareers/job/12853184/head-of-quantum-hardware/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-22T06:44:22.056Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.nature.com/naturecareers/job/12858388/postdoc-systems-neuroscience-in-neurodegeneration/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-22T06:44:25.056Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.nature.com/naturecareers/job/12858375/open-research-support-intern/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-22T06:44:27.531Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.nature.com/search/advanced",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-22T06:44:32.762Z",
+      "retryCount": 0
+    }
+  ],
+  "lastUpdated": "2026-04-22T06:48:23.585Z"
 }

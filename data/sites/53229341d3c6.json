@@ -5,16 +5,21 @@
   "title": "Data.gov Home - Data.gov",
   "description": "The home of the U.S. Government's open data",
   "firstDiscovered": "2026-04-15",
-  "lastCrawled": "2026-04-15",
-  "crawlCount": 1,
+  "lastCrawled": "2026-04-22",
+  "crawlCount": 2,
   "avgSecurityScore": 80,
   "categories": [
-    "Politics"
+    "Politics",
+    "Culture"
   ],
   "summaryHistory": [
     {
       "date": "2026-04-15",
       "summary": "Government's Open Data Here you will find data, tools, and resources to conduct research, develop web and mobile applications, design data visualizations, and more. 402,396 datasets available Search Search Most Viewed Datasets Recently Added Datasets Datasets by Organization Geospatial Mission Th..."
+    },
+    {
+      "date": "2026-04-22",
+      "summary": "About Us Mission The United States Government's open data site is designed to unleash the power of government open data to inform decisions by the public and policymakers, drive innovation and economic activity, achieve agency missions, and strengthen the foundation of an open and transparent gov... | January 21, 2009 Presidential Memorandum on Transparency and Open Government. and India launch Open Government Platform (open source package for government open data sites) 2012 May 9, 2013 Open Data Executive Order 2013 May 9, 2013 Open Data Policy 2014 Data.gov team begins working in the open o... | Metrics by Organization: Select an organization: Allegheny County / City of Pittsburgh / Western PA Regional Data Center AmeriCorps Arlington County, VA Army Corps of Engineers, Department of the Army, Department of Defense Board of Governors of the Federal Reserve System City and County of Durha... | In 2019, the process of maintaining a central catalog of federal agency datasets was made a statutory mandate under the OPEN Government Data Act. Data.gov Catalog Harvesting # In accordance with the requirements of the OPEN Government Data Act, the Data.gov catalog is populated by harvesting fede..."
     }
   ],
   "status": "active"

@@ -1,0 +1,22 @@
+{
+  "id": "4c265650ed6b",
+  "domain": "catalog.data.gov",
+  "baseUrl": "https://catalog.data.gov",
+  "title": "Catalog - Data.gov",
+  "description": "The Home of the U.S. Government's Open Data",
+  "firstDiscovered": "2026-04-22",
+  "lastCrawled": "2026-04-22",
+  "crawlCount": 1,
+  "avgSecurityScore": 100,
+  "categories": [
+    "Education",
+    "Politics"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-22",
+      "summary": "csv json rdf xml Search relevance: 1.00 | Views last month: 3700 | Published on: 2025-08-08 #5 Federal JPL Small Body Database Browser Organization: National Aeronautics and Space Administration Updated: 2025-03-31 The JPL Small-Body Database Browser provides data for all known asteroids and many... | csv json rdf xml Search relevance: 1.00 | Views last month: 3700 | Published on: 2025-08-08 #5 Federal JPL Small Body Database Browser Organization: National Aeronautics and Space Administration Updated: 2025-03-31 The JPL Small-Body Database Browser provides data for all known asteroids and many... | Organizations Search organizations Search Type: Federal Government Datasets: 531 Type: Federal Government Datasets: 167 Type: City Government Datasets: 1548 Type: City Government Datasets: 40 Type: City Government Datasets: 248 Type: City Government Datasets: 117 Type: City Government Datasets: 2... | csv json rdf xml Search relevance: 1.00 | Views last month: 3700 | Published on: 2025-08-08 #5 Federal JPL Small Body Database Browser Organization: National Aeronautics and Space Administration Updated: 2025-03-31 The JPL Small-Body Database Browser provides data for all known asteroids and many... | csv json rdf xml Search relevance: 1.00 | Views last month: 3700 | Published on: 2025-08-08 #5 Federal JPL Small Body Database Browser Organization: National Aeronautics and Space Administration Updated: 2025-03-31 The JPL Small-Body Database Browser provides data for all known asteroids and many..."
+    }
+  ],
+  "status": "active"
+}
