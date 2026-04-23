@@ -1,0 +1,21 @@
+{
+  "id": "dc758c315a6b",
+  "domain": "www.usa.gov",
+  "baseUrl": "https://www.usa.gov",
+  "title": "Making government services easier to find | USAGov",
+  "description": "Find government benefits, services, agencies, and information at USA.gov. Contact elected officials. Learn about passports, Social Security, taxes, and more.",
+  "firstDiscovered": "2026-04-23",
+  "lastCrawled": "2026-04-23",
+  "crawlCount": 1,
+  "avgSecurityScore": 80,
+  "categories": [
+    "Politics"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-23",
+      "summary": "Making government services easier to find USA.gov helps you locate and understand government benefits, programs, and information. Government benefits Find government programs that may help pay for food, housing, health care, and more."
+    }
+  ],
+  "status": "active"
+}

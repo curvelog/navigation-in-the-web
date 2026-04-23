@@ -1,0 +1,21 @@
+{
+  "id": "6d86209028fb",
+  "domain": "www.gsa.gov",
+  "baseUrl": "https://www.gsa.gov",
+  "title": "Technology Transformation Services | GSA",
+  "description": "Technology Transformation Services applies modern methodologies and technologies to improve the public's experience with government.",
+  "firstDiscovered": "2026-04-23",
+  "lastCrawled": "2026-04-23",
+  "crawlCount": 1,
+  "avgSecurityScore": 80,
+  "categories": [
+    "Technology"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-23",
+      "summary": "Print Page Email Page Last updated: Sep 13, 2024 Top Glossary 1 Choose a location Error, The Per Diem API is not responding. Unless otherwise specified, the per diem locality is defined as \"all locations within, or entirely surrounded by, the corporate limits of the key city, including independen..."
+    }
+  ],
+  "status": "active"
+}

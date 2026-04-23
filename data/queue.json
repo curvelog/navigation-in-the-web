@@ -1,706 +1,6 @@
 {
   "pending": [
     {
-      "url": "https://strategy.data.gov/2020/progress",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.usa.gov/",
-      "depth": 1,
-      "sourceUrl": "https://data.gov/",
-      "addedAt": "2026-04-15T06:43:28.526Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.915Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.915Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/deportes/2026/04/14/los-memes-de-la-eliminacion-del-barcelona-ante-el-atletico-por-la-champions-cholo-simeone-juan-musso-y-lamine-yamal-los-elegidos",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.915Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/14/un-espia-de-cuba-en-el-corazon-del-gobierno-de-estados-unidos-la-historia-del-falso-diplomatico-victor-manuel-rocha",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.915Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/mundo/2026/04/15/en-vivo-alto-el-fuego-entre-estados-unidos-e-iran",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.915Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/economist/2026/04/15/si-comienza-la-carrera-de-armas-nucleares-sera-imparable",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.915Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/tendencias/2026/04/14/lenceria-animal-print-y-guinos-retro-como-hailey-bieber-deja-huella-en-la-moda-global",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.915Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/salud/2026/04/14/descubren-los-genes-asociados-a-las-nauseas-mas-severas-en-el-embarazo",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.915Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/14/trump-anticipo-una-posible-reanudacion-de-las-negociaciones-con-iran-en-pakistan-algo-podria-pasar-en-dos-dias",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.915Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/mundo/2026/04/14/reino-unido-el-hallazgo-de-un-esqueleto-de-bebe-reabre-un-misterio-de-300-anos-en-bishop-auckland",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.915Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/tag/principe-andres",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.915Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/peru/2026/04/13/resultados-onpe-al-57175-en-vivo-conteo-oficial-de-las-votaciones-en-todas-las-regiones-del-peru",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.915Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/peru/2026/04/14/dolar-sube-luego-conteo-de-resultados-con-roberto-sanchez-cercano-a-la-segunda-vuelta",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.915Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/peru/2026/04/14/elecciones-2026-votos-blancos-y-nulos-relegan-a-keiko-fujimori-al-segundo-lugar-en-el-conteo-de-la-onpe",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/tag/medio-oriente",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/mundo/2026/04/15/el-portaaviones-uss-george-hw-bush-navega-hacia-medio-oriente-para-reforzar-el-despliegue-naval-de-estados-unidos",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/15/jd-vance-dijo-que-trump-busca-un-gran-acuerdo-con-iran-a-cambio-de-garantias-nucleares-estamos-negociando",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/14/estados-unidos-restablecio-las-sanciones-al-crudo-irani-como-parte-de-su-estrategia-de-maxima-presion-contra-teheran",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/14/las-acciones-estadounidenses-subieron-frente-a-las-expectativas-de-dialogo-entre-estados-unidos-e-iran",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/14/israel-y-libano-celebraron-su-primera-ronda-de-dialogo-en-washington-y-acordaron-iniciar-negociaciones-para-enfrentar-a-hezbollah",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/salud/ciencia/2026/04/14/los-consejos-de-la-nasa-para-dormir-bien-y-lograr-un-sueno-reparador",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/deportes/2026/04/14/barcelona-atletico-de-madrid-y-liverpool-psg-definiran-los-primeros-dos-semifinalistas-de-la-champions-league-todo-lo-que-hay-que-saber",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/perros-y-gatos/2026/04/14/errores-comunes-al-pasear-a-tu-perro-y-como-evitarlos-para-cuidar-su-bienestar",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/deportes/2026/04/14/video-el-momento-de-la-escalofriante-lesion-de-una-de-las-figuras-de-la-seleccion-de-francia-a-dos-meses-del-mundial",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/14/new-glenn-el-cohete-de-jeff-bezos-realizara-su-tercer-lanzamiento-orbital-con-el-mayor-satelite-de-comunicaciones",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/ciencia-america/2026/04/14/cual-es-el-vinculo-entre-el-consumo-de-ultraprocesados-y-la-acumulacion-de-grasa-muscular",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/ciencia-america/2026/04/14/cientificos-explican-como-la-evolucion-de-estrellas-jovenes-beneficia-a-planetas-en-desarrollo",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/entretenimiento/2026/04/14/ruby-rose-recurre-a-la-policia-tras-acusar-a-katy-perry-de-presunta-agresion-sexual-puedo-comenzar-el-proceso-de-sanacion-ahora",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/tecno/2026/04/14/sin-enchufes-la-revolucionaria-computadora-que-funciona-con-resortes-y-calor-ambiental",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/salud/ciencia/2026/04/14/descubren-una-nueva-enfermedad-genetica-rara-que-produciria-trastornos-graves-en-el-desarrollo",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/mundo/2026/04/14/consumir-mas-electricidad-podria-ser-una-ventaja-en-reino-unido-como-funciona-el-nuevo-programa-de-energia-limpia",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/tag/guerra-rusia-ucrania",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/mundo/2026/04/14/siete-civiles-muertos-en-ataques-rusos-sobre-ucrania-entre-ellos-un-nino-de-ocho-anos",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/mundo/2026/04/14/el-gobierno-aleman-firmo-un-acuerdo-estrategico-de-defensa-con-ucrania",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/mundo/2026/04/14/putin-quiere-que-los-universitarios-rusos-vayan-a-la-guerra-firma-o-te-expulsamos",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/entretenimiento/2026/04/14/adria-arjona-se-suma-al-nuevo-universo-cinematografico-de-dc-como-maxima-en-la-secuela-de-superman",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/america-latina/2026/04/14/megaestafa-ganadera-en-uruguay-proponen-distribuir-35-millones-de-dolares-entre-los-damnificados-de-conexion-ganadera",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/espana/deportes/2026/04/14/las-palabras-de-hansi-flick-tras-caer-eliminados-de-la-champions-estamos-decepcionados-hemos-tenido-muchas-ocasiones",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/inhouse/2026/04/14/65-organizaciones-seran-reconocidas-como-las-mejores-para-trabajar-en-centroamerica-conozca-los-detalles",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/entretenimiento/2026/04/14/bts-confirma-que-uno-de-sus-integrantes-casi-se-presento-en-el-super-bowl",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/mundo/2026/04/14/el-gobierno-irlandes-sobrevivio-a-una-mocion-de-censura-en-medio-de-una-crisis-por-desabastecimiento",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/salud/2026/04/14/mas-alla-del-lavado-recomendaciones-de-expertos-para-minimizar-la-exposicion-a-quimicos-sin-dejar-de-comer-sano",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/ciencia-america/2026/04/14/un-hallazgo-cientifico-revelo-que-la-dieta-humana-transformo-la-manera-de-hablar",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/entretenimiento/2026/04/14/lena-dunham-afirma-que-allison-mack-la-invito-a-un-grupo-vinculado-a-su-secta",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/venezuela",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/14/estados-unidos-levanto-las-sanciones-contra-el-banco-central-de-venezuela-y-habilito-operaciones-financieras-internacionales",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/venezuela/2026/04/14/ex-presos-politicos-venezolanos-denunciaron-ante-la-onu-que-la-amnistia-se-aplica-con-selectividad-perversa",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/venezuela/2026/04/15/javier-tarazona-denuncio-la-revictimizacion-de-los-amnistiados-en-venezuela",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/14/nueva-york-pierde-19500-empleos-privados-y-enfrenta-desaceleracion-laboral",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/14/temporada-de-verano-alertan-a-banistas-por-mayor-actividad-de-tiburones-en-playas-de-california",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/14/california-activa-alerta-por-el-nino-el-fenomeno-oceanico-que-amenaza-con-lluvias-y-calor-extremos",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/14/asi-hallaron-los-cientificos-senales-ocultas-en-usuarios-de-semaglutida-y-tirzepatida",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/centroamerica",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/el-salvador/2026/04/14/brechas-educativas-entre-areas-urbanas-y-rurales-siguen-marcando-el-sistema-escolar-en-el-salvador-segun-especialista",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/costa-rica/2026/04/14/el-desperdicio-de-alimentos-plantea-retos-sociales-y-ambientales-en-costa-rica",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/guatemala/2026/04/14/el-seguro-social-guatemalteco-implementa-tecnologia-que-agiliza-el-diagnostico-de-cancer-a-seis-horas",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/panama/2026/04/14/el-centro-historico-de-ciudad-de-panama-conserva-lugares-emblematicos-cargados-de-relatos-populares",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/tag/bolivia",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/america-latina/2026/04/14/cae-una-aeronave-privada-en-bolivia-y-hallan-sin-vida-a-sus-dos-tripulantes-en-un-area-remota-de-cochabamba",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/america-latina/2026/04/14/juan-pablo-velasco-y-otto-ritter-alistan-cierres-de-campana-para-el-balotaje-a-la-gobernacion-de-santa-cruz",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/america-latina/2026/04/14/empieza-en-bolivia-el-juicio-por-la-desaparicion-de-odalys-vaquiata-tras-cuatro-anos-de-investigaciones",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/14/el-conflicto-en-medio-oriente-dispara-el-precio-del-diesel-y-pone-en-riesgo-a-los-transportistas-en-estados-unidos",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/mundo/2026/04/14/la-guerra-en-iran-ya-empieza-a-golpear-a-la-economia-mundial-advierte-el-fmi",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/mundo/2026/04/14/mark-carney-anuncio-medidas-economicas-tras-lograr-la-mayoria-parlamentaria-en-canada",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/tag/deportes-internacional",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/deportes/2026/04/14/mas-revelaciones-del-escandalo-de-infidelidad-de-una-estrella-del-deporte-y-una-reportera-el-foco-en-la-vista-de-los-usd-2000",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/deportes/2026/04/14/de-vivir-en-la-calle-a-terminar-de-formar-a-messi-en-el-barcelona-quien-es-guillermo-hoyos-el-nuevo-tecnico-del-inter-miami",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/deportes/2026/04/14/polemica-en-inglaterra-por-el-gesto-de-garnacho-con-el-chelsea-en-medio-de-la-sancion-a-enzo-fernandez",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/deportes/2026/04/14/javier-mascherano-renuncio-como-entrenador-del-inter-miami",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/entretenimiento",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/entretenimiento/2026/04/14/arrestan-a-brandon-bug-hall-actor-de-pequenos-traviesos-tras-faltar-a-audiencia-por-caso-de-transito",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/entretenimiento/2026/04/14/el-regreso-de-la-novia-de-frankenstein-asi-jessie-buckley-transforma-al-iconico-personaje-en-una-heroina-inesperada",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/entretenimiento/2026/04/14/un-abrazo-tras-casi-10-anos-selena-gomez-y-demi-lovato-sellan-un-reencuentro-cargado-de-nostalgia",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/entretenimiento/2026/04/14/resurge-entrevista-de-anna-kendrick-sobre-katy-perry-tras-acusaciones-de-agresion-sexual-me-toco-el-escote-con-los-dedos",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/tendencias",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/salud/2026/04/14/5-claves-para-ejercitarse-bajo-el-sol-sin-riesgos-para-la-piel",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/salud/ciencia/2026/04/14/por-que-algunas-lesiones-medulares-pueden-afectar-el-equilibrio-y-la-forma-de-caminar",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/salud/2026/04/14/la-complejidad-del-diagnostico-es-uno-de-los-obstaculos-principales-de-la-endometriosis-advierte-una-especialista",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/mascotas/2026/04/14/la-reduccion-de-peso-mejoraria-la-respiracion-en-los-perros-con-hocico-chato",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/tecno/2026/04/15/descubre-como-la-inteligencia-personal-puede-transformar-tu-experiencia-digital-con-gemini-de-google",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/tecno/2026/04/15/bookingcom-confirma-hackeo-y-filtracion-de-datos-de-clientes-reservas-y-contactos",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/tecno/2026/04/14/recibiste-una-oferta-para-recuperar-dinero-tras-un-fraude-asi-puedes-detectar-un-nuevo-engano",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/malditos-nerds/2026/04/14/everwind-recibe-the-first-ascent-su-mayor-actualizacion-en-acceso-anticipado-este-mayo",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/malditos-nerds/2026/04/14/animal-crossing-celebra-25-anos-y-nintendo-regala-un-item-especial-para-todos-los-jugadores",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/malditos-nerds/2026/04/14/lin-shaye-regresa-en-la-noche-del-demonio-estan-entre-nosotros-con-estreno-para-agosto",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/malditos-nerds/2026/04/14/physint-de-hideo-kojima-revela-su-elenco-y-un-villano-al-estilo-mads-mikkelsen-en-hannibal",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/14/estados-unidos-ofrece-usd-10-millones-por-el-lider-del-grupo-terrorista-iraqui-kataib-hezbollah",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/14/estos-aeropuertos-de-estados-unidos-encabezan-el-ranking-de-los-mas-estresantes-para-viajar-en-2026",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/estados-unidos/2026/04/14/medico-enfrenta-cargos-en-florida-tras-extirpar-el-organo-equivocado-y-provocar-la-muerte-de-un-paciente",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/entretenimiento/2026/04/14/la-verdadera-razon-de-barbie-ferreira-para-dejar-euphoria-no-queria-ser-una-opcion-secundaria",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/tecno/2026/04/14/la-ia-no-reemplazo-al-senior-borro-al-junior",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/entretenimiento/2026/04/14/alec-baldwin-revela-las-secuelas-fisicas-que-le-dejo-la-tragedia-del-caso-rust-me-desmaye-tres-veces",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/mundo/2026/04/15/estados-unidos-anuncio-el-bloqueo-total-de-los-puertos-iranies-y-aseguro-haber-paralizado-por-completo-su-comercio-maritimo",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/america/mundo/2026/04/15/trump-afirmo-que-la-guerra-contra-iran-esta-cerca-de-terminar-y-subrayo-que-el-regimen-desea-desesperadamente-un-acuerdo",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/deportes/2026/04/14/boca-juniors-recibira-a-barcelona-de-ecuador-por-la-copa-libertadores-hora-tv-y-formaciones",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
-      "url": "https://www.infobae.com/deportes/2026/04/15/me-rompi-el-video-de-la-impactante-lesion-de-agustin-marchesin-quien-se-fue-llorando-de-la-bombonera-en-el-duelo-boca-barcelona",
-      "depth": 1,
-      "sourceUrl": "https://www.infobae.com/",
-      "addedAt": "2026-04-15T06:43:30.916Z",
-      "priority": 1
-    },
-    {
       "url": "https://www.infobae.com/deportes/2026/04/14/deportivo-riestra-visitara-a-gremio-por-la-copa-sudamericana-hora-tv-y-formaciones",
       "depth": 1,
       "sourceUrl": "https://www.infobae.com/",
@@ -6999,6 +6299,706 @@
       "sourceUrl": "https://www.nature.com/articles/s41586-026-10277-1",
       "addedAt": "2026-04-22T06:43:34.444Z",
       "priority": 2
+    },
+    {
+      "url": "https://strategy.data.gov/principles",
+      "depth": 2,
+      "sourceUrl": "https://strategy.data.gov/2020/progress",
+      "addedAt": "2026-04-23T06:44:25.354Z",
+      "priority": 2
+    },
+    {
+      "url": "https://strategy.data.gov/practices",
+      "depth": 2,
+      "sourceUrl": "https://strategy.data.gov/2020/progress",
+      "addedAt": "2026-04-23T06:44:25.354Z",
+      "priority": 2
+    },
+    {
+      "url": "https://strategy.data.gov/action-plan",
+      "depth": 2,
+      "sourceUrl": "https://strategy.data.gov/2020/progress",
+      "addedAt": "2026-04-23T06:44:25.354Z",
+      "priority": 2
+    },
+    {
+      "url": "https://public.govdelivery.com/accounts/USGSA/subscribers/new?topic_id=USGSA_756",
+      "depth": 2,
+      "sourceUrl": "https://strategy.data.gov/2020/progress",
+      "addedAt": "2026-04-23T06:44:25.354Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.ssa.gov/data",
+      "depth": 2,
+      "sourceUrl": "https://strategy.data.gov/2020/progress",
+      "addedAt": "2026-04-23T06:44:25.354Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.doi.gov/data",
+      "depth": 2,
+      "sourceUrl": "https://strategy.data.gov/2020/progress",
+      "addedAt": "2026-04-23T06:44:25.354Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.ed.gov/data",
+      "depth": 2,
+      "sourceUrl": "https://strategy.data.gov/2020/progress",
+      "addedAt": "2026-04-23T06:44:25.354Z",
+      "priority": 2
+    },
+    {
+      "url": "https://labs.data.gov/dashboard/offices/qa",
+      "depth": 2,
+      "sourceUrl": "https://strategy.data.gov/2020/progress",
+      "addedAt": "2026-04-23T06:44:25.354Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/",
+      "depth": 2,
+      "sourceUrl": "https://strategy.data.gov/2020/progress",
+      "addedAt": "2026-04-23T06:44:25.354Z",
+      "priority": 2
+    },
+    {
+      "url": "https://tts.gsa.gov/",
+      "depth": 2,
+      "sourceUrl": "https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services",
+      "addedAt": "2026-04-23T06:44:27.724Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.travel.dod.mil/",
+      "depth": 2,
+      "sourceUrl": "https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services",
+      "addedAt": "2026-04-23T06:44:27.724Z",
+      "priority": 2
+    },
+    {
+      "url": "https://aoprals.state.gov/content.asp?content_id=184&menu_id=78",
+      "depth": 2,
+      "sourceUrl": "https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services",
+      "addedAt": "2026-04-23T06:44:27.724Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/taxes",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/check-tax-status",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/unclaimed-money",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/passport",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/benefit-finder",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/about-the-us",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/complaints",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/disability-services",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/disasters-and-emergencies",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/education",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/benefits",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/health",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/housing-help",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/immigration-and-citizenship",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/innovation",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/jobs-labor-laws-unemployment",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/laws-and-legal-issues",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/military-and-veterans",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/money",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/scams-and-fraud",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/small-business",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/travel",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/voting-and-elections",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.usa.gov/life-events",
+      "depth": 2,
+      "sourceUrl": "https://www.usa.gov/",
+      "addedAt": "2026-04-23T06:44:30.085Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/rafael-grossi",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.030Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/guerra-en-medio-oriente",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.030Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/medio-oriente",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.030Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/iran",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.030Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/regimen-de-iran",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.030Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/arma-nuclear",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.030Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/uranio",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.030Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/oiea",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.030Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/estados-unidos",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.030Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/ultimas-noticias-america",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/america/mundo/2026/04/23/israel-y-libano-se-reunen-en-washington-para-una-segunda-ronda-de-conversaciones-sobre-el-fin-de-la-guerra-y-el-desarme-de-hezbollah",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/america/mundo/2026/04/23/los-ministros-de-medio-ambiente-del-g7-se-reunen-en-paris-para-debatir-la-conservacion-de-los-oceanos-la-biodiversidad-y-la-desertificacion",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/america/mundo/2026/04/23/estados-unidos-recomendo-a-sus-ciudadanos-en-libano-abandonar-el-pais-en-visperas-de-las-negociaciones-con-israel",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/panama/2026/04/23/gobierno-de-panama-condena-incautacion-de-buque-en-el-estrecho-de-ormuz",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/america/mundo/2026/04/23/alemania-redefine-su-defensa-nueva-estrategia-militar-nacional-ante-la-amenaza-de-rusia",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/ultimas-noticias-america",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/mexico/2026/04/23/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-23-de-abril",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/mexico/2026/04/23/aseguran-que-angela-aguilar-habria-usado-escandalos-con-christian-nodal-para-limpiar-su-imagen",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/mexico/2026/04/23/temblor-hoy-en-mexico-noticias-actividad-sismica-23-de-abril-de-2026",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/espana/2026/04/23/la-justicia-reconoce-las-secuelas-de-un-policia-nacional-por-un-latigazo-cervical-tras-chocar-contra-otro-coche-como-accidente-en-acto-de-servicio",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/espana/2026/04/23/el-alimento-rico-en-proteina-que-es-ideal-para-recuperar-los-musculos-despues-del-entrenamiento",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/america",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/america/opinion/2026/04/23/axel-kicillof-se-va-de-excursion",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/america/ciencia-america/2026/04/23/cientificos-revelan-el-impacto-de-la-higiene-bucal-en-la-prevencion-de-la-neumonia",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/panama/2026/04/23/panama-debe-tener-reglas-claras-y-estables-para-pertenecer-a-la-ocde-afirma-chapman",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/entretenimiento",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/entretenimiento/2026/04/23/el-dia-que-brad-pitt-viajo-hasta-budapest-para-que-su-novia-terminara-con-el",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/entretenimiento/2026/04/23/el-mayor-arrepentimiento-de-anne-hathaway-durante-el-rodaje-de-el-diario-de-la-princesa",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/entretenimiento/2026/04/23/esta-es-la-fortuna-de-anne-hathaway-tras-mas-de-dos-decadas-de-carrera-en-hollywood",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/entretenimiento/2026/04/23/vincent-donofrio-y-la-condicion-que-marco-hombres-de-negro-el-aislamiento-voluntario-fortalecio-mi-confianza-y-la-del-equipo",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/entretenimiento/2026/04/23/sentimos-que-solo-tuvimos-suerte-una-vez-dice-elizabeth-banks-sobre-la-presion-tras-el-exito-en-hollywood",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+      "addedAt": "2026-04-23T06:44:33.031Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/guerra-en-medio-oriente",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/estados-unidos",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/estrecho-de-ormuz",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/francia",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/reino-unido",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/america/mundo/2026/04/23/el-ejercito-de-estados-unidos-impidio-el-ingreso-de-31-buques-comerciales-con-destino-a-iran-desde-el-inicio-del-bloqueo",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/america/mundo/2026/04/23/israel-y-libano-se-reunen-en-washington-para-una-segunda-ronda-de-conversaciones-sobre-el-fin-de-la-guerra-y-el-desarme-de-hezbollah",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/america/mundo/2026/04/23/los-ministros-de-medio-ambiente-del-g7-se-reunen-en-paris-para-debatir-la-conservacion-de-los-oceanos-la-biodiversidad-y-la-desertificacion",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/america/mundo/2026/04/23/estados-unidos-recomendo-a-sus-ciudadanos-en-libano-abandonar-el-pais-en-visperas-de-las-negociaciones-con-israel",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/panama/2026/04/23/gobierno-de-panama-condena-incautacion-de-buque-en-el-estrecho-de-ormuz",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/ultimas-noticias-america",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/espana/cultura/2026/04/23/michael-b-jordan-y-austin-butler-protagonizaran-el-reboot-de-corrupcion-en-miami-con-el-director-de-f1-la-pelicula",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/colombia/2026/04/23/gustavo-petro-responde-a-carrasquilla-por-el-alza-de-tasas-y-el-sustico-economico-quieren-una-crisis-fiscal",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/espana/2026/04/23/precio-de-la-gasolina-en-espana-2026-las-tarifas-mas-altas-y-mas-bajas-hoy",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/espana/2026/04/23/javier-avial-asesor-financiero-mucha-gente-piensa-que-con-hacer-la-declaracion-de-la-renta-todo-esta-perfecto-pero-no-es-asi",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/espana/2026/04/23/la-nueva-ayuda-militar-de-europa-a-ucrania-supone-la-mayor-parte-del-presupuesto-de-2026-para-la-guerra-contra-rusia-y-da-prioridad-a-empresas-de-la-ue",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/america",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/america/opinion/2026/04/23/axel-kicillof-se-va-de-excursion",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/america/ciencia-america/2026/04/23/cientificos-revelan-el-impacto-de-la-higiene-bucal-en-la-prevencion-de-la-neumonia",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/entretenimiento",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/entretenimiento/2026/04/23/el-dia-que-brad-pitt-viajo-hasta-budapest-para-que-su-novia-terminara-con-el",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/entretenimiento/2026/04/23/el-mayor-arrepentimiento-de-anne-hathaway-durante-el-rodaje-de-el-diario-de-la-princesa",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/entretenimiento/2026/04/23/esta-es-la-fortuna-de-anne-hathaway-tras-mas-de-dos-decadas-de-carrera-en-hollywood",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/entretenimiento/2026/04/23/vincent-donofrio-y-la-condicion-que-marco-hombres-de-negro-el-aislamiento-voluntario-fortalecio-mi-confianza-y-la-del-equipo",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+      "addedAt": "2026-04-23T06:44:36.023Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/deportes/2026/04/14/barcelona-atletico-de-madrid-y-liverpool-psg-definiran-los-primeros-dos-semifinalistas-de-la-champions-league-todo-lo-que-hay-que-saber",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/deportes/2026/04/14/los-memes-de-la-eliminacion-del-barcelona-ante-el-atletico-por-la-champions-cholo-simeone-juan-musso-y-lamine-yamal-los-elegidos",
+      "addedAt": "2026-04-23T06:44:38.922Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/deportes-internacional",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/deportes/2026/04/14/los-memes-de-la-eliminacion-del-barcelona-ante-el-atletico-por-la-champions-cholo-simeone-juan-musso-y-lamine-yamal-los-elegidos",
+      "addedAt": "2026-04-23T06:44:38.922Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/champions-league",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/deportes/2026/04/14/los-memes-de-la-eliminacion-del-barcelona-ante-el-atletico-por-la-champions-cholo-simeone-juan-musso-y-lamine-yamal-los-elegidos",
+      "addedAt": "2026-04-23T06:44:38.922Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/memes",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/deportes/2026/04/14/los-memes-de-la-eliminacion-del-barcelona-ante-el-atletico-por-la-champions-cholo-simeone-juan-musso-y-lamine-yamal-los-elegidos",
+      "addedAt": "2026-04-23T06:44:38.922Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/fc-barcelona",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/deportes/2026/04/14/los-memes-de-la-eliminacion-del-barcelona-ante-el-atletico-por-la-champions-cholo-simeone-juan-musso-y-lamine-yamal-los-elegidos",
+      "addedAt": "2026-04-23T06:44:38.922Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/atletico-de-madrid",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/deportes/2026/04/14/los-memes-de-la-eliminacion-del-barcelona-ante-el-atletico-por-la-champions-cholo-simeone-juan-musso-y-lamine-yamal-los-elegidos",
+      "addedAt": "2026-04-23T06:44:38.922Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/diego-simeone",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/deportes/2026/04/14/los-memes-de-la-eliminacion-del-barcelona-ante-el-atletico-por-la-champions-cholo-simeone-juan-musso-y-lamine-yamal-los-elegidos",
+      "addedAt": "2026-04-23T06:44:38.922Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/julian-alvarez",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/deportes/2026/04/14/los-memes-de-la-eliminacion-del-barcelona-ante-el-atletico-por-la-champions-cholo-simeone-juan-musso-y-lamine-yamal-los-elegidos",
+      "addedAt": "2026-04-23T06:44:38.922Z",
+      "priority": 2
+    },
+    {
+      "url": "https://www.infobae.com/tag/juan-musso",
+      "depth": 2,
+      "sourceUrl": "https://www.infobae.com/deportes/2026/04/14/los-memes-de-la-eliminacion-del-barcelona-ante-el-atletico-por-la-champions-cholo-simeone-juan-musso-y-lamine-yamal-los-elegidos",
+      "addedAt": "2026-04-23T06:44:38.922Z",
+      "priority": 2
     }
   ],
   "completed": [
@@ -7907,45 +7907,108 @@
     "https://strategy.data.gov/",
     "https://strategy.data.gov/2021/action-plan",
     "https://strategy.data.gov/2020/action-plan",
-    "https://strategy.data.gov/2021/progress"
+    "https://strategy.data.gov/2021/progress",
+    "https://strategy.data.gov/2020/progress",
+    "https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services",
+    "https://www.usa.gov/",
+    "https://www.infobae.com/america/mundo/2026/04/15/el-oiea-advirtio-sobre-los-riesgos-del-programa-nuclear-irani-tras-perder-la-supervision-directa-del-uranio-enriquecido-en-el-pais",
+    "https://www.infobae.com/america/mundo/2026/04/14/los-aliados-de-estados-unidos-se-mantienen-al-margen-de-la-mision-naval-en-el-estrecho-de-ormuz",
+    "https://www.infobae.com/deportes/2026/04/14/los-memes-de-la-eliminacion-del-barcelona-ante-el-atletico-por-la-champions-cholo-simeone-juan-musso-y-lamine-yamal-los-elegidos",
+    "https://www.infobae.com/estados-unidos/2026/04/14/un-espia-de-cuba-en-el-corazon-del-gobierno-de-estados-unidos-la-historia-del-falso-diplomatico-victor-manuel-rocha",
+    "https://www.infobae.com/america/mundo/2026/04/15/en-vivo-alto-el-fuego-entre-estados-unidos-e-iran",
+    "https://www.infobae.com/economist/2026/04/15/si-comienza-la-carrera-de-armas-nucleares-sera-imparable",
+    "https://www.infobae.com/tendencias/2026/04/14/lenceria-animal-print-y-guinos-retro-como-hailey-bieber-deja-huella-en-la-moda-global",
+    "https://www.infobae.com/salud/2026/04/14/descubren-los-genes-asociados-a-las-nauseas-mas-severas-en-el-embarazo",
+    "https://www.infobae.com/estados-unidos/2026/04/14/trump-anticipo-una-posible-reanudacion-de-las-negociaciones-con-iran-en-pakistan-algo-podria-pasar-en-dos-dias",
+    "https://www.infobae.com/america/mundo/2026/04/14/reino-unido-el-hallazgo-de-un-esqueleto-de-bebe-reabre-un-misterio-de-300-anos-en-bishop-auckland",
+    "https://www.infobae.com/tag/principe-andres",
+    "https://www.infobae.com/peru/2026/04/13/resultados-onpe-al-57175-en-vivo-conteo-oficial-de-las-votaciones-en-todas-las-regiones-del-peru",
+    "https://www.infobae.com/peru/2026/04/14/dolar-sube-luego-conteo-de-resultados-con-roberto-sanchez-cercano-a-la-segunda-vuelta",
+    "https://www.infobae.com/peru/2026/04/14/elecciones-2026-votos-blancos-y-nulos-relegan-a-keiko-fujimori-al-segundo-lugar-en-el-conteo-de-la-onpe",
+    "https://www.infobae.com/tag/medio-oriente",
+    "https://www.infobae.com/america/mundo/2026/04/15/el-portaaviones-uss-george-hw-bush-navega-hacia-medio-oriente-para-reforzar-el-despliegue-naval-de-estados-unidos",
+    "https://www.infobae.com/estados-unidos/2026/04/15/jd-vance-dijo-que-trump-busca-un-gran-acuerdo-con-iran-a-cambio-de-garantias-nucleares-estamos-negociando",
+    "https://www.infobae.com/estados-unidos/2026/04/14/estados-unidos-restablecio-las-sanciones-al-crudo-irani-como-parte-de-su-estrategia-de-maxima-presion-contra-teheran",
+    "https://www.infobae.com/estados-unidos/2026/04/14/las-acciones-estadounidenses-subieron-frente-a-las-expectativas-de-dialogo-entre-estados-unidos-e-iran",
+    "https://www.infobae.com/estados-unidos/2026/04/14/israel-y-libano-celebraron-su-primera-ronda-de-dialogo-en-washington-y-acordaron-iniciar-negociaciones-para-enfrentar-a-hezbollah",
+    "https://www.infobae.com/salud/ciencia/2026/04/14/los-consejos-de-la-nasa-para-dormir-bien-y-lograr-un-sueno-reparador",
+    "https://www.infobae.com/deportes/2026/04/14/barcelona-atletico-de-madrid-y-liverpool-psg-definiran-los-primeros-dos-semifinalistas-de-la-champions-league-todo-lo-que-hay-que-saber",
+    "https://www.infobae.com/perros-y-gatos/2026/04/14/errores-comunes-al-pasear-a-tu-perro-y-como-evitarlos-para-cuidar-su-bienestar",
+    "https://www.infobae.com/deportes/2026/04/14/video-el-momento-de-la-escalofriante-lesion-de-una-de-las-figuras-de-la-seleccion-de-francia-a-dos-meses-del-mundial",
+    "https://www.infobae.com/estados-unidos/2026/04/14/new-glenn-el-cohete-de-jeff-bezos-realizara-su-tercer-lanzamiento-orbital-con-el-mayor-satelite-de-comunicaciones",
+    "https://www.infobae.com/america/ciencia-america/2026/04/14/cual-es-el-vinculo-entre-el-consumo-de-ultraprocesados-y-la-acumulacion-de-grasa-muscular",
+    "https://www.infobae.com/america/ciencia-america/2026/04/14/cientificos-explican-como-la-evolucion-de-estrellas-jovenes-beneficia-a-planetas-en-desarrollo",
+    "https://www.infobae.com/entretenimiento/2026/04/14/ruby-rose-recurre-a-la-policia-tras-acusar-a-katy-perry-de-presunta-agresion-sexual-puedo-comenzar-el-proceso-de-sanacion-ahora",
+    "https://www.infobae.com/tecno/2026/04/14/sin-enchufes-la-revolucionaria-computadora-que-funciona-con-resortes-y-calor-ambiental",
+    "https://www.infobae.com/salud/ciencia/2026/04/14/descubren-una-nueva-enfermedad-genetica-rara-que-produciria-trastornos-graves-en-el-desarrollo",
+    "https://www.infobae.com/america/mundo/2026/04/14/consumir-mas-electricidad-podria-ser-una-ventaja-en-reino-unido-como-funciona-el-nuevo-programa-de-energia-limpia",
+    "https://www.infobae.com/tag/guerra-rusia-ucrania",
+    "https://www.infobae.com/america/mundo/2026/04/14/siete-civiles-muertos-en-ataques-rusos-sobre-ucrania-entre-ellos-un-nino-de-ocho-anos",
+    "https://www.infobae.com/america/mundo/2026/04/14/el-gobierno-aleman-firmo-un-acuerdo-estrategico-de-defensa-con-ucrania",
+    "https://www.infobae.com/america/mundo/2026/04/14/putin-quiere-que-los-universitarios-rusos-vayan-a-la-guerra-firma-o-te-expulsamos",
+    "https://www.infobae.com/entretenimiento/2026/04/14/adria-arjona-se-suma-al-nuevo-universo-cinematografico-de-dc-como-maxima-en-la-secuela-de-superman",
+    "https://www.infobae.com/america/america-latina/2026/04/14/megaestafa-ganadera-en-uruguay-proponen-distribuir-35-millones-de-dolares-entre-los-damnificados-de-conexion-ganadera",
+    "https://www.infobae.com/espana/deportes/2026/04/14/las-palabras-de-hansi-flick-tras-caer-eliminados-de-la-champions-estamos-decepcionados-hemos-tenido-muchas-ocasiones",
+    "https://www.infobae.com/america/inhouse/2026/04/14/65-organizaciones-seran-reconocidas-como-las-mejores-para-trabajar-en-centroamerica-conozca-los-detalles",
+    "https://www.infobae.com/entretenimiento/2026/04/14/bts-confirma-que-uno-de-sus-integrantes-casi-se-presento-en-el-super-bowl",
+    "https://www.infobae.com/america/mundo/2026/04/14/el-gobierno-irlandes-sobrevivio-a-una-mocion-de-censura-en-medio-de-una-crisis-por-desabastecimiento",
+    "https://www.infobae.com/salud/2026/04/14/mas-alla-del-lavado-recomendaciones-de-expertos-para-minimizar-la-exposicion-a-quimicos-sin-dejar-de-comer-sano",
+    "https://www.infobae.com/america/ciencia-america/2026/04/14/un-hallazgo-cientifico-revelo-que-la-dieta-humana-transformo-la-manera-de-hablar",
+    "https://www.infobae.com/entretenimiento/2026/04/14/lena-dunham-afirma-que-allison-mack-la-invito-a-un-grupo-vinculado-a-su-secta",
+    "https://www.infobae.com/venezuela",
+    "https://www.infobae.com/estados-unidos/2026/04/14/estados-unidos-levanto-las-sanciones-contra-el-banco-central-de-venezuela-y-habilito-operaciones-financieras-internacionales",
+    "https://www.infobae.com/venezuela/2026/04/14/ex-presos-politicos-venezolanos-denunciaron-ante-la-onu-que-la-amnistia-se-aplica-con-selectividad-perversa",
+    "https://www.infobae.com/venezuela/2026/04/15/javier-tarazona-denuncio-la-revictimizacion-de-los-amnistiados-en-venezuela",
+    "https://www.infobae.com/estados-unidos",
+    "https://www.infobae.com/estados-unidos/2026/04/14/nueva-york-pierde-19500-empleos-privados-y-enfrenta-desaceleracion-laboral",
+    "https://www.infobae.com/estados-unidos/2026/04/14/temporada-de-verano-alertan-a-banistas-por-mayor-actividad-de-tiburones-en-playas-de-california",
+    "https://www.infobae.com/estados-unidos/2026/04/14/california-activa-alerta-por-el-nino-el-fenomeno-oceanico-que-amenaza-con-lluvias-y-calor-extremos",
+    "https://www.infobae.com/estados-unidos/2026/04/14/asi-hallaron-los-cientificos-senales-ocultas-en-usuarios-de-semaglutida-y-tirzepatida",
+    "https://www.infobae.com/centroamerica",
+    "https://www.infobae.com/el-salvador/2026/04/14/brechas-educativas-entre-areas-urbanas-y-rurales-siguen-marcando-el-sistema-escolar-en-el-salvador-segun-especialista",
+    "https://www.infobae.com/costa-rica/2026/04/14/el-desperdicio-de-alimentos-plantea-retos-sociales-y-ambientales-en-costa-rica",
+    "https://www.infobae.com/guatemala/2026/04/14/el-seguro-social-guatemalteco-implementa-tecnologia-que-agiliza-el-diagnostico-de-cancer-a-seis-horas",
+    "https://www.infobae.com/panama/2026/04/14/el-centro-historico-de-ciudad-de-panama-conserva-lugares-emblematicos-cargados-de-relatos-populares",
+    "https://www.infobae.com/tag/bolivia",
+    "https://www.infobae.com/america/america-latina/2026/04/14/cae-una-aeronave-privada-en-bolivia-y-hallan-sin-vida-a-sus-dos-tripulantes-en-un-area-remota-de-cochabamba",
+    "https://www.infobae.com/america/america-latina/2026/04/14/juan-pablo-velasco-y-otto-ritter-alistan-cierres-de-campana-para-el-balotaje-a-la-gobernacion-de-santa-cruz",
+    "https://www.infobae.com/america/america-latina/2026/04/14/empieza-en-bolivia-el-juicio-por-la-desaparicion-de-odalys-vaquiata-tras-cuatro-anos-de-investigaciones",
+    "https://www.infobae.com/estados-unidos/2026/04/14/el-conflicto-en-medio-oriente-dispara-el-precio-del-diesel-y-pone-en-riesgo-a-los-transportistas-en-estados-unidos",
+    "https://www.infobae.com/america/mundo/2026/04/14/la-guerra-en-iran-ya-empieza-a-golpear-a-la-economia-mundial-advierte-el-fmi",
+    "https://www.infobae.com/america/mundo/2026/04/14/mark-carney-anuncio-medidas-economicas-tras-lograr-la-mayoria-parlamentaria-en-canada",
+    "https://www.infobae.com/tag/deportes-internacional",
+    "https://www.infobae.com/deportes/2026/04/14/mas-revelaciones-del-escandalo-de-infidelidad-de-una-estrella-del-deporte-y-una-reportera-el-foco-en-la-vista-de-los-usd-2000",
+    "https://www.infobae.com/deportes/2026/04/14/de-vivir-en-la-calle-a-terminar-de-formar-a-messi-en-el-barcelona-quien-es-guillermo-hoyos-el-nuevo-tecnico-del-inter-miami",
+    "https://www.infobae.com/deportes/2026/04/14/polemica-en-inglaterra-por-el-gesto-de-garnacho-con-el-chelsea-en-medio-de-la-sancion-a-enzo-fernandez",
+    "https://www.infobae.com/deportes/2026/04/14/javier-mascherano-renuncio-como-entrenador-del-inter-miami",
+    "https://www.infobae.com/entretenimiento",
+    "https://www.infobae.com/entretenimiento/2026/04/14/arrestan-a-brandon-bug-hall-actor-de-pequenos-traviesos-tras-faltar-a-audiencia-por-caso-de-transito",
+    "https://www.infobae.com/entretenimiento/2026/04/14/el-regreso-de-la-novia-de-frankenstein-asi-jessie-buckley-transforma-al-iconico-personaje-en-una-heroina-inesperada",
+    "https://www.infobae.com/entretenimiento/2026/04/14/un-abrazo-tras-casi-10-anos-selena-gomez-y-demi-lovato-sellan-un-reencuentro-cargado-de-nostalgia",
+    "https://www.infobae.com/entretenimiento/2026/04/14/resurge-entrevista-de-anna-kendrick-sobre-katy-perry-tras-acusaciones-de-agresion-sexual-me-toco-el-escote-con-los-dedos",
+    "https://www.infobae.com/tendencias",
+    "https://www.infobae.com/salud/2026/04/14/5-claves-para-ejercitarse-bajo-el-sol-sin-riesgos-para-la-piel",
+    "https://www.infobae.com/salud/ciencia/2026/04/14/por-que-algunas-lesiones-medulares-pueden-afectar-el-equilibrio-y-la-forma-de-caminar",
+    "https://www.infobae.com/salud/2026/04/14/la-complejidad-del-diagnostico-es-uno-de-los-obstaculos-principales-de-la-endometriosis-advierte-una-especialista",
+    "https://www.infobae.com/mascotas/2026/04/14/la-reduccion-de-peso-mejoraria-la-respiracion-en-los-perros-con-hocico-chato",
+    "https://www.infobae.com/tecno/2026/04/15/descubre-como-la-inteligencia-personal-puede-transformar-tu-experiencia-digital-con-gemini-de-google",
+    "https://www.infobae.com/tecno/2026/04/15/bookingcom-confirma-hackeo-y-filtracion-de-datos-de-clientes-reservas-y-contactos",
+    "https://www.infobae.com/tecno/2026/04/14/recibiste-una-oferta-para-recuperar-dinero-tras-un-fraude-asi-puedes-detectar-un-nuevo-engano",
+    "https://www.infobae.com/malditos-nerds/2026/04/14/everwind-recibe-the-first-ascent-su-mayor-actualizacion-en-acceso-anticipado-este-mayo",
+    "https://www.infobae.com/malditos-nerds/2026/04/14/animal-crossing-celebra-25-anos-y-nintendo-regala-un-item-especial-para-todos-los-jugadores",
+    "https://www.infobae.com/malditos-nerds/2026/04/14/lin-shaye-regresa-en-la-noche-del-demonio-estan-entre-nosotros-con-estreno-para-agosto",
+    "https://www.infobae.com/malditos-nerds/2026/04/14/physint-de-hideo-kojima-revela-su-elenco-y-un-villano-al-estilo-mads-mikkelsen-en-hannibal",
+    "https://www.infobae.com/estados-unidos/2026/04/14/estados-unidos-ofrece-usd-10-millones-por-el-lider-del-grupo-terrorista-iraqui-kataib-hezbollah",
+    "https://www.infobae.com/estados-unidos/2026/04/14/estos-aeropuertos-de-estados-unidos-encabezan-el-ranking-de-los-mas-estresantes-para-viajar-en-2026",
+    "https://www.infobae.com/estados-unidos/2026/04/14/medico-enfrenta-cargos-en-florida-tras-extirpar-el-organo-equivocado-y-provocar-la-muerte-de-un-paciente",
+    "https://www.infobae.com/entretenimiento/2026/04/14/la-verdadera-razon-de-barbie-ferreira-para-dejar-euphoria-no-queria-ser-una-opcion-secundaria",
+    "https://www.infobae.com/tecno/2026/04/14/la-ia-no-reemplazo-al-senior-borro-al-junior",
+    "https://www.infobae.com/entretenimiento/2026/04/14/alec-baldwin-revela-las-secuelas-fisicas-que-le-dejo-la-tragedia-del-caso-rust-me-desmaye-tres-veces",
+    "https://www.infobae.com/america/mundo/2026/04/15/estados-unidos-anuncio-el-bloqueo-total-de-los-puertos-iranies-y-aseguro-haber-paralizado-por-completo-su-comercio-maritimo",
+    "https://www.infobae.com/america/mundo/2026/04/15/trump-afirmo-que-la-guerra-contra-iran-esta-cerca-de-terminar-y-subrayo-que-el-regimen-desea-desesperadamente-un-acuerdo",
+    "https://www.infobae.com/deportes/2026/04/14/boca-juniors-recibira-a-barcelona-de-ecuador-por-la-copa-libertadores-hora-tv-y-formaciones",
+    "https://www.infobae.com/deportes/2026/04/15/me-rompi-el-video-de-la-impactante-lesion-de-agustin-marchesin-quien-se-fue-llorando-de-la-bombonera-en-el-duelo-boca-barcelona"
   ],
-  "failed": [
-    {
-      "url": "https://www.nature.com/naturecareers/job/12858407/associate-or-senior-editor-nature-communications-cardiovascular-biology-and-disease-/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-22T06:44:16.872Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.nature.com/naturecareers/job/12853206/senior-amo-physicist/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-22T06:44:19.438Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.nature.com/naturecareers/job/12853184/head-of-quantum-hardware/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-22T06:44:22.056Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.nature.com/naturecareers/job/12858388/postdoc-systems-neuroscience-in-neurodegeneration/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-22T06:44:25.056Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.nature.com/naturecareers/job/12858375/open-research-support-intern/?TrackID=62&utm_source=widget&utm_medium=referral&utm_campaign=62",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-22T06:44:27.531Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.nature.com/search/advanced",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-22T06:44:32.762Z",
-      "retryCount": 0
-    }
-  ],
-  "lastUpdated": "2026-04-22T06:48:23.585Z"
+  "failed": [],
+  "lastUpdated": "2026-04-23T06:49:00.736Z"
 }

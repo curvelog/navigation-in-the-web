@@ -5,8 +5,8 @@
   "title": "Welcome - Federal Data Strategy",
   "description": "Design and build fast, accessible, mobile-friendly government websites backed by user research.",
   "firstDiscovered": "2026-04-22",
-  "lastCrawled": "2026-04-22",
-  "crawlCount": 1,
+  "lastCrawled": "2026-04-23",
+  "crawlCount": 2,
   "avgSecurityScore": 80,
   "categories": [
     "Technology",
@@ -18,6 +18,10 @@
     {
       "date": "2026-04-22",
       "summary": "Federal Open Data Policy and Standards Guidance, standards, and policy resources for federal data managers, Chief Data Officers, and agency leadership. About the Strategy Resources.data.gov Data.gov 2020 Plan Archive | 2021 Action Plan Download a PDF of the 2021 Federal Data Strategy Action Plan Foreword To account for the changing role of data and meet the needs of democracy, the federal government created a coordinated and integrated Federal Data Strategy (FDS). M-19-18 calls for annual government-wide Action... | Consistent with M-20-16 Federal Agency Operational Alignment to Slow the Spread of Coronavirus COVID-19, the Federal Data Strategy 2020 Action Plan is adjusting Actions by extending several Agency target dates by one month and one Shared Solution target date by three months. Milestone Measurement... | 2021 Action Plan Progress The Federal Data Strategy provides a common set of data principles and best practices. The 2021 Action Plan, released in October 2021, identifies milestones that are essential for establishing processes, building capacity, and aligning existing efforts."
+    },
+    {
+      "date": "2026-04-23",
+      "summary": "2020 Action Plan Progress The Federal Data Strategy provides a common set of data principles and best practices. Supplemental Milestone Data & Examples Federal Data Strategy Action Plan, Action 2: Constitute a Diverse Governance Body (DGB) Milestone 2.1."
     }
   ],
   "status": "active"

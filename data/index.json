@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-04-22T06:48:23.749Z",
-  "totalDays": 8,
-  "totalSites": 45,
+  "lastUpdated": "2026-04-23T06:49:00.942Z",
+  "totalDays": 9,
+  "totalSites": 47,
   "dates": [
+    {
+      "date": "2026-04-23",
+      "pageCount": 100,
+      "categories": [
+        "News",
+        "Technology",
+        "Politics",
+        "Culture",
+        "Health",
+        "Education",
+        "Science",
+        "Entertainment"
+      ]
+    },
     {
       "date": "2026-04-22",
       "pageCount": 100,
@@ -119,6 +133,34 @@
   ],
   "sites": [
     {
+      "id": "2af0325dd2f3",
+      "domain": "www.infobae.com",
+      "title": "Infobae América - Infobae",
+      "lastCrawled": "2026-04-23",
+      "crawlCount": 2
+    },
+    {
+      "id": "6d86209028fb",
+      "domain": "www.gsa.gov",
+      "title": "Technology Transformation Services | GSA",
+      "lastCrawled": "2026-04-23",
+      "crawlCount": 1
+    },
+    {
+      "id": "9e2521424a3b",
+      "domain": "strategy.data.gov",
+      "title": "Welcome - Federal Data Strategy",
+      "lastCrawled": "2026-04-23",
+      "crawlCount": 2
+    },
+    {
+      "id": "dc758c315a6b",
+      "domain": "www.usa.gov",
+      "title": "Making government services easier to find | USAGov",
+      "lastCrawled": "2026-04-23",
+      "crawlCount": 1
+    },
+    {
       "id": "060cd6965ba8",
       "domain": "subscription.newscientist.com",
       "title": "New Scientist Magazine Subscriptions - Subscribe to New Scientist magazine in print or digital subscriptions are available for tablets, smartphones and website access",
@@ -166,13 +208,6 @@
       "title": "New Scientist | Science news, articles, and features",
       "lastCrawled": "2026-04-22",
       "crawlCount": 2
-    },
-    {
-      "id": "9e2521424a3b",
-      "domain": "strategy.data.gov",
-      "title": "Welcome - Federal Data Strategy",
-      "lastCrawled": "2026-04-22",
-      "crawlCount": 1
     },
     {
       "id": "b71fa94e6c56",
@@ -346,13 +381,6 @@
       "id": "061bdbf8744e",
       "domain": "www.wikipedia.org",
       "title": "Wikipedia",
-      "lastCrawled": "2026-04-15",
-      "crawlCount": 1
-    },
-    {
-      "id": "2af0325dd2f3",
-      "domain": "www.infobae.com",
-      "title": "Infobae América - Infobae",
       "lastCrawled": "2026-04-15",
       "crawlCount": 1
     },
