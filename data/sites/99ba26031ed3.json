@@ -1,0 +1,21 @@
+{
+  "id": "99ba26031ed3",
+  "domain": "nypost.com",
+  "baseUrl": "https://nypost.com",
+  "title": "Trump admin: Live updates on Iran war, Hormuz, Congress, more",
+  "description": "Follow The Post's live updates on President Trump and national politics for the latest news, analysis and more.",
+  "firstDiscovered": "2026-04-24",
+  "lastCrawled": "2026-04-24",
+  "crawlCount": 1,
+  "avgSecurityScore": 100,
+  "categories": [
+    "News"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-24",
+      "summary": "Follow the latest news on the Trump administration and national politics Friday as President Trump heads to Phoenix to deliver remarks at a Turning Point event. Follow live updates on President Trump, the Iran war and national politics for the latest news, analysis and more: Follow the latest new..."
+    }
+  ],
+  "status": "active"
+}

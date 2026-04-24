@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-04-23T06:49:00.942Z",
-  "totalDays": 9,
-  "totalSites": 47,
+  "lastUpdated": "2026-04-24T06:50:27.754Z",
+  "totalDays": 10,
+  "totalSites": 49,
   "dates": [
+    {
+      "date": "2026-04-24",
+      "pageCount": 100,
+      "categories": [
+        "Culture",
+        "General",
+        "Technology",
+        "News",
+        "Business",
+        "Health",
+        "Entertainment",
+        "Education",
+        "Science"
+      ]
+    },
     {
       "date": "2026-04-23",
       "pageCount": 100,
@@ -136,7 +151,35 @@
       "id": "2af0325dd2f3",
       "domain": "www.infobae.com",
       "title": "Infobae América - Infobae",
-      "lastCrawled": "2026-04-23",
+      "lastCrawled": "2026-04-24",
+      "crawlCount": 3
+    },
+    {
+      "id": "5c03fbd2cdd6",
+      "domain": "www.theguardian.com",
+      "title": "Latest news, sport and opinion from the Guardian",
+      "lastCrawled": "2026-04-24",
+      "crawlCount": 3
+    },
+    {
+      "id": "99ba26031ed3",
+      "domain": "nypost.com",
+      "title": "Trump admin: Live updates on Iran war, Hormuz, Congress, more",
+      "lastCrawled": "2026-04-24",
+      "crawlCount": 1
+    },
+    {
+      "id": "cf5204a40c24",
+      "domain": "foodit.lanacion.com.ar",
+      "title": "Las mejores recetas para cocinar, inspirate con estas ideas - Foodit",
+      "lastCrawled": "2026-04-24",
+      "crawlCount": 1
+    },
+    {
+      "id": "ddf2dbfa1053",
+      "domain": "www.lanacion.com.ar",
+      "title": "Últimas noticias de Argentina y el mundo - LA NACION",
+      "lastCrawled": "2026-04-24",
       "crawlCount": 2
     },
     {
@@ -371,13 +414,6 @@
       "crawlCount": 1
     },
     {
-      "id": "5c03fbd2cdd6",
-      "domain": "www.theguardian.com",
-      "title": "Latest news, sport and opinion from the Guardian",
-      "lastCrawled": "2026-04-16",
-      "crawlCount": 2
-    },
-    {
       "id": "061bdbf8744e",
       "domain": "www.wikipedia.org",
       "title": "Wikipedia",
@@ -451,13 +487,6 @@
       "id": "c9273fbfcacd",
       "domain": "www.bbc.com",
       "title": "BBC News - Breaking news, video and the latest top stories from the U.S. and around the world",
-      "lastCrawled": "2026-04-15",
-      "crawlCount": 1
-    },
-    {
-      "id": "ddf2dbfa1053",
-      "domain": "www.lanacion.com.ar",
-      "title": "Últimas noticias de Argentina y el mundo - LA NACION",
       "lastCrawled": "2026-04-15",
       "crawlCount": 1
     }
