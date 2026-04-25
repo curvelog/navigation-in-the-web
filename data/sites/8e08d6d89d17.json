@@ -1,0 +1,21 @@
+{
+  "id": "8e08d6d89d17",
+  "domain": "play.google.com",
+  "baseUrl": "https://play.google.com",
+  "title": "The Guardian - US &amp; World News - Apps on Google Play",
+  "description": "Independent global news, opinion and analysis, sport, podcasts and puzzles",
+  "firstDiscovered": "2026-04-25",
+  "lastCrawled": "2026-04-25",
+  "crawlCount": 1,
+  "avgSecurityScore": 100,
+  "categories": [
+    "News"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-25",
+      "summary": "play_arrowTrailerThe Guardian - US & World NewsGuardian News & Media LtdContains adsIn-app purchases4.6star405K reviewsEveryone 10+info5M+DownloadsInstallShareAdd to wishlistplay_arrowTrailerEveryone 10+Users Interact, In-App PurchasesLearn moreGet fearless, independent journalism from the United..."
+    }
+  ],
+  "status": "active"
+}

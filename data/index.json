@@ -1,8 +1,21 @@
 {
-  "lastUpdated": "2026-04-24T06:50:27.754Z",
-  "totalDays": 10,
-  "totalSites": 49,
+  "lastUpdated": "2026-04-25T06:40:32.889Z",
+  "totalDays": 11,
+  "totalSites": 54,
   "dates": [
+    {
+      "date": "2026-04-25",
+      "pageCount": 100,
+      "categories": [
+        "News",
+        "Technology",
+        "Business",
+        "Politics",
+        "Culture",
+        "Science",
+        "Environment"
+      ]
+    },
     {
       "date": "2026-04-24",
       "pageCount": 100,
@@ -148,16 +161,65 @@
   ],
   "sites": [
     {
-      "id": "2af0325dd2f3",
-      "domain": "www.infobae.com",
-      "title": "Infobae América - Infobae",
-      "lastCrawled": "2026-04-24",
-      "crawlCount": 3
+      "id": "3bbd7c83445a",
+      "domain": "apps.apple.com",
+      "title": "‎The Guardian - US &amp; World News App - App Store",
+      "lastCrawled": "2026-04-25",
+      "crawlCount": 1
+    },
+    {
+      "id": "4dd80fc1b83e",
+      "domain": "www.ft.com",
+      "title": "Subscribe to read",
+      "lastCrawled": "2026-04-25",
+      "crawlCount": 1
     },
     {
       "id": "5c03fbd2cdd6",
       "domain": "www.theguardian.com",
       "title": "Latest news, sport and opinion from the Guardian",
+      "lastCrawled": "2026-04-25",
+      "crawlCount": 4
+    },
+    {
+      "id": "6860776e5611",
+      "domain": "www.youtube.com",
+      "title": "The Verge - YouTube",
+      "lastCrawled": "2026-04-25",
+      "crawlCount": 2
+    },
+    {
+      "id": "782ce3e38f01",
+      "domain": "www.cheniere.com",
+      "title": "Cheniere | Newsroom",
+      "lastCrawled": "2026-04-25",
+      "crawlCount": 1
+    },
+    {
+      "id": "897bd535efb1",
+      "domain": "www.npr.org",
+      "title": "NPR - Breaking News, Analysis, Music, Arts &amp; Podcasts : NPR",
+      "lastCrawled": "2026-04-25",
+      "crawlCount": 4
+    },
+    {
+      "id": "8e08d6d89d17",
+      "domain": "play.google.com",
+      "title": "The Guardian - US &amp; World News - Apps on Google Play",
+      "lastCrawled": "2026-04-25",
+      "crawlCount": 1
+    },
+    {
+      "id": "deb9761cf87c",
+      "domain": "investors.ventureglobal.com",
+      "title": "Venture Global LNG, Inc. - Venture Global Announces Final Investment Decision and Financial Close for Phase 2 of CP2 LNG",
+      "lastCrawled": "2026-04-25",
+      "crawlCount": 1
+    },
+    {
+      "id": "2af0325dd2f3",
+      "domain": "www.infobae.com",
+      "title": "Infobae América - Infobae",
       "lastCrawled": "2026-04-24",
       "crawlCount": 3
     },
@@ -316,13 +378,6 @@
       "crawlCount": 1
     },
     {
-      "id": "6860776e5611",
-      "domain": "www.youtube.com",
-      "title": "The Verge - YouTube",
-      "lastCrawled": "2026-04-19",
-      "crawlCount": 1
-    },
-    {
       "id": "7393775a6909",
       "domain": "drdrone.ca",
       "title": "DJI Lito 1 and X1 Leaks, Rumours, and Speculation - DrDrone.ca",
@@ -384,13 +439,6 @@
       "title": "Immigration judges who ruled in Öztürk, Mahdawi cases fired | GBH",
       "lastCrawled": "2026-04-17",
       "crawlCount": 1
-    },
-    {
-      "id": "897bd535efb1",
-      "domain": "www.npr.org",
-      "title": "NPR - Breaking News, Analysis, Music, Arts &amp; Podcasts : NPR",
-      "lastCrawled": "2026-04-17",
-      "crawlCount": 3
     },
     {
       "id": "9afce12ec922",

@@ -1,1000 +1,6 @@
 {
   "pending": [
     {
-      "url": "https://www.theguardian.com/world/2026/apr/13/donald-trump-pope-leo",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=xcwcnb2ckO0",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/jd-vance-defends-trump-pope-leo-spat",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/imf",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/jd-vance",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/world/giorgia-meloni",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/trump-doordash-delivery-grandma-mcdonalds",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/14/a-pope-who-uses-his-brain-vatican-locals-and-visitors-take-sides-in-leo-v-trump-spat",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/house-of-representatives",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/eric-swalwell-tony-gonzales-resignations",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/minnesota",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/ice-detention-minnesota-investigation-false-arrest",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/mississippi",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/2026/apr/14/trump-federal-reserve-pick-kevin-warsh",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/14/majority-vote-for-president-us-constitution",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/virginia",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-news-at-a-glance-latest-updates-today",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/trump-administration",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/series/trump-administration-briefing",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/us-politics",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fapr%2F14%2Ftrump-news-at-a-glance-latest-updates-today&type=article&internalpagecode=us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
-      "addedAt": "2026-04-16T06:43:24.748Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/series/guardian-business-live",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/business",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/politics/2026/apr/15/rachel-reeves-donald-trump-iran-war-uk-us",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/2026/apr/15/iran-war-global-debt-imf-prices-growth",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/profile/graemewearden",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfbe2d8f08259d93962191",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfc6758f08fbc58317dad2",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfc3148f08259d939621d0",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfc26e8f08259d939621c8",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfad988f08259d9396208d",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfa4118f08b9e0aac008f5",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfa02b8f08259d93961fa1",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df91e68f08fbc58317d777",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df910b8f08259d93961eb1",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df8cfa8f08fbc58317d71f",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df81db8f08fbc58317d698",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df72678f08259d93961d46",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df87ea8f08259d93961e3e",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df75328f08b9e0aac00649",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.036Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df73f58f08fbc58317d614",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df6e3f8f08fbc58317d5e2",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df62fc8f08259d93961c7b",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df5a758f08a36a1628936b",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df51b98f0838846e625a8b",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df45a68f08a36a162892d6",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df3df28f08ca2755e149e9",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df3ca68f08a36a162892a2",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df32e48f0838846e6259a6",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df2edb8f08ca2755e1498b",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df26278f08a36a16289229",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/14/rachel-reeves-folly-us-going-to-war-iran-without-clear-exit-plan",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.ft.com/content/d6459373-c681-4787-9c52-48ccda530da7?syn-25a6b1a6=1",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?page=with%3Ablock-69dfa02b8f08259d93961fa1",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/economics",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/stock-markets",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/ftse",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/business/imf",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fapr%2F15%2Fstock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates&type=article&internalpagecode=business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
-      "addedAt": "2026-04-16T06:43:27.037Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/us-capitol-breach",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2021/apr/19/proud-boys-judge-custody-capitol-attack-ethan-nordean-joseph-biggs",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2025/jan/21/enrique-tarrio-stewart-rhodes-pardon-january-6-trump",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/trump-administration",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/books/2026/apr/11/strange-people-on-the-hill-michael-edison-hayden",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2024/jan/24/proud-boys-capitol-rioter-sentenced-marc-bru",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.reuters.com/world/us/officer-who-responded-us-capitol-attack-is-third-die-by-suicide-2021-08-02",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://apps.apple.com/app/the-guardian-live-world-news/id409128287",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://play.google.com/store/apps/details?id=com.guardian",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/securedrop",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/tips",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/far-right--us-",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/donaldtrump",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/us-politics",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/tone/news",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fapr%2F14%2Fjanuary-6-convictions-overturn-doj-proud-boys-oath-keepers&type=article&internalpagecode=us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
-      "addedAt": "2026-04-16T06:43:29.225Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&utm_campaign=BN22326&utm_content=signup&utm_term=standfirst&utm_source=GUARDIAN_WEB",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/jd-vance",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/donaldtrump",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/2026/apr/12/ex-cia-director-oust-trump-25th-amendment",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/article/2024/jun/28/biden-trump-first-presidential-debate",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://apps.apple.com/app/the-guardian-live-world-news/id409128287",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://play.google.com/store/apps/details?id=com.guardian",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/securedrop",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/tips",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/house-of-representatives",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/us-congress",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/us-politics",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/democrats",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/us-news/republicans",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.theguardian.com/tone/news",
-      "depth": 2,
-      "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/14/congress-25th-amendment-commission-trump-jd-vance",
-      "addedAt": "2026-04-16T06:43:31.337Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/sections/climate",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/programs/morning-edition/nx-s1-5736265/morning-edition-for-april-15-2026",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/people/1119646476/julia-simon",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_the_iran_war_created_a_global_natural_gas_shortage_a_windfall_for_u.s._companies.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=6&d=231&size=3706925&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5766431",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/04/13/nx-s1-5783445/iran-war-updates",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/06/nx-s1-5736593/middle-east-iran-energy-lng",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/series/1205445976/middle-east-crisis",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.reuters.com/business/energy/us-lng-exports-break-record-high-middle-east-war-disrupts-global-supply-2026-04-01",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.cheniere.com/newsroom/newsroom-cheniere-achieves-substantial-completion-of-train-5-at-ccl-stage-3",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/04/09/nx-s1-5745144/oil-company-profits-high-oil-prices",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/sections/business",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://investors.ventureglobal.com/news/news-details/2026/Venture-Global-Announces-Final-Investment-Decision-and-Financial-Close-for-Phase-2-of-CP2-LNG/default.aspx",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/24/g-s1-114940/asia-boosts-coal-use-as-iran-war-squeezes-global-lng-supplies",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/16/nx-s1-5732984/energy-iran-war-solar-pakistan-crisis-renewable-evs",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/tags/g-s1-112089/u-s-war-in-iran",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/tags/1138901203/lng",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/tags/672000926/energy-companies",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5766431/us-iran-trump-lng-supply-strait-of-hormuz-qatar",
-      "addedAt": "2026-04-17T06:43:43.154Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/newsletter/news",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_the_iran_war_created_a_global_natural_gas_shortage_a_windfall_for_u.s._companies.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=6&d=231&size=3706925&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5766431",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/04/10/nx-s1-5770433/delay-funding-fema-hurricanes-disasters-wildfires-floods",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_communities_are_waiting_on_billions_in_disaster_funding_from_the_trump_administration.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=5&d=232&size=3718209&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5770433",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/04/03/nx-s1-5766467/climate-change-money-energy-costs-savings-question",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/sections/the-picture-show/2026/04/01/nx-s1-5749446/botanist-search-seeds-rare-death-valley-sage",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/sections/pictureshow",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/04/20260402_atc_a_botanist_searches_for_the_seeds_of_the_rare_death_valley_sage.mp3?t=progseg&e=nx-s1-5752748&p=2&seg=15&d=315&size=5046484&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5749446",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/30/nx-s1-5753765/fema-trump-extreme-weather-rural-pennsylvania",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260330_atc_trump_administration_cuts_turned_rural_towns_into_sitting_ducks_for_disasters.mp3?t=progseg&e=nx-s1-5727895&p=2&seg=5&d=248&size=3976926&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5753765",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/27/nx-s1-5671057/mangrove-fisheries-climate-change-cambodia",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260408_me_these_trees_brought_a_fishery_back_from_the_brink._they_can_help_you_too.mp3?t=progseg&e=nx-s1-5759985&p=3&seg=9&d=289&size=4628107&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5671057",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/26/nx-s1-5760979/trump-offshore-wind-climate-change-energy",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/24/g-s1-114940/asia-boosts-coal-use-as-iran-war-squeezes-global-lng-supplies",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/series/1205445976/middle-east-crisis",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/23/g-s1-114868/trump-totalenergies-offshore-wind-leases",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/sections/energy",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/23/nx-s1-5753761/trump-ev-renewables-oil-prices",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260323_me_how_trump_administration_s_policy_changes_are_affecting_what_we_pay_for_energy.mp3?t=progseg&e=nx-s1-5719513&p=3&seg=8&d=294&size=4712534&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5753761",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/16/nx-s1-5732984/energy-iran-war-solar-pakistan-crisis-renewable-evs",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260316_me_oil_and_gas_prices_are_soaring._some_countries_are_ready_with_solar_panels_and_evs.mp3?t=progseg&e=nx-s1-5709771&p=3&seg=9&d=231&size=3706925&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5732984",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
       "url": "https://www.npr.org/2026/03/13/nx-s1-5746783/potomac-sewage-lawsuit",
       "depth": 2,
       "sourceUrl": "https://www.npr.org/sections/climate",
@@ -8114,51 +7120,193 @@
     "https://www.theguardian.com/us-news/donaldtrump",
     "https://nypost.com/2026/04/13/us-news/trump-admin-live-updates-april-13-14-15-16-17-18-19",
     "https://www.theguardian.com/world/2025/dec/03/asim-munir-pakistan-army-chief",
-    "https://www.theguardian.com/world/iran"
+    "https://www.theguardian.com/world/iran",
+    "https://www.theguardian.com/world/2026/apr/13/donald-trump-pope-leo",
+    "https://www.youtube.com/watch?v=xcwcnb2ckO0",
+    "https://www.theguardian.com/business/imf",
+    "https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices",
+    "https://www.theguardian.com/us-news/jd-vance",
+    "https://www.theguardian.com/world/giorgia-meloni",
+    "https://www.theguardian.com/us-news/house-of-representatives",
+    "https://www.theguardian.com/us-news/minnesota",
+    "https://www.theguardian.com/us-news/2026/apr/14/ice-detention-minnesota-investigation-false-arrest",
+    "https://www.theguardian.com/us-news/mississippi",
+    "https://www.theguardian.com/us-news/virginia",
+    "https://www.theguardian.com/us-news/2026/apr/13/trump-news-at-a-glance-latest-updates-today",
+    "https://www.theguardian.com/us-news/trump-administration",
+    "https://www.theguardian.com/us-news/series/trump-administration-briefing",
+    "https://www.theguardian.com/us-news/us-politics",
+    "https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fapr%2F14%2Ftrump-news-at-a-glance-latest-updates-today&type=article&internalpagecode=us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+    "https://www.theguardian.com/business/series/guardian-business-live",
+    "https://www.theguardian.com/business/business",
+    "https://www.theguardian.com/politics/2026/apr/15/rachel-reeves-donald-trump-iran-war-uk-us",
+    "https://www.theguardian.com/business/2026/apr/15/iran-war-global-debt-imf-prices-growth",
+    "https://www.theguardian.com/profile/graemewearden",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfbe2d8f08259d93962191",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfc6758f08fbc58317dad2",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfc3148f08259d939621d0",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfc26e8f08259d939621c8",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfad988f08259d9396208d",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfa4118f08b9e0aac008f5",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69dfa02b8f08259d93961fa1",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df91e68f08fbc58317d777",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df910b8f08259d93961eb1",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df8cfa8f08fbc58317d71f",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df81db8f08fbc58317d698",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df72678f08259d93961d46",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df87ea8f08259d93961e3e",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df75328f08b9e0aac00649",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df73f58f08fbc58317d614",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df6e3f8f08fbc58317d5e2",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df62fc8f08259d93961c7b",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df5a758f08a36a1628936b",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df51b98f0838846e625a8b",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df45a68f08a36a162892d6",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df3df28f08ca2755e149e9",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df3ca68f08a36a162892a2",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df32e48f0838846e6259a6",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df2edb8f08ca2755e1498b",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?filterKeyEvents=false&page=with%3Ablock-69df26278f08a36a16289229",
+    "https://www.theguardian.com/world/2026/apr/14/rachel-reeves-folly-us-going-to-war-iran-without-clear-exit-plan",
+    "https://www.ft.com/content/d6459373-c681-4787-9c52-48ccda530da7?syn-25a6b1a6=1",
+    "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates?page=with%3Ablock-69dfa02b8f08259d93961fa1",
+    "https://www.theguardian.com/business/economics",
+    "https://www.theguardian.com/business/stock-markets",
+    "https://www.theguardian.com/business/ftse",
+    "https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fapr%2F15%2Fstock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates&type=article&internalpagecode=business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+    "https://www.theguardian.com/us-news/us-capitol-breach",
+    "https://www.theguardian.com/us-news/2021/apr/19/proud-boys-judge-custody-capitol-attack-ethan-nordean-joseph-biggs",
+    "https://www.theguardian.com/us-news/2025/jan/21/enrique-tarrio-stewart-rhodes-pardon-january-6-trump",
+    "https://www.theguardian.com/books/2026/apr/11/strange-people-on-the-hill-michael-edison-hayden",
+    "https://www.theguardian.com/us-news/2024/jan/24/proud-boys-capitol-rioter-sentenced-marc-bru",
+    "https://www.reuters.com/world/us/officer-who-responded-us-capitol-attack-is-third-die-by-suicide-2021-08-02",
+    "https://apps.apple.com/app/the-guardian-live-world-news/id409128287",
+    "https://play.google.com/store/apps/details?id=com.guardian",
+    "https://www.theguardian.com/securedrop",
+    "https://www.theguardian.com/tips",
+    "https://www.theguardian.com/us-news/far-right--us-",
+    "https://www.theguardian.com/tone/news",
+    "https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fapr%2F14%2Fjanuary-6-convictions-overturn-doj-proud-boys-oath-keepers&type=article&internalpagecode=us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+    "https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&utm_campaign=BN22326&utm_content=signup&utm_term=standfirst&utm_source=GUARDIAN_WEB",
+    "https://www.theguardian.com/world/2026/apr/07/israel-warns-iran-lives-at-risk-if-they-use-trains-trump-deadline",
+    "https://www.theguardian.com/us-news/2026/apr/13/trump-ai-image-christ-like-figure-backlash",
+    "https://www.theguardian.com/us-news/2026/apr/12/ex-cia-director-oust-trump-25th-amendment",
+    "https://www.theguardian.com/us-news/article/2024/jun/28/biden-trump-first-presidential-debate",
+    "https://www.theguardian.com/us-news/us-congress",
+    "https://www.theguardian.com/us-news/democrats",
+    "https://www.theguardian.com/us-news/republicans",
+    "https://www.npr.org/programs/morning-edition/nx-s1-5736265/morning-edition-for-april-15-2026",
+    "https://www.npr.org/people/1119646476/julia-simon",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_the_iran_war_created_a_global_natural_gas_shortage_a_windfall_for_u.s._companies.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=6&d=231&size=3706925&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5766431",
+    "https://www.npr.org/2026/03/06/nx-s1-5736593/middle-east-iran-energy-lng",
+    "https://www.reuters.com/business/energy/us-lng-exports-break-record-high-middle-east-war-disrupts-global-supply-2026-04-01",
+    "https://www.cheniere.com/newsroom/newsroom-cheniere-achieves-substantial-completion-of-train-5-at-ccl-stage-3",
+    "https://www.npr.org/2026/04/09/nx-s1-5745144/oil-company-profits-high-oil-prices",
+    "https://www.npr.org/sections/business",
+    "https://investors.ventureglobal.com/news/news-details/2026/Venture-Global-Announces-Final-Investment-Decision-and-Financial-Close-for-Phase-2-of-CP2-LNG/default.aspx",
+    "https://www.npr.org/2026/03/24/g-s1-114940/asia-boosts-coal-use-as-iran-war-squeezes-global-lng-supplies",
+    "https://www.npr.org/2026/03/16/nx-s1-5732984/energy-iran-war-solar-pakistan-crisis-renewable-evs",
+    "https://www.npr.org/tags/g-s1-112089/u-s-war-in-iran",
+    "https://www.npr.org/tags/1138901203/lng",
+    "https://www.npr.org/tags/672000926/energy-companies",
+    "https://www.npr.org/newsletter/news",
+    "https://www.npr.org/2026/04/10/nx-s1-5770433/delay-funding-fema-hurricanes-disasters-wildfires-floods",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_communities_are_waiting_on_billions_in_disaster_funding_from_the_trump_administration.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=5&d=232&size=3718209&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5770433",
+    "https://www.npr.org/2026/04/03/nx-s1-5766467/climate-change-money-energy-costs-savings-question",
+    "https://www.npr.org/sections/the-picture-show/2026/04/01/nx-s1-5749446/botanist-search-seeds-rare-death-valley-sage",
+    "https://www.npr.org/sections/pictureshow",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/04/20260402_atc_a_botanist_searches_for_the_seeds_of_the_rare_death_valley_sage.mp3?t=progseg&e=nx-s1-5752748&p=2&seg=15&d=315&size=5046484&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5749446",
+    "https://www.npr.org/2026/03/30/nx-s1-5753765/fema-trump-extreme-weather-rural-pennsylvania",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260330_atc_trump_administration_cuts_turned_rural_towns_into_sitting_ducks_for_disasters.mp3?t=progseg&e=nx-s1-5727895&p=2&seg=5&d=248&size=3976926&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5753765",
+    "https://www.npr.org/2026/03/27/nx-s1-5671057/mangrove-fisheries-climate-change-cambodia",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260408_me_these_trees_brought_a_fishery_back_from_the_brink._they_can_help_you_too.mp3?t=progseg&e=nx-s1-5759985&p=3&seg=9&d=289&size=4628107&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5671057",
+    "https://www.npr.org/2026/03/26/nx-s1-5760979/trump-offshore-wind-climate-change-energy",
+    "https://www.npr.org/2026/03/23/g-s1-114868/trump-totalenergies-offshore-wind-leases",
+    "https://www.npr.org/sections/energy",
+    "https://www.npr.org/2026/03/23/nx-s1-5753761/trump-ev-renewables-oil-prices",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260323_me_how_trump_administration_s_policy_changes_are_affecting_what_we_pay_for_energy.mp3?t=progseg&e=nx-s1-5719513&p=3&seg=8&d=294&size=4712534&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5753761",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260316_me_oil_and_gas_prices_are_soaring._some_countries_are_ready_with_solar_panels_and_evs.mp3?t=progseg&e=nx-s1-5709771&p=3&seg=9&d=231&size=3706925&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5732984"
   ],
   "failed": [
     {
-      "url": "https://www.lanacion.com.ar/sociedad/hacemos-patria-lejos-de-la-patria-las-escuelas-argentinas-que-a-miles-de-kilometros-del-pais-nid15042026",
+      "url": "https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fapr%2F14%2Ftrump-news-at-a-glance-latest-updates-today&type=article&internalpagecode=us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-24T06:47:18.112Z",
+      "failedAt": "2026-04-25T06:36:31.056Z",
       "retryCount": 0
     },
     {
-      "url": "https://www.lanacion.com.ar/deportes/la-fifa-crea-una-nueva-categoria-de-entradas-para-el-mundial-y-profundiza-las-sospechas-de-engano-nid15042026",
+      "url": "https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fapr%2F15%2Fstock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates&type=article&internalpagecode=business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-24T06:47:29.918Z",
+      "failedAt": "2026-04-25T06:38:06.836Z",
       "retryCount": 0
     },
     {
-      "url": "https://www.lanacion.com.ar/cultura/desde-el-jardin-un-autor-acusado-de-plagio-un-actor-obsesionado-con-el-papel-y-un-desafio-inedito-en-nid15042026",
+      "url": "https://www.reuters.com/world/us/officer-who-responded-us-capitol-attack-is-third-die-by-suicide-2021-08-02",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-24T06:47:47.975Z",
+      "failedAt": "2026-04-25T06:38:21.099Z",
       "retryCount": 0
     },
     {
-      "url": "https://www.lanacion.com.ar/deportes/en-fiorito-la-casa-de-maradona-es-un-refugio-contra-el-hambre-nid15042026",
+      "url": "https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fapr%2F14%2Fjanuary-6-convictions-overturn-doj-proud-boys-oath-keepers&type=article&internalpagecode=us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-24T06:48:19.987Z",
+      "failedAt": "2026-04-25T06:38:38.293Z",
       "retryCount": 0
     },
     {
-      "url": "https://www.lanacion.com.ar/juegos/trivias/trivia-exclusiva-cuanto-sabes-sobre-animales-y-sus-habitats-nid22042026",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_the_iran_war_created_a_global_natural_gas_shortage_a_windfall_for_u.s._companies.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=6&d=231&size=3706925&sc=siteplayer&aw_0_1st.playerid=siteplayer",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-24T06:48:33.028Z",
+      "failedAt": "2026-04-25T06:39:05.745Z",
       "retryCount": 0
     },
     {
-      "url": "https://suscripciones.lanacion.com.ar/suscripcion/V/3?cv=800&fc=831",
+      "url": "https://www.reuters.com/business/energy/us-lng-exports-break-record-high-middle-east-war-disrupts-global-supply-2026-04-01",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-24T06:49:12.247Z",
+      "failedAt": "2026-04-25T06:39:12.595Z",
       "retryCount": 0
     },
     {
-      "url": "https://www.lanacion.com.ar/opinion/el-preocupante-atraso-latinoamericano-en-ia-y-educacion-nid14042026",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_communities_are_waiting_on_billions_in_disaster_funding_from_the_trump_administration.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=5&d=232&size=3718209&sc=siteplayer&aw_0_1st.playerid=siteplayer",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-24T06:50:04.453Z",
+      "failedAt": "2026-04-25T06:39:44.195Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/04/20260402_atc_a_botanist_searches_for_the_seeds_of_the_rare_death_valley_sage.mp3?t=progseg&e=nx-s1-5752748&p=2&seg=15&d=315&size=5046484&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-25T06:39:55.809Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260330_atc_trump_administration_cuts_turned_rural_towns_into_sitting_ducks_for_disasters.mp3?t=progseg&e=nx-s1-5727895&p=2&seg=5&d=248&size=3976926&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-25T06:40:02.900Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260408_me_these_trees_brought_a_fishery_back_from_the_brink._they_can_help_you_too.mp3?t=progseg&e=nx-s1-5759985&p=3&seg=9&d=289&size=4628107&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-25T06:40:09.818Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260323_me_how_trump_administration_s_policy_changes_are_affecting_what_we_pay_for_energy.mp3?t=progseg&e=nx-s1-5719513&p=3&seg=8&d=294&size=4712534&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-25T06:40:25.262Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260316_me_oil_and_gas_prices_are_soaring._some_countries_are_ready_with_solar_panels_and_evs.mp3?t=progseg&e=nx-s1-5709771&p=3&seg=9&d=231&size=3706925&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-25T06:40:30.091Z",
       "retryCount": 0
     }
   ],
-  "lastUpdated": "2026-04-24T06:50:27.545Z"
+  "lastUpdated": "2026-04-25T06:40:32.713Z"
 }
