@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-04-25T06:40:32.889Z",
-  "totalDays": 11,
-  "totalSites": 54,
+  "lastUpdated": "2026-04-26T06:48:56.547Z",
+  "totalDays": 12,
+  "totalSites": 66,
   "dates": [
+    {
+      "date": "2026-04-26",
+      "pageCount": 100,
+      "categories": [
+        "Culture",
+        "Science",
+        "News",
+        "Environment",
+        "Business",
+        "Politics",
+        "General",
+        "Education",
+        "Technology"
+      ]
+    },
     {
       "date": "2026-04-25",
       "pageCount": 100,
@@ -161,6 +176,111 @@
   ],
   "sites": [
     {
+      "id": "15c34ca087ee",
+      "domain": "www.pillarhq.com",
+      "title": "Pillar",
+      "lastCrawled": "2026-04-26",
+      "crawlCount": 1
+    },
+    {
+      "id": "26aefa47bc6b",
+      "domain": "mastodon.social",
+      "title": "Sarah Perez 💙 (@Sarahp@mastodon.social) - Mastodon",
+      "lastCrawled": "2026-04-26",
+      "crawlCount": 1
+    },
+    {
+      "id": "3adf5f94d36c",
+      "domain": "arstechnica.com",
+      "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
+      "lastCrawled": "2026-04-26",
+      "crawlCount": 4
+    },
+    {
+      "id": "7a07e68cd74f",
+      "domain": "www.archives.gov",
+      "title": "What is the Electoral College? | National Archives",
+      "lastCrawled": "2026-04-26",
+      "crawlCount": 1
+    },
+    {
+      "id": "873a2f88ed36",
+      "domain": "digitalcommons.law.byu.edu",
+      "title": "\"Why the National Popular Vote Compact is Unconstitutional\" by Norman R. Williams",
+      "lastCrawled": "2026-04-26",
+      "crawlCount": 1
+    },
+    {
+      "id": "897bd535efb1",
+      "domain": "www.npr.org",
+      "title": "NPR - Breaking News, Analysis, Music, Arts &amp; Podcasts : NPR",
+      "lastCrawled": "2026-04-26",
+      "crawlCount": 5
+    },
+    {
+      "id": "948a8fe59552",
+      "domain": "www.law.cornell.edu",
+      "title": "19 U.S. Code § 1509 - Examination of books and witnesses | U.S. Code | US Law | LII / Legal Information Institute",
+      "lastCrawled": "2026-04-26",
+      "crawlCount": 1
+    },
+    {
+      "id": "bbbe20f0e8b9",
+      "domain": "theintercept.com",
+      "title": "Feds Try Secret Grand Jury to Unmask Reddit ICE Critic",
+      "lastCrawled": "2026-04-26",
+      "crawlCount": 1
+    },
+    {
+      "id": "d76007e5a512",
+      "domain": "www.pewresearch.org",
+      "title": "Eliminating Electoral College favored by majority of Americans | Pew Research Center",
+      "lastCrawled": "2026-04-26",
+      "crawlCount": 1
+    },
+    {
+      "id": "e3b3dc3a7d85",
+      "domain": "blog.google",
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "lastCrawled": "2026-04-26",
+      "crawlCount": 1
+    },
+    {
+      "id": "e9bd8801e998",
+      "domain": "cldc.org",
+      "title": "Civil Liberties Defense Center | We've Got Your Back, Until All Are Free",
+      "lastCrawled": "2026-04-26",
+      "crawlCount": 1
+    },
+    {
+      "id": "ef9270e48501",
+      "domain": "www.vpm.org",
+      "title": "Democrats sweep Virginia's statewide offices, expand House majority",
+      "lastCrawled": "2026-04-26",
+      "crawlCount": 1
+    },
+    {
+      "id": "efad13f564f4",
+      "domain": "techcrunch.com",
+      "title": "TechCrunch | Startup and Technology News",
+      "lastCrawled": "2026-04-26",
+      "crawlCount": 4
+    },
+    {
+      "id": "f4e96efb0dac",
+      "domain": "uscode.house.gov",
+      "title": "19 USC Ch. 4: TARIFF ACT OF 1930",
+      "lastCrawled": "2026-04-26",
+      "crawlCount": 1
+    },
+    {
+      "id": "f72c2d6d2339",
+      "domain": "bsky.app",
+      "title": "@sarahp.bsky.social on Bluesky",
+      "lastCrawled": "2026-04-26",
+      "crawlCount": 1
+    },
+    {
       "id": "3bbd7c83445a",
       "domain": "apps.apple.com",
       "title": "‎The Guardian - US &amp; World News App - App Store",
@@ -194,13 +314,6 @@
       "title": "Cheniere | Newsroom",
       "lastCrawled": "2026-04-25",
       "crawlCount": 1
-    },
-    {
-      "id": "897bd535efb1",
-      "domain": "www.npr.org",
-      "title": "NPR - Breaking News, Analysis, Music, Arts &amp; Podcasts : NPR",
-      "lastCrawled": "2026-04-25",
-      "crawlCount": 4
     },
     {
       "id": "8e08d6d89d17",
@@ -364,13 +477,6 @@
       "crawlCount": 1
     },
     {
-      "id": "3adf5f94d36c",
-      "domain": "arstechnica.com",
-      "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
-      "lastCrawled": "2026-04-19",
-      "crawlCount": 3
-    },
-    {
       "id": "49a252f16350",
       "domain": "blog.playstation.com",
       "title": "An upgraded version of Roblox launches on PS5 today – PlayStation.Blog",
@@ -418,13 +524,6 @@
       "title": "“Oh My God, This Is So F---ed Up”: Inside Silicon Valley’s Secretive, Orgiastic Dark Side | Vanity Fair",
       "lastCrawled": "2026-04-19",
       "crawlCount": 1
-    },
-    {
-      "id": "efad13f564f4",
-      "domain": "techcrunch.com",
-      "title": "TechCrunch | Startup and Technology News",
-      "lastCrawled": "2026-04-18",
-      "crawlCount": 3
     },
     {
       "id": "37a7d61e3293",

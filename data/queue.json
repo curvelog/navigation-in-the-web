@@ -1,1280 +1,6 @@
 {
   "pending": [
     {
-      "url": "https://www.npr.org/2026/03/13/nx-s1-5746783/potomac-sewage-lawsuit",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/13/nx-s1-5736150/deep-sea-mining-impact-critical-minerals",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260314_atc_countries_are_negotiating_deep_sea_mining_rules._the_u.s._is_pushing_ahead_on_its_own.mp3?t=progseg&e=nx-s1-5699979&p=2&seg=3&d=270&size=4332191&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5736150",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/12/nx-s1-5745008/el-nino-summer-2026-forecast-hot",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.324Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260312_atc_el_ni_o_is_set_to_take_hold_this_summer_driving_up_global_temperatures.mp3?t=progseg&e=nx-s1-5702846&p=2&seg=3&d=136&size=2185135&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5745008",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/12/nx-s1-5737287/solar-panels-utilities-energy-saving",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260319_me_easy-to-use_solar_panels_are_coming_but_utilities_are_trying_to_delay_them.mp3?t=progseg&e=nx-s1-5734065&p=3&seg=6&d=231&size=3706089&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5737287",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/09/nx-s1-5734455/home-insurance-risk-disasters-climate-change-extreme-weather",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260311_me_2025_saw_relatively_fewer_natural_disasters._will_you_get_a_break_on_home_insurance.mp3?t=progseg&e=nx-s1-5702968&p=3&seg=4&d=157&size=2525354&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5734455",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/09/nx-s1-5737528/canada-snow-geese-migration",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/sections/animals",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/09/nx-s1-5741796/rising-seas-climate-change-study",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/06/nx-s1-5736593/middle-east-iran-energy-lng",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/02/28/nx-s1-5678603/iran-strikes-oil-energy-markets",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/sections/the-picture-show/2026/02/27/g-s1-111346/madison-wisconsin-frozen-assets-festival",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/02/26/nx-s1-5726431/data-centers-ai-trump-housing-states",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/sections/national",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2026/02/20260222_wesun_democrats_and_republicans_agree_on_one_thing_regulating_the_use_of_ai.mp3?t=progseg&e=nx-s1-5679739&p=10&seg=10&d=418&size=6698676&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5726431",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/02/20/nx-s1-5649474/solar-panel-tax-credit",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/02/20260225_me_tax_credits_for_solar_panels_are_available_but_the_catch_is_you_can_t_own_them.mp3?t=progseg&e=nx-s1-5654746&p=3&seg=14&d=209&size=3349569&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5649474",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/02/23/g-s1-110980/trump-coal-energy-colorado",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/02/20260219_atc_trump_co_coal_plant.mp3?t=progseg&e=nx-s1-5701655&p=2&seg=16&d=216&size=3470360&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/g-s1-110980",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/sections/climate/archive?start=placeholder",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/sections/climate/archive",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/search",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/climate",
-      "addedAt": "2026-04-17T06:43:45.325Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/sections/elections",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
-      "addedAt": "2026-04-17T06:43:47.522Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/people/919091588/ashley-lopez",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
-      "addedAt": "2026-04-17T06:43:47.522Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.archives.gov/electoral-college/about",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
-      "addedAt": "2026-04-17T06:43:47.522Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.vpm.org/elections/2025-11-04/election-2025-democrats-win-spanberger-hashmi-jones-gov-ltgov-ag",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
-      "addedAt": "2026-04-17T06:43:47.522Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/02/22/nx-s1-5707254/power-trump-congress-house-representatives-voters-control",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
-      "addedAt": "2026-04-17T06:43:47.522Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/02/13/nx-s1-5711630/virginia-court-allows-democrats-redistricting-vote-in-their-plan-to-counter-to-trump",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
-      "addedAt": "2026-04-17T06:43:47.522Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/sections/national",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
-      "addedAt": "2026-04-17T06:43:47.523Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.pewresearch.org/short-reads/2024/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
-      "addedAt": "2026-04-17T06:43:47.523Z",
-      "priority": 2
-    },
-    {
-      "url": "https://centerforpolitics.org/crystalball/a-brief-history-of-electoral-college-bias",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
-      "addedAt": "2026-04-17T06:43:47.523Z",
-      "priority": 2
-    },
-    {
-      "url": "https://digitalcommons.law.byu.edu/lawreview/vol2012/iss5/3",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
-      "addedAt": "2026-04-17T06:43:47.523Z",
-      "priority": 2
-    },
-    {
-      "url": "https://journals.law.harvard.edu/jol/2018/10/26/combination-among-the-states-npvic-unconstitutional",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
-      "addedAt": "2026-04-17T06:43:47.523Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/tags/1102507401/voting-stories",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/2026/04/14/nx-s1-5742595/virginia-popular-vote-compact",
-      "addedAt": "2026-04-17T06:43:47.523Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/newsletter/politics",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/04/08/nx-s1-5770114/democrats-wisconsin-georgia-election-shift-overperformance-trump",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260409_me_democrats_keep_doing_better_in_elections_since_trump_returned_to_office.mp3?t=progseg&e=nx-s1-5737664&p=3&seg=4&d=222&size=3567326&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5770114",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/04/08/nx-s1-5725279/college-trump-voting-data-probe-voting-registration",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/sections/deep-dive",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_colleges_are_trying_to_boost_student_voting._a_trump_probe_freezes_data_for_that_work.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=16&d=226&size=3618735&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5725279",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/31/nx-s1-5508948/trump-voter-list-mail-ballots-executive-order",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/27/nx-s1-5764266/voter-data-trump-doj-dhs",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/26/nx-s1-5757659/midterms-collins-maine-democrats-platner-mills-senate",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260326_me_hoping_to_unseat_collins_maine_dems_battle_it_out_in_an_expensive_us_senate_primary.mp3?t=progseg&e=nx-s1-5710115&p=3&seg=6&d=201&size=3225436&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5757659",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/23/nx-s1-5742764/evers-wisconsin-redistricting",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260323_atc_wisconsin_s_outgoing_democratic_governor_pushes_for_a_ban_on_gerrymandering.mp3?t=progseg&e=nx-s1-5719556&p=2&seg=11&d=199&size=3191999&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5742764",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/19/nx-s1-5750510/state-save-acts-florida",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/18/nx-s1-5751167/israel-democrats-primaries-polling",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/sections/analysis",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/17/nx-s1-5751169/illinois-primary-ninth-district-daniel-biss-kat-abughazaleh",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/sections/politics",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/17/g-s1-113929/illinois-primary-election-results-2026",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/13/nx-s1-5726873/generational-politics-il-9",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2026/03/20260315_wesun_how_the_democrats_generational_tug-of-war_is_playing_out_in_one_chicago-area_race.mp3?t=progseg&e=nx-s1-5730809&p=10&seg=10&d=325&size=5203636&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/transcripts/nx-s1-5726873",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/13/nx-s1-5745932/texas-primary-democrats-turnout-talarico-crockett",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/11/nx-s1-5743823/voting-poll-national-guard-election-security",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/10/nx-s1-5742711/georgia-special-election-mtg-trump-fuller-moore",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/10/g-s1-112744/mississippi-primary-election-results-2026",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.npr.org/2026/03/09/nx-s1-5742633/arizona-maricopa-county-2020-records-petersen",
-      "depth": 2,
-      "sourceUrl": "https://www.npr.org/sections/elections",
-      "addedAt": "2026-04-17T06:43:49.742Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.gettyimages.com/search/2/image?artistexact=picturealliance",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.reddit.com/submit?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F04%2F14%2Fgoogle-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows%2F&title=Google+adds+AI+Skills+to+Chrome+to+help+you+save+favorite+workflows",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2025/05/20/google-is-launching-a-gemini-integration-in-chrome",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2025/10/21/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/tag/ai-prompts",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/tag/chrome",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/tag/chrome-skills",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/tag/gemini",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/tag/google",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://bsky.app/profile/sarahp.bsky.social",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://mastodon.social/@Sarahp",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/events/strictlyvc-san-francisco-2026/?utm_source=tc&utm_medium=ad&utm_campaign=svcsf2026&utm_content=ticketsales&promo=rightrail&display=",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/author/amanda-silberling",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/author/anthony-ha",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows",
-      "addedAt": "2026-04-18T06:31:21.313Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/author/dominic-madori-davis",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/events/strictlyvc-san-francisco-2026",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/author/techcrunch-events",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/author/marina-temkin",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/events/techcrunch-disrupt",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/09/how-to-make-the-startup-battlefield-top-20-and-what-every-company-gets-regardless",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/author/isabelle-johannessen",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/podcast/how-secondary-markets-are-pricing-spacex-openai-and-anthropic-before-they-go-public",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/author/maggie-stamets",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.639Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/category/fundraising",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/author/rebecca-bellan",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/category/hardware",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/video/are-orbital-data-centers-all-hype-or-an-actual-ai-infrastructure-solution",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/author/anthony-ha",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/author/sean-okane",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/podcast/space-the-final-frontier-of-ai-infrastructure",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/podcast/diverse-teams-start-with-diverse-vcs-with-leah-solivan-taskrabbit",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/podcast/why-private-wealth-is-cutting-out-the-vc-middleman",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/author/theresa-loconsolo",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/video/the-new-competition-for-your-cap-table",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/events/strictlyvc-san-francisco-2026/?utm_source=tc&utm_medium=ad&utm_campaign=svcsf2026&utm_content=ticketsales&promo=rightrail&display=",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/author/amanda-silberling",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/category/venture",
-      "addedAt": "2026-04-18T06:31:23.640Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.reddit.com/submit?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F04%2F14%2Ffinancial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z%2F&title=Financial+risk+management+platform+Pillar+raises+%2420M+seed+in+round+led+by+a16z",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/author/dominic-madori-davis",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.pillarhq.com/",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/events/tc-disrupt-2026/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2026&utm_content=tc_inline_eb&promo=tc_inline_eb&display=",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/tag/banking",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/tag/finance",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/tag/trading",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/events/strictlyvc-san-francisco-2026/?utm_source=tc&utm_medium=ad&utm_campaign=svcsf2026&utm_content=ticketsales&promo=rightrail&display=",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/an-amazon-warehouse-worker-died-on-the-job-at-oregon-facility",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/author/amanda-silberling",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/author/anthony-ha",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z",
-      "addedAt": "2026-04-18T06:31:26.051Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
-      "addedAt": "2026-04-18T06:31:28.415Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
-      "addedAt": "2026-04-18T06:31:28.415Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/13/ibm-pays-17m-fine-to-end-doj-suit-over-dei-programs",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
-      "addedAt": "2026-04-18T06:31:28.415Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/09/collide-capital-raises-95m-fund-to-back-fintech-future-of-work-startups",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
-      "addedAt": "2026-04-18T06:31:28.415Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
-      "addedAt": "2026-04-18T06:31:28.415Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
-      "addedAt": "2026-04-18T06:31:28.415Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
-      "addedAt": "2026-04-18T06:31:28.415Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
-      "addedAt": "2026-04-18T06:31:28.415Z",
-      "priority": 2
-    },
-    {
-      "url": "https://techcrunch.com/category/media-entertainment",
-      "depth": 2,
-      "sourceUrl": "https://techcrunch.com/author/dominic-madori-davis",
-      "addedAt": "2026-04-18T06:31:28.415Z",
-      "priority": 2
-    },
-    {
-      "url": "https://theintercept.com/2026/04/10/reddit-ice-protest-grand-jury",
-      "depth": 2,
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
-      "addedAt": "2026-04-19T06:39:36.630Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.law.cornell.edu/uscode/text/19/1509",
-      "depth": 2,
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
-      "addedAt": "2026-04-19T06:39:36.630Z",
-      "priority": 2
-    },
-    {
-      "url": "https://uscode.house.gov/view.xhtml?path=/prelim@title19/chapter4&edition=prelim",
-      "depth": 2,
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
-      "addedAt": "2026-04-19T06:39:36.630Z",
-      "priority": 2
-    },
-    {
-      "url": "https://cldc.org/",
-      "depth": 2,
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
-      "addedAt": "2026-04-19T06:39:36.630Z",
-      "priority": 2
-    },
-    {
-      "url": "https://arstechnica.com/tech-policy/2025/10/trump-admin-pressured-facebook-into-removing-ice-tracking-group",
-      "depth": 2,
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
-      "addedAt": "2026-04-19T06:39:36.630Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.startribune.com/ice-agent-who-fatally-shot-woman-in-minneapolis-is-identified/601560214",
-      "depth": 2,
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
-      "addedAt": "2026-04-19T06:39:36.630Z",
-      "priority": 2
-    },
-    {
-      "url": "https://arstechnica.com/author/jon-brodkin",
-      "depth": 2,
-      "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
-      "addedAt": "2026-04-19T06:39:36.630Z",
-      "priority": 2
-    },
-    {
       "url": "https://arstechnica.com/civis/threads/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice.1512518",
       "depth": 2,
       "sourceUrl": "https://arstechnica.com/tech-policy/2026/04/trump-admin-hounds-reddit-to-reveal-identity-of-user-who-criticized-ice",
@@ -7232,81 +5958,256 @@
     "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260323_me_how_trump_administration_s_policy_changes_are_affecting_what_we_pay_for_energy.mp3?t=progseg&e=nx-s1-5719513&p=3&seg=8&d=294&size=4712534&sc=siteplayer&aw_0_1st.playerid=siteplayer",
     "https://www.npr.org/transcripts/nx-s1-5753761",
     "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260316_me_oil_and_gas_prices_are_soaring._some_countries_are_ready_with_solar_panels_and_evs.mp3?t=progseg&e=nx-s1-5709771&p=3&seg=9&d=231&size=3706925&sc=siteplayer&aw_0_1st.playerid=siteplayer",
-    "https://www.npr.org/transcripts/nx-s1-5732984"
+    "https://www.npr.org/transcripts/nx-s1-5732984",
+    "https://www.npr.org/2026/03/13/nx-s1-5746783/potomac-sewage-lawsuit",
+    "https://www.npr.org/2026/03/13/nx-s1-5736150/deep-sea-mining-impact-critical-minerals",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260314_atc_countries_are_negotiating_deep_sea_mining_rules._the_u.s._is_pushing_ahead_on_its_own.mp3?t=progseg&e=nx-s1-5699979&p=2&seg=3&d=270&size=4332191&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5736150",
+    "https://www.npr.org/2026/03/12/nx-s1-5745008/el-nino-summer-2026-forecast-hot",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260312_atc_el_ni_o_is_set_to_take_hold_this_summer_driving_up_global_temperatures.mp3?t=progseg&e=nx-s1-5702846&p=2&seg=3&d=136&size=2185135&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5745008",
+    "https://www.npr.org/2026/03/12/nx-s1-5737287/solar-panels-utilities-energy-saving",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260319_me_easy-to-use_solar_panels_are_coming_but_utilities_are_trying_to_delay_them.mp3?t=progseg&e=nx-s1-5734065&p=3&seg=6&d=231&size=3706089&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5737287",
+    "https://www.npr.org/2026/03/09/nx-s1-5734455/home-insurance-risk-disasters-climate-change-extreme-weather",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260311_me_2025_saw_relatively_fewer_natural_disasters._will_you_get_a_break_on_home_insurance.mp3?t=progseg&e=nx-s1-5702968&p=3&seg=4&d=157&size=2525354&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5734455",
+    "https://www.npr.org/2026/03/09/nx-s1-5737528/canada-snow-geese-migration",
+    "https://www.npr.org/sections/animals",
+    "https://www.npr.org/2026/03/09/nx-s1-5741796/rising-seas-climate-change-study",
+    "https://www.npr.org/2026/02/28/nx-s1-5678603/iran-strikes-oil-energy-markets",
+    "https://www.npr.org/sections/the-picture-show/2026/02/27/g-s1-111346/madison-wisconsin-frozen-assets-festival",
+    "https://www.npr.org/2026/02/26/nx-s1-5726431/data-centers-ai-trump-housing-states",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2026/02/20260222_wesun_democrats_and_republicans_agree_on_one_thing_regulating_the_use_of_ai.mp3?t=progseg&e=nx-s1-5679739&p=10&seg=10&d=418&size=6698676&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5726431",
+    "https://www.npr.org/2026/02/20/nx-s1-5649474/solar-panel-tax-credit",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/02/20260225_me_tax_credits_for_solar_panels_are_available_but_the_catch_is_you_can_t_own_them.mp3?t=progseg&e=nx-s1-5654746&p=3&seg=14&d=209&size=3349569&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5649474",
+    "https://www.npr.org/2026/02/23/g-s1-110980/trump-coal-energy-colorado",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/02/20260219_atc_trump_co_coal_plant.mp3?t=progseg&e=nx-s1-5701655&p=2&seg=16&d=216&size=3470360&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/g-s1-110980",
+    "https://www.npr.org/sections/climate/archive?start=placeholder",
+    "https://www.npr.org/sections/climate/archive",
+    "https://www.npr.org/search",
+    "https://www.npr.org/people/919091588/ashley-lopez",
+    "https://www.archives.gov/electoral-college/about",
+    "https://www.vpm.org/elections/2025-11-04/election-2025-democrats-win-spanberger-hashmi-jones-gov-ltgov-ag",
+    "https://www.npr.org/2026/02/22/nx-s1-5707254/power-trump-congress-house-representatives-voters-control",
+    "https://www.npr.org/2026/02/13/nx-s1-5711630/virginia-court-allows-democrats-redistricting-vote-in-their-plan-to-counter-to-trump",
+    "https://www.pewresearch.org/short-reads/2024/09/25/majority-of-americans-continue-to-favor-moving-away-from-electoral-college",
+    "https://centerforpolitics.org/crystalball/a-brief-history-of-electoral-college-bias",
+    "https://digitalcommons.law.byu.edu/lawreview/vol2012/iss5/3",
+    "https://journals.law.harvard.edu/jol/2018/10/26/combination-among-the-states-npvic-unconstitutional",
+    "https://www.npr.org/tags/1102507401/voting-stories",
+    "https://www.npr.org/newsletter/politics",
+    "https://www.npr.org/2026/04/08/nx-s1-5770114/democrats-wisconsin-georgia-election-shift-overperformance-trump",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260409_me_democrats_keep_doing_better_in_elections_since_trump_returned_to_office.mp3?t=progseg&e=nx-s1-5737664&p=3&seg=4&d=222&size=3567326&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5770114",
+    "https://www.npr.org/2026/04/08/nx-s1-5725279/college-trump-voting-data-probe-voting-registration",
+    "https://www.npr.org/sections/deep-dive",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_colleges_are_trying_to_boost_student_voting._a_trump_probe_freezes_data_for_that_work.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=16&d=226&size=3618735&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5725279",
+    "https://www.npr.org/2026/03/31/nx-s1-5508948/trump-voter-list-mail-ballots-executive-order",
+    "https://www.npr.org/2026/03/27/nx-s1-5764266/voter-data-trump-doj-dhs",
+    "https://www.npr.org/2026/03/26/nx-s1-5757659/midterms-collins-maine-democrats-platner-mills-senate",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260326_me_hoping_to_unseat_collins_maine_dems_battle_it_out_in_an_expensive_us_senate_primary.mp3?t=progseg&e=nx-s1-5710115&p=3&seg=6&d=201&size=3225436&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5757659",
+    "https://www.npr.org/2026/03/23/nx-s1-5742764/evers-wisconsin-redistricting",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260323_atc_wisconsin_s_outgoing_democratic_governor_pushes_for_a_ban_on_gerrymandering.mp3?t=progseg&e=nx-s1-5719556&p=2&seg=11&d=199&size=3191999&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5742764",
+    "https://www.npr.org/2026/03/19/nx-s1-5750510/state-save-acts-florida",
+    "https://www.npr.org/2026/03/18/nx-s1-5751167/israel-democrats-primaries-polling",
+    "https://www.npr.org/2026/03/17/nx-s1-5751169/illinois-primary-ninth-district-daniel-biss-kat-abughazaleh",
+    "https://www.npr.org/2026/03/17/g-s1-113929/illinois-primary-election-results-2026",
+    "https://www.npr.org/2026/03/13/nx-s1-5726873/generational-politics-il-9",
+    "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2026/03/20260315_wesun_how_the_democrats_generational_tug-of-war_is_playing_out_in_one_chicago-area_race.mp3?t=progseg&e=nx-s1-5730809&p=10&seg=10&d=325&size=5203636&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+    "https://www.npr.org/transcripts/nx-s1-5726873",
+    "https://www.npr.org/2026/03/13/nx-s1-5745932/texas-primary-democrats-turnout-talarico-crockett",
+    "https://www.npr.org/2026/03/11/nx-s1-5743823/voting-poll-national-guard-election-security",
+    "https://www.npr.org/2026/03/10/nx-s1-5742711/georgia-special-election-mtg-trump-fuller-moore",
+    "https://www.npr.org/2026/03/10/g-s1-112744/mississippi-primary-election-results-2026",
+    "https://www.npr.org/2026/03/09/nx-s1-5742633/arizona-maricopa-county-2020-records-petersen",
+    "https://www.gettyimages.com/search/2/image?artistexact=picturealliance",
+    "https://www.reddit.com/submit?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F04%2F14%2Fgoogle-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows%2F&title=Google+adds+AI+Skills+to+Chrome+to+help+you+save+favorite+workflows",
+    "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome",
+    "https://techcrunch.com/2025/05/20/google-is-launching-a-gemini-integration-in-chrome",
+    "https://techcrunch.com/2025/10/21/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2025",
+    "https://techcrunch.com/tag/ai-prompts",
+    "https://techcrunch.com/tag/chrome",
+    "https://techcrunch.com/tag/chrome-skills",
+    "https://techcrunch.com/tag/gemini",
+    "https://techcrunch.com/tag/google",
+    "https://bsky.app/profile/sarahp.bsky.social",
+    "https://mastodon.social/@Sarahp",
+    "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals",
+    "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product",
+    "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai",
+    "https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets",
+    "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report",
+    "https://techcrunch.com/2026/04/15/accel-raises-5b-to-back-late-stage-bets",
+    "https://techcrunch.com/2026/04/15/anthropic-shrugs-off-vc-funding-offers-valuing-it-at-800b-for-now",
+    "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass",
+    "https://techcrunch.com/podcast/how-secondary-markets-are-pricing-spacex-openai-and-anthropic-before-they-go-public",
+    "https://techcrunch.com/2026/04/07/vc-eclipse-has-a-new-1-3b-to-back-and-build-physical-ai-startups",
+    "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes",
+    "https://techcrunch.com/category/fundraising",
+    "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets",
+    "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund",
+    "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k",
+    "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026",
+    "https://techcrunch.com/category/hardware",
+    "https://techcrunch.com/2026/04/04/unpacking-peter-thiels-big-bet-on-solar-powered-cow-collars",
+    "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports",
+    "https://techcrunch.com/podcast/space-the-final-frontier-of-ai-infrastructure",
+    "https://techcrunch.com/2026/04/02/gateway-capital-dana-guthrie-milwaukee-first-close-fund-ii",
+    "https://techcrunch.com/podcast/diverse-teams-start-with-diverse-vcs-with-leah-solivan-taskrabbit",
+    "https://techcrunch.com/2026/04/01/startup-funding-shatters-all-records-in-q1",
+    "https://techcrunch.com/podcast/why-private-wealth-is-cutting-out-the-vc-middleman",
+    "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try",
+    "https://www.reddit.com/submit?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F04%2F14%2Ffinancial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z%2F&title=Financial+risk+management+platform+Pillar+raises+%2420M+seed+in+round+led+by+a16z",
+    "https://www.pillarhq.com/",
+    "https://techcrunch.com/2026/03/31/its-not-your-imagination-ai-seed-startups-are-commanding-higher-valuations",
+    "https://techcrunch.com/events/tc-disrupt-2026/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2026&utm_content=tc_inline_eb&promo=tc_inline_eb&display=",
+    "https://techcrunch.com/tag/banking",
+    "https://techcrunch.com/tag/finance",
+    "https://techcrunch.com/tag/trading",
+    "https://techcrunch.com/2026/03/31/toyotas-woven-capital-appoints-new-cio-and-coo-in-push-for-finding-the-future-of-mobility",
+    "https://techcrunch.com/category/media-entertainment",
+    "https://theintercept.com/2026/04/10/reddit-ice-protest-grand-jury",
+    "https://www.law.cornell.edu/uscode/text/19/1509",
+    "https://uscode.house.gov/view.xhtml?path=/prelim@title19/chapter4&edition=prelim",
+    "https://cldc.org/",
+    "https://arstechnica.com/tech-policy/2025/10/trump-admin-pressured-facebook-into-removing-ice-tracking-group",
+    "https://www.startribune.com/ice-agent-who-fatally-shot-woman-in-minneapolis-is-identified/601560214",
+    "https://arstechnica.com/author/jon-brodkin"
   ],
   "failed": [
     {
-      "url": "https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fapr%2F14%2Ftrump-news-at-a-glance-latest-updates-today&type=article&internalpagecode=us-news/2026/apr/14/trump-news-at-a-glance-latest-updates-today",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260314_atc_countries_are_negotiating_deep_sea_mining_rules._the_u.s._is_pushing_ahead_on_its_own.mp3?t=progseg&e=nx-s1-5699979&p=2&seg=3&d=270&size=4332191&sc=siteplayer&aw_0_1st.playerid=siteplayer",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-25T06:36:31.056Z",
+      "failedAt": "2026-04-26T06:43:28.865Z",
       "retryCount": 0
     },
     {
-      "url": "https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Flive%2F2026%2Fapr%2F15%2Fstock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates&type=article&internalpagecode=business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260312_atc_el_ni_o_is_set_to_take_hold_this_summer_driving_up_global_temperatures.mp3?t=progseg&e=nx-s1-5702846&p=2&seg=3&d=136&size=2185135&sc=siteplayer&aw_0_1st.playerid=siteplayer",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-25T06:38:06.836Z",
+      "failedAt": "2026-04-26T06:43:36.180Z",
       "retryCount": 0
     },
     {
-      "url": "https://www.reuters.com/world/us/officer-who-responded-us-capitol-attack-is-third-die-by-suicide-2021-08-02",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260319_me_easy-to-use_solar_panels_are_coming_but_utilities_are_trying_to_delay_them.mp3?t=progseg&e=nx-s1-5734065&p=3&seg=6&d=231&size=3706089&sc=siteplayer&aw_0_1st.playerid=siteplayer",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-25T06:38:21.099Z",
+      "failedAt": "2026-04-26T06:43:43.245Z",
       "retryCount": 0
     },
     {
-      "url": "https://syndication.theguardian.com/?url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2026%2Fapr%2F14%2Fjanuary-6-convictions-overturn-doj-proud-boys-oath-keepers&type=article&internalpagecode=us-news/2026/apr/14/january-6-convictions-overturn-doj-proud-boys-oath-keepers",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260311_me_2025_saw_relatively_fewer_natural_disasters._will_you_get_a_break_on_home_insurance.mp3?t=progseg&e=nx-s1-5702968&p=3&seg=4&d=157&size=2525354&sc=siteplayer&aw_0_1st.playerid=siteplayer",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-25T06:38:38.293Z",
+      "failedAt": "2026-04-26T06:43:50.607Z",
       "retryCount": 0
     },
     {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_the_iran_war_created_a_global_natural_gas_shortage_a_windfall_for_u.s._companies.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=6&d=231&size=3706925&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2026/02/20260222_wesun_democrats_and_republicans_agree_on_one_thing_regulating_the_use_of_ai.mp3?t=progseg&e=nx-s1-5679739&p=10&seg=10&d=418&size=6698676&sc=siteplayer&aw_0_1st.playerid=siteplayer",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-25T06:39:05.745Z",
+      "failedAt": "2026-04-26T06:44:10.156Z",
       "retryCount": 0
     },
     {
-      "url": "https://www.reuters.com/business/energy/us-lng-exports-break-record-high-middle-east-war-disrupts-global-supply-2026-04-01",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/02/20260225_me_tax_credits_for_solar_panels_are_available_but_the_catch_is_you_can_t_own_them.mp3?t=progseg&e=nx-s1-5654746&p=3&seg=14&d=209&size=3349569&sc=siteplayer&aw_0_1st.playerid=siteplayer",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-25T06:39:12.595Z",
+      "failedAt": "2026-04-26T06:44:17.196Z",
       "retryCount": 0
     },
     {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_communities_are_waiting_on_billions_in_disaster_funding_from_the_trump_administration.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=5&d=232&size=3718209&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/02/20260219_atc_trump_co_coal_plant.mp3?t=progseg&e=nx-s1-5701655&p=2&seg=16&d=216&size=3470360&sc=siteplayer&aw_0_1st.playerid=siteplayer",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-25T06:39:44.195Z",
+      "failedAt": "2026-04-26T06:44:24.232Z",
       "retryCount": 0
     },
     {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/04/20260402_atc_a_botanist_searches_for_the_seeds_of_the_rare_death_valley_sage.mp3?t=progseg&e=nx-s1-5752748&p=2&seg=15&d=315&size=5046484&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "url": "https://www.npr.org/sections/climate/archive?start=placeholder",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-25T06:39:55.809Z",
+      "failedAt": "2026-04-26T06:44:28.924Z",
       "retryCount": 0
     },
     {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260330_atc_trump_administration_cuts_turned_rural_towns_into_sitting_ducks_for_disasters.mp3?t=progseg&e=nx-s1-5727895&p=2&seg=5&d=248&size=3976926&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "url": "https://centerforpolitics.org/crystalball/a-brief-history-of-electoral-college-bias",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-25T06:40:02.900Z",
+      "failedAt": "2026-04-26T06:44:55.514Z",
       "retryCount": 0
     },
     {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260408_me_these_trees_brought_a_fishery_back_from_the_brink._they_can_help_you_too.mp3?t=progseg&e=nx-s1-5759985&p=3&seg=9&d=289&size=4628107&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "url": "https://journals.law.harvard.edu/jol/2018/10/26/combination-among-the-states-npvic-unconstitutional",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-25T06:40:09.818Z",
+      "failedAt": "2026-04-26T06:45:00.925Z",
       "retryCount": 0
     },
     {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260323_me_how_trump_administration_s_policy_changes_are_affecting_what_we_pay_for_energy.mp3?t=progseg&e=nx-s1-5719513&p=3&seg=8&d=294&size=4712534&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260409_me_democrats_keep_doing_better_in_elections_since_trump_returned_to_office.mp3?t=progseg&e=nx-s1-5737664&p=3&seg=4&d=222&size=3567326&sc=siteplayer&aw_0_1st.playerid=siteplayer",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-25T06:40:25.262Z",
+      "failedAt": "2026-04-26T06:45:13.534Z",
       "retryCount": 0
     },
     {
-      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260316_me_oil_and_gas_prices_are_soaring._some_countries_are_ready_with_solar_panels_and_evs.mp3?t=progseg&e=nx-s1-5709771&p=3&seg=9&d=231&size=3706925&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/04/20260415_me_colleges_are_trying_to_boost_student_voting._a_trump_probe_freezes_data_for_that_work.mp3?t=progseg&e=nx-s1-5736265&p=3&seg=16&d=226&size=3618735&sc=siteplayer&aw_0_1st.playerid=siteplayer",
       "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-25T06:40:30.091Z",
+      "failedAt": "2026-04-26T06:45:23.178Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/me/2026/03/20260326_me_hoping_to_unseat_collins_maine_dems_battle_it_out_in_an_expensive_us_senate_primary.mp3?t=progseg&e=nx-s1-5710115&p=3&seg=6&d=201&size=3225436&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-26T06:45:35.224Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/atc/2026/03/20260323_atc_wisconsin_s_outgoing_democratic_governor_pushes_for_a_ban_on_gerrymandering.mp3?t=progseg&e=nx-s1-5719556&p=2&seg=11&d=199&size=3191999&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-26T06:45:42.336Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.npr.org/2026/03/17/g-s1-113929/illinois-primary-election-results-2026",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-26T06:45:54.182Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://ondemand.npr.org/anon.npr-mp3/npr/wesun/2026/03/20260315_wesun_how_the_democrats_generational_tug-of-war_is_playing_out_in_one_chicago-area_race.mp3?t=progseg&e=nx-s1-5730809&p=10&seg=10&d=325&size=5203636&sc=siteplayer&aw_0_1st.playerid=siteplayer",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-26T06:45:58.644Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.npr.org/2026/03/10/g-s1-112744/mississippi-primary-election-results-2026",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-26T06:46:10.179Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.gettyimages.com/search/2/image?artistexact=picturealliance",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-26T06:46:14.504Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.reddit.com/submit?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F04%2F14%2Fgoogle-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows%2F&title=Google+adds+AI+Skills+to+Chrome+to+help+you+save+favorite+workflows",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-26T06:46:16.528Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.reddit.com/submit?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F04%2F14%2Ffinancial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z%2F&title=Financial+risk+management+platform+Pillar+raises+%2420M+seed+in+round+led+by+a16z",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-26T06:47:46.969Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.startribune.com/ice-agent-who-fatally-shot-woman-in-minneapolis-is-identified/601560214",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-26T06:48:53.235Z",
       "retryCount": 0
     }
   ],
-  "lastUpdated": "2026-04-25T06:40:32.713Z"
+  "lastUpdated": "2026-04-26T06:48:56.354Z"
 }

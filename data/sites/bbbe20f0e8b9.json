@@ -1,0 +1,21 @@
+{
+  "id": "bbbe20f0e8b9",
+  "domain": "theintercept.com",
+  "baseUrl": "https://theintercept.com",
+  "title": "Feds Try Secret Grand Jury to Unmask Reddit ICE Critic",
+  "description": "An ICE summons to get the user’s identity failed. Advocates worry the move to a grand jury signals an escalation of the war on dissent.",
+  "firstDiscovered": "2026-04-26",
+  "lastCrawled": "2026-04-26",
+  "crawlCount": 1,
+  "avgSecurityScore": 80,
+  "categories": [
+    "News"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-26",
+      "summary": "“It’s something to be taken very seriously.” The convening of a federal grand jury presents a considerable challenge for Reddit in particular, a platform that prides itself on protecting the free speech rights of its 121 million daily users. Failed Attempt The story of how Reddit became ensnared ..."
+    }
+  ],
+  "status": "active"
+}

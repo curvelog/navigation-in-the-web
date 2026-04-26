@@ -1,0 +1,21 @@
+{
+  "id": "d76007e5a512",
+  "domain": "www.pewresearch.org",
+  "baseUrl": "https://www.pewresearch.org",
+  "title": "Eliminating Electoral College favored by majority of Americans | Pew Research Center",
+  "description": "63% of U.S. adults say the way the president is elected should be changed so that the winner of the popular vote nationwide wins the presidency.",
+  "firstDiscovered": "2026-04-26",
+  "lastCrawled": "2026-04-26",
+  "crawlCount": 1,
+  "avgSecurityScore": 55,
+  "categories": [
+    "Politics"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-26",
+      "summary": "Under the current electoral system in the United States, the winner of the popular vote may not secure enough Electoral College votes to win the presidency. In November of that year, in the wake of Trump’s Electoral College victory and popular vote loss, just 27% of Republicans supported a popula..."
+    }
+  ],
+  "status": "active"
+}

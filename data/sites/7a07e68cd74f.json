@@ -1,0 +1,21 @@
+{
+  "id": "7a07e68cd74f",
+  "domain": "www.archives.gov",
+  "baseUrl": "https://www.archives.gov",
+  "title": "What is the Electoral College? | National Archives",
+  "description": "The Electoral College is a process, not a place. The Founding Fathers established it in the Constitution, in part, as a compromise between the election of the President by a vote in Congress and election of the President by a popular vote of qualified citizens. What is the process? The Electoral College process consists of the selection of the electors, the meeting of the",
+  "firstDiscovered": "2026-04-26",
+  "lastCrawled": "2026-04-26",
+  "crawlCount": 1,
+  "avgSecurityScore": 80,
+  "categories": [
+    "Politics"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-26",
+      "summary": "Most States have a “winner-take-all” system that awards all electors to the Presidential candidate who wins the State's popular vote. The electors meet in their respective States, where they cast their votes for President and Vice President on separate ballots."
+    }
+  ],
+  "status": "active"
+}
