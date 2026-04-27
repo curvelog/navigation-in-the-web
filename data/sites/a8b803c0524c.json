@@ -1,0 +1,21 @@
+{
+  "id": "a8b803c0524c",
+  "domain": "www.ibm.com",
+  "baseUrl": "https://www.ibm.com",
+  "title": "What is GPT (generative pre-trained transformer)? | IBM",
+  "description": "Generative pre-trained transformers (GPTs) are a family of advanced neural networks designed for natural language processing (NLP) tasks. These large-language models (LLMs) are based on transformer architecture and subjected to unsupervised pre-training on massive unlabeled datasets.",
+  "firstDiscovered": "2026-04-27",
+  "lastCrawled": "2026-04-27",
+  "crawlCount": 1,
+  "avgSecurityScore": 85,
+  "categories": [
+    "Technology"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-27",
+      "summary": "The power of GPT models comes from two key aspects: Generative pretraining that teaches the model to detect patterns in unlabeled data, then apply those patterns to new inputs. Transformer models Transformer models are a type of neural network specialized in natural language processing: identifyi..."
+    }
+  ],
+  "status": "active"
+}

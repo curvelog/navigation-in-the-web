@@ -1,0 +1,21 @@
+{
+  "id": "f4f891b328c8",
+  "domain": "www.totallyhuman.io",
+  "baseUrl": "https://www.totallyhuman.io",
+  "title": "The NEW Surprising Number of Steam Games that Use GenAI — Totally Human Media",
+  "description": "A year ago, I poked around Steam to see  how many game developers were disclosing usage of Generative AI . It was around 1,000, which seemed like a lot to me at the time. If memory serves, that was about 1.1% of the entire Steam library, which has since seen 20,000+ more titles appear. I've been fol",
+  "firstDiscovered": "2026-04-27",
+  "lastCrawled": "2026-04-27",
+  "crawlCount": 1,
+  "avgSecurityScore": 80,
+  "categories": [
+    "Entertainment"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-27",
+      "summary": "The NEW Surprising Number of Steam Games that Use GenAI Jul 13 Written By Ichiro Lambe Left: the correct number of fingers from 2023. An API breaks down text inputs into a pipeline of world attributes in order to generate biomes from a pre-loaded cache of assets at runtime.” “Players can create a..."
+    }
+  ],
+  "status": "active"
+}

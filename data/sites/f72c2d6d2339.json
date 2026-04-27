@@ -5,8 +5,8 @@
   "title": "@sarahp.bsky.social on Bluesky",
   "description": "This profile requires authentication to view.",
   "firstDiscovered": "2026-04-26",
-  "lastCrawled": "2026-04-26",
-  "crawlCount": 1,
+  "lastCrawled": "2026-04-27",
+  "crawlCount": 2,
   "avgSecurityScore": 80,
   "categories": [
     "General"
@@ -14,6 +14,10 @@
   "summaryHistory": [
     {
       "date": "2026-04-26",
+      "summary": ""
+    },
+    {
+      "date": "2026-04-27",
       "summary": ""
     }
   ],

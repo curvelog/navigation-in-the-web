@@ -1,0 +1,22 @@
+{
+  "id": "013d6be7f20d",
+  "domain": "help.steampowered.com",
+  "baseUrl": "https://help.steampowered.com",
+  "title": "Steam Support :: Reporting suspected cheaters",
+  "description": "",
+  "firstDiscovered": "2026-04-27",
+  "lastCrawled": "2026-04-27",
+  "crawlCount": 1,
+  "avgSecurityScore": 90,
+  "categories": [
+    "News",
+    "General"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-27",
+      "summary": " |  |  |  | "
+    }
+  ],
+  "status": "active"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ae433ccb539a",
+  "domain": "www.harpercollins.com",
+  "baseUrl": "https://www.harpercollins.com",
+  "title": "Liftoff\n– HarperCollins",
+  "description": "“A colorful page-turner.” —Walter Isaacson, New York Times Book Review\n“As important a book on space as has ever been written.” —Homer Hickam, #1 New York T...",
+  "firstDiscovered": "2026-04-27",
+  "lastCrawled": "2026-04-27",
+  "crawlCount": 1,
+  "avgSecurityScore": 100,
+  "categories": [
+    "Culture"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-27",
+      "summary": "<% selected_variant.series_details.seriesTitle %>: Volume Number <%selected_variant.series_details.seriesSequenceNumber%> <% selected_variant.series_details.seriesTitle %>: Volume Number <%selected_variant.series_details.seriesSequenceNumber%> Liftoff Elon Musk and the Desperate Early Days That L..."
+    }
+  ],
+  "status": "active"
+}

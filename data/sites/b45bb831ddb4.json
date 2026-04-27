@@ -1,0 +1,21 @@
+{
+  "id": "b45bb831ddb4",
+  "domain": "forem.com",
+  "baseUrl": "https://forem.com",
+  "title": "Forem",
+  "description": "Your community HQ",
+  "firstDiscovered": "2026-04-27",
+  "lastCrawled": "2026-04-27",
+  "crawlCount": 1,
+  "avgSecurityScore": 85,
+  "categories": [
+    "Technology"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-27",
+      "summary": "15 Essential Sections Every README Needs: Give Your Project What It Deserves Ready-to-use markdown template Giorgi Kobaidze Giorgi Kobaidze Giorgi Kobaidze Follow Apr 26 15 Essential Sections Every README Needs: Give Your Project What It Deserves #documentation #opensource #tutorial #development ..."
+    }
+  ],
+  "status": "active"
+}

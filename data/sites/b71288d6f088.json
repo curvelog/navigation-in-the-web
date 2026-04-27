@@ -1,0 +1,21 @@
+{
+  "id": "b71288d6f088",
+  "domain": "en.wikipedia.org",
+  "baseUrl": "https://en.wikipedia.org",
+  "title": "Bartholomew and the Oobleck - Wikipedia",
+  "description": "",
+  "firstDiscovered": "2026-04-27",
+  "lastCrawled": "2026-04-27",
+  "crawlCount": 1,
+  "avgSecurityScore": 85,
+  "categories": [
+    "Culture"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-27",
+      "summary": "Seuss book published in 1949 Bartholomew and the Oobleck AuthorDr. Seuss Science Experiment ^ Outrageous Ooze Retrieved from \"https://en.wikipedia.org/w/index.php?title=Bartholomew_and_the_Oobleck&oldid=1342460654\" Categories: 1949 children's booksAmerican picture booksBooks by Dr. | So this decomposition can be made explicit as:[5] Stokes's stress constitutive equation (expression used for incompressible viscous fluids) τ = μ ( ∇ u + ( ∇ u ) ⊤ ) {\\displaystyle {\\boldsymbol {\\tau }}=\\mu \\left(\\ \\nabla \\mathbf {u} +\\left(\\nabla \\mathbf {u} \\right)^{\\top }\\right)} This constitu..."
+    }
+  ],
+  "status": "active"
+}

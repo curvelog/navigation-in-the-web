@@ -5,8 +5,8 @@
   "title": "The Verge - YouTube",
   "description": "Welcome to the YouTube channel for TheVerge.com, a team of journalists that examines how technology will change life in the future. Subscribe for explainers,...",
   "firstDiscovered": "2026-04-19",
-  "lastCrawled": "2026-04-25",
-  "crawlCount": 2,
+  "lastCrawled": "2026-04-27",
+  "crawlCount": 3,
   "avgSecurityScore": 100,
   "categories": [
     "Technology"
@@ -19,6 +19,10 @@
     {
       "date": "2026-04-25",
       "summary": "AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2026 Google LLC"
+    },
+    {
+      "date": "2026-04-27",
+      "summary": "AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2026 Google LLC | AboutPressCopyrightContact usCreatorsAdvertiseDevelopersTermsPrivacyPolicy & SafetyHow YouTube worksTest new featuresNFL Sunday Ticket© 2026 Google LLC"
     }
   ],
   "status": "active"

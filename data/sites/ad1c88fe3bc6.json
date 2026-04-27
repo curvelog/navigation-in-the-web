@@ -1,0 +1,22 @@
+{
+  "id": "ad1c88fe3bc6",
+  "domain": "blogs.windows.com",
+  "baseUrl": "https://blogs.windows.com",
+  "title": "Our commitment to Windows quality | Windows Insider Blog",
+  "description": "Hello Windows Insiders,\n\nI want to speak to you directly, as an engineer who has spent his career building technology that people depend on every day. Windows touches more people's lives than almost any technology on Earth. Every day, we hear from th",
+  "firstDiscovered": "2026-04-27",
+  "lastCrawled": "2026-04-27",
+  "crawlCount": 1,
+  "avgSecurityScore": 85,
+  "categories": [
+    "Culture",
+    "Science"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-27",
+      "summary": "Clearer visibility into what features are included in each Insider build, so you know what to expect More control over which new features you try, with easier switching between Insider channels to match your desired level of stability or early access Higher quality builds entering each channel, w... | Newly updated Windows Insider Settings screen showing the new Experimental and Beta channels For most Insiders, picking the Beta or Experimental channel will be all you need to get set up, but for those who want to go further, we are adding an advanced option to pick your Windows core version com..."
+    }
+  ],
+  "status": "active"
+}

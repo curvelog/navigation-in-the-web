@@ -1,8 +1,23 @@
 {
-  "lastUpdated": "2026-04-26T06:48:56.547Z",
-  "totalDays": 12,
-  "totalSites": 66,
+  "lastUpdated": "2026-04-27T07:05:01.307Z",
+  "totalDays": 13,
+  "totalSites": 76,
   "dates": [
+    {
+      "date": "2026-04-27",
+      "pageCount": 100,
+      "categories": [
+        "Culture",
+        "News",
+        "Technology",
+        "Science",
+        "Entertainment",
+        "General",
+        "Business",
+        "Environment",
+        "Health"
+      ]
+    },
     {
       "date": "2026-04-26",
       "pageCount": 100,
@@ -176,6 +191,111 @@
   ],
   "sites": [
     {
+      "id": "013d6be7f20d",
+      "domain": "help.steampowered.com",
+      "title": "Steam Support :: Reporting suspected cheaters",
+      "lastCrawled": "2026-04-27",
+      "crawlCount": 1
+    },
+    {
+      "id": "3adf5f94d36c",
+      "domain": "arstechnica.com",
+      "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
+      "lastCrawled": "2026-04-27",
+      "crawlCount": 5
+    },
+    {
+      "id": "3aeb00246038",
+      "domain": "github.com",
+      "title": "Trending  repositories on GitHub today · GitHub",
+      "lastCrawled": "2026-04-27",
+      "crawlCount": 4
+    },
+    {
+      "id": "48023251c6f1",
+      "domain": "dev.to",
+      "title": "DEV Community",
+      "lastCrawled": "2026-04-27",
+      "crawlCount": 4
+    },
+    {
+      "id": "67771c0dd1b3",
+      "domain": "bossfightbooks.com",
+      "title": "Minesweeper by Kyle Orland – Boss Fight Books",
+      "lastCrawled": "2026-04-27",
+      "crawlCount": 1
+    },
+    {
+      "id": "6860776e5611",
+      "domain": "www.youtube.com",
+      "title": "The Verge - YouTube",
+      "lastCrawled": "2026-04-27",
+      "crawlCount": 3
+    },
+    {
+      "id": "8d1ce8ecc721",
+      "domain": "www.nasa.gov",
+      "title": "NASA's Orion Lands Safely on Two of Three Parachutes in Test - NASA",
+      "lastCrawled": "2026-04-27",
+      "crawlCount": 1
+    },
+    {
+      "id": "a8b803c0524c",
+      "domain": "www.ibm.com",
+      "title": "What is GPT (generative pre-trained transformer)? | IBM",
+      "lastCrawled": "2026-04-27",
+      "crawlCount": 1
+    },
+    {
+      "id": "ad1c88fe3bc6",
+      "domain": "blogs.windows.com",
+      "title": "Our commitment to Windows quality | Windows Insider Blog",
+      "lastCrawled": "2026-04-27",
+      "crawlCount": 1
+    },
+    {
+      "id": "ae433ccb539a",
+      "domain": "www.harpercollins.com",
+      "title": "Liftoff\n– HarperCollins",
+      "lastCrawled": "2026-04-27",
+      "crawlCount": 1
+    },
+    {
+      "id": "b45bb831ddb4",
+      "domain": "forem.com",
+      "title": "Forem",
+      "lastCrawled": "2026-04-27",
+      "crawlCount": 1
+    },
+    {
+      "id": "b71288d6f088",
+      "domain": "en.wikipedia.org",
+      "title": "Bartholomew and the Oobleck - Wikipedia",
+      "lastCrawled": "2026-04-27",
+      "crawlCount": 1
+    },
+    {
+      "id": "ccc33cec0e5b",
+      "domain": "overduepodcast.com",
+      "title": "Overdue",
+      "lastCrawled": "2026-04-27",
+      "crawlCount": 1
+    },
+    {
+      "id": "f4f891b328c8",
+      "domain": "www.totallyhuman.io",
+      "title": "The NEW Surprising Number of Steam Games that Use GenAI — Totally Human Media",
+      "lastCrawled": "2026-04-27",
+      "crawlCount": 1
+    },
+    {
+      "id": "f72c2d6d2339",
+      "domain": "bsky.app",
+      "title": "@sarahp.bsky.social on Bluesky",
+      "lastCrawled": "2026-04-27",
+      "crawlCount": 2
+    },
+    {
       "id": "15c34ca087ee",
       "domain": "www.pillarhq.com",
       "title": "Pillar",
@@ -188,13 +308,6 @@
       "title": "Sarah Perez 💙 (@Sarahp@mastodon.social) - Mastodon",
       "lastCrawled": "2026-04-26",
       "crawlCount": 1
-    },
-    {
-      "id": "3adf5f94d36c",
-      "domain": "arstechnica.com",
-      "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
-      "lastCrawled": "2026-04-26",
-      "crawlCount": 4
     },
     {
       "id": "7a07e68cd74f",
@@ -274,13 +387,6 @@
       "crawlCount": 1
     },
     {
-      "id": "f72c2d6d2339",
-      "domain": "bsky.app",
-      "title": "@sarahp.bsky.social on Bluesky",
-      "lastCrawled": "2026-04-26",
-      "crawlCount": 1
-    },
-    {
       "id": "3bbd7c83445a",
       "domain": "apps.apple.com",
       "title": "‎The Guardian - US &amp; World News App - App Store",
@@ -300,13 +406,6 @@
       "title": "Latest news, sport and opinion from the Guardian",
       "lastCrawled": "2026-04-25",
       "crawlCount": 4
-    },
-    {
-      "id": "6860776e5611",
-      "domain": "www.youtube.com",
-      "title": "The Verge - YouTube",
-      "lastCrawled": "2026-04-25",
-      "crawlCount": 2
     },
     {
       "id": "782ce3e38f01",
@@ -440,20 +539,6 @@
       "title": "Catalog - Data.gov",
       "lastCrawled": "2026-04-22",
       "crawlCount": 1
-    },
-    {
-      "id": "3aeb00246038",
-      "domain": "github.com",
-      "title": "Trending  repositories on GitHub today · GitHub",
-      "lastCrawled": "2026-04-21",
-      "crawlCount": 3
-    },
-    {
-      "id": "48023251c6f1",
-      "domain": "dev.to",
-      "title": "DEV Community",
-      "lastCrawled": "2026-04-20",
-      "crawlCount": 3
     },
     {
       "id": "00e7985e5777",
