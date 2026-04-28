@@ -1,0 +1,21 @@
+{
+  "id": "19a97b514433",
+  "domain": "www.ed.gov",
+  "baseUrl": "https://www.ed.gov",
+  "title": "Data | U.S. Department of Education",
+  "description": "ED oversees the collection of data and statistics about education and educational policies designed to help policymakers and analysts as they make educational policy decisions.",
+  "firstDiscovered": "2026-04-28",
+  "lastCrawled": "2026-04-28",
+  "crawlCount": 1,
+  "avgSecurityScore": 90,
+  "categories": [
+    "Education"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-28",
+      "summary": "ED oversees several data and statistic resources that collect and analyze data for use by the public, including parents, students, teachers, administrators, policy-makers, and researchers that can be used to change and improve educational programs and policies that impact students of all ages. Fi..."
+    }
+  ],
+  "status": "active"
+}

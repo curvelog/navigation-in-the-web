@@ -5,14 +5,15 @@
   "title": "Welcome - Federal Data Strategy",
   "description": "Design and build fast, accessible, mobile-friendly government websites backed by user research.",
   "firstDiscovered": "2026-04-22",
-  "lastCrawled": "2026-04-23",
-  "crawlCount": 2,
+  "lastCrawled": "2026-04-28",
+  "crawlCount": 3,
   "avgSecurityScore": 80,
   "categories": [
     "Technology",
     "Politics",
     "Education",
-    "News"
+    "News",
+    "Culture"
   ],
   "summaryHistory": [
     {
@@ -22,6 +23,10 @@
     {
       "date": "2026-04-23",
       "summary": "2020 Action Plan Progress The Federal Data Strategy provides a common set of data principles and best practices. Supplemental Milestone Data & Examples Federal Data Strategy Action Plan, Action 2: Constitute a Diverse Governance Body (DGB) Milestone 2.1."
+    },
+    {
+      "date": "2026-04-28",
+      "summary": "The Principles serve as motivational guidelines in the areas of Ethical Governance, Conscious Design, and a Learning Culture. Learn about the history of the Principles Download PDF – Federal Data Strategy Brochure Download Principles PDF The Principles Ethical Governance Uphold Ethics: Monitor an... | The Practices are organized into three categories: Building a Culture that Values Data and Promotes Public Use (Practices 1-10) Governing, Managing, and Protecting Data (Practices 11-26) Promoting Efficient and Appropriate Data Use (Practices 27-39) Learn about the history of the Practices Downlo... | Action 1: Identify Data Needs to Answer Priority Agency Questions By September 2020, all agencies will take initial steps to identify the data needed to answer priority questions of interest to the agency.1 For the past several years through the budget formulation process2,OMB has encouraged agen..."
     }
   ],
   "status": "active"

@@ -1,8 +1,25 @@
 {
-  "lastUpdated": "2026-04-27T07:05:01.307Z",
-  "totalDays": 13,
-  "totalSites": 76,
+  "lastUpdated": "2026-04-28T08:33:01.484Z",
+  "totalDays": 14,
+  "totalSites": 83,
   "dates": [
+    {
+      "date": "2026-04-28",
+      "pageCount": 100,
+      "categories": [
+        "Technology",
+        "Entertainment",
+        "Health",
+        "Culture",
+        "News",
+        "Science",
+        "Education",
+        "General",
+        "Politics",
+        "Business",
+        "Environment"
+      ]
+    },
     {
       "date": "2026-04-27",
       "pageCount": 100,
@@ -191,6 +208,104 @@
   ],
   "sites": [
     {
+      "id": "050569c06968",
+      "domain": "shop-amers.nature.com",
+      "title": "Nature+ | 55 science journals in one subscription\n – Nature+ Americas",
+      "lastCrawled": "2026-04-28",
+      "crawlCount": 1
+    },
+    {
+      "id": "19a97b514433",
+      "domain": "www.ed.gov",
+      "title": "Data | U.S. Department of Education",
+      "lastCrawled": "2026-04-28",
+      "crawlCount": 1
+    },
+    {
+      "id": "2af0325dd2f3",
+      "domain": "www.infobae.com",
+      "title": "Infobae América - Infobae",
+      "lastCrawled": "2026-04-28",
+      "crawlCount": 4
+    },
+    {
+      "id": "36804b7dde72",
+      "domain": "public.govdelivery.com",
+      "title": "GSA, General Services Administration (External)",
+      "lastCrawled": "2026-04-28",
+      "crawlCount": 1
+    },
+    {
+      "id": "3aeb00246038",
+      "domain": "github.com",
+      "title": "Trending  repositories on GitHub today · GitHub",
+      "lastCrawled": "2026-04-28",
+      "crawlCount": 5
+    },
+    {
+      "id": "48023251c6f1",
+      "domain": "dev.to",
+      "title": "DEV Community",
+      "lastCrawled": "2026-04-28",
+      "crawlCount": 5
+    },
+    {
+      "id": "7830408a0d0c",
+      "domain": "www.nature.com",
+      "title": "Nature",
+      "lastCrawled": "2026-04-28",
+      "crawlCount": 4
+    },
+    {
+      "id": "8fb84ad63b34",
+      "domain": "www.doi.gov",
+      "title": "DOI Data | U.S. Department of the Interior",
+      "lastCrawled": "2026-04-28",
+      "crawlCount": 1
+    },
+    {
+      "id": "96ed0e8a2276",
+      "domain": "tts.gsa.gov",
+      "title": "Home | Technology Transformation Services",
+      "lastCrawled": "2026-04-28",
+      "crawlCount": 1
+    },
+    {
+      "id": "9e2521424a3b",
+      "domain": "strategy.data.gov",
+      "title": "Welcome - Federal Data Strategy",
+      "lastCrawled": "2026-04-28",
+      "crawlCount": 3
+    },
+    {
+      "id": "b5ae902db807",
+      "domain": "wa.me",
+      "title": "Share on WhatsApp",
+      "lastCrawled": "2026-04-28",
+      "crawlCount": 1
+    },
+    {
+      "id": "c99fa6738e0b",
+      "domain": "doi.org",
+      "title": "Placenta: The Forgotten Organ | Annual Reviews",
+      "lastCrawled": "2026-04-28",
+      "crawlCount": 1
+    },
+    {
+      "id": "dc758c315a6b",
+      "domain": "www.usa.gov",
+      "title": "Making government services easier to find | USAGov",
+      "lastCrawled": "2026-04-28",
+      "crawlCount": 2
+    },
+    {
+      "id": "f72c2d6d2339",
+      "domain": "bsky.app",
+      "title": "@sarahp.bsky.social on Bluesky",
+      "lastCrawled": "2026-04-28",
+      "crawlCount": 3
+    },
+    {
       "id": "013d6be7f20d",
       "domain": "help.steampowered.com",
       "title": "Steam Support :: Reporting suspected cheaters",
@@ -203,20 +318,6 @@
       "title": "Ars Technica - Serving the Technologist since 1998. News, reviews, and analysis.",
       "lastCrawled": "2026-04-27",
       "crawlCount": 5
-    },
-    {
-      "id": "3aeb00246038",
-      "domain": "github.com",
-      "title": "Trending  repositories on GitHub today · GitHub",
-      "lastCrawled": "2026-04-27",
-      "crawlCount": 4
-    },
-    {
-      "id": "48023251c6f1",
-      "domain": "dev.to",
-      "title": "DEV Community",
-      "lastCrawled": "2026-04-27",
-      "crawlCount": 4
     },
     {
       "id": "67771c0dd1b3",
@@ -287,13 +388,6 @@
       "title": "The NEW Surprising Number of Steam Games that Use GenAI — Totally Human Media",
       "lastCrawled": "2026-04-27",
       "crawlCount": 1
-    },
-    {
-      "id": "f72c2d6d2339",
-      "domain": "bsky.app",
-      "title": "@sarahp.bsky.social on Bluesky",
-      "lastCrawled": "2026-04-27",
-      "crawlCount": 2
     },
     {
       "id": "15c34ca087ee",
@@ -429,13 +523,6 @@
       "crawlCount": 1
     },
     {
-      "id": "2af0325dd2f3",
-      "domain": "www.infobae.com",
-      "title": "Infobae América - Infobae",
-      "lastCrawled": "2026-04-24",
-      "crawlCount": 3
-    },
-    {
       "id": "99ba26031ed3",
       "domain": "nypost.com",
       "title": "Trump admin: Live updates on Iran war, Hormuz, Congress, more",
@@ -460,20 +547,6 @@
       "id": "6d86209028fb",
       "domain": "www.gsa.gov",
       "title": "Technology Transformation Services | GSA",
-      "lastCrawled": "2026-04-23",
-      "crawlCount": 1
-    },
-    {
-      "id": "9e2521424a3b",
-      "domain": "strategy.data.gov",
-      "title": "Welcome - Federal Data Strategy",
-      "lastCrawled": "2026-04-23",
-      "crawlCount": 2
-    },
-    {
-      "id": "dc758c315a6b",
-      "domain": "www.usa.gov",
-      "title": "Making government services easier to find | USAGov",
       "lastCrawled": "2026-04-23",
       "crawlCount": 1
     },
@@ -511,13 +584,6 @@
       "title": "Home | resources.data.gov",
       "lastCrawled": "2026-04-22",
       "crawlCount": 1
-    },
-    {
-      "id": "7830408a0d0c",
-      "domain": "www.nature.com",
-      "title": "Nature",
-      "lastCrawled": "2026-04-22",
-      "crawlCount": 3
     },
     {
       "id": "87a3289dfb1a",

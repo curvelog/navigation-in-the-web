@@ -1,0 +1,21 @@
+{
+  "id": "8fb84ad63b34",
+  "domain": "www.doi.gov",
+  "baseUrl": "https://www.doi.gov",
+  "title": "DOI Data | U.S. Department of the Interior",
+  "description": "Your home for open data at the U.S. Department of the Interior",
+  "firstDiscovered": "2026-04-28",
+  "lastCrawled": "2026-04-28",
+  "crawlCount": 1,
+  "avgSecurityScore": 80,
+  "categories": [
+    "Culture"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-28",
+      "summary": "2023 – 2027 Geospatial Services Strategic Plan, Department of the InteriorDOI Data Governance Board Charter doi-2024-ai-use-case-inventory-12-16-24.xlsx (107.19 KB) Short Description By tracking current and planned Artificial Intelligence (AI) use cases – and sharing those with relevant internal ..."
+    }
+  ],
+  "status": "active"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "36804b7dde72",
+  "domain": "public.govdelivery.com",
+  "baseUrl": "https://public.govdelivery.com",
+  "title": "GSA, General Services Administration (External)",
+  "description": "",
+  "firstDiscovered": "2026-04-28",
+  "lastCrawled": "2026-04-28",
+  "crawlCount": 1,
+  "avgSecurityScore": 100,
+  "categories": [
+    "General"
+  ],
+  "summaryHistory": [
+    {
+      "date": "2026-04-28",
+      "summary": "Email Updates To sign up for updates or to access your subscriber preferences, please enter your contact information below."
+    }
+  ],
+  "status": "active"
+}
