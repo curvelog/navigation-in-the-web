@@ -1,8 +1,19 @@
 {
-  "lastUpdated": "2026-04-28T08:33:01.484Z",
-  "totalDays": 14,
+  "lastUpdated": "2026-04-29T08:24:49.086Z",
+  "totalDays": 15,
   "totalSites": 83,
   "dates": [
+    {
+      "date": "2026-04-29",
+      "pageCount": 100,
+      "categories": [
+        "Culture",
+        "Health",
+        "News",
+        "Technology",
+        "Entertainment"
+      ]
+    },
     {
       "date": "2026-04-28",
       "pageCount": 100,
@@ -208,6 +219,20 @@
   ],
   "sites": [
     {
+      "id": "2af0325dd2f3",
+      "domain": "www.infobae.com",
+      "title": "Infobae América - Infobae",
+      "lastCrawled": "2026-04-29",
+      "crawlCount": 5
+    },
+    {
+      "id": "ddf2dbfa1053",
+      "domain": "www.lanacion.com.ar",
+      "title": "Últimas noticias de Argentina y el mundo - LA NACION",
+      "lastCrawled": "2026-04-29",
+      "crawlCount": 3
+    },
+    {
       "id": "050569c06968",
       "domain": "shop-amers.nature.com",
       "title": "Nature+ | 55 science journals in one subscription\n – Nature+ Americas",
@@ -220,13 +245,6 @@
       "title": "Data | U.S. Department of Education",
       "lastCrawled": "2026-04-28",
       "crawlCount": 1
-    },
-    {
-      "id": "2af0325dd2f3",
-      "domain": "www.infobae.com",
-      "title": "Infobae América - Infobae",
-      "lastCrawled": "2026-04-28",
-      "crawlCount": 4
     },
     {
       "id": "36804b7dde72",
@@ -535,13 +553,6 @@
       "title": "Las mejores recetas para cocinar, inspirate con estas ideas - Foodit",
       "lastCrawled": "2026-04-24",
       "crawlCount": 1
-    },
-    {
-      "id": "ddf2dbfa1053",
-      "domain": "www.lanacion.com.ar",
-      "title": "Últimas noticias de Argentina y el mundo - LA NACION",
-      "lastCrawled": "2026-04-24",
-      "crawlCount": 2
     },
     {
       "id": "6d86209028fb",
