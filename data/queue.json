@@ -1,580 +1,5 @@
 {
-  "pending": [
-    {
-      "url": "https://www.lanacion.com.ar/clima/mendoza/san-rafael/clima-en-san-rafael-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/clima/santa-fe/clima-en-ceres-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/clima/buenos-aires/miramar/clima-en-miramar-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/clima/buenos-aires/moron/clima-en-moron-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/clima/entre-rios/parana/clima-en-parana-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/clima/san-juan/clima-en-ciudad-de-san-juan-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/clima/san-luis/clima-en-ciudad-de-san-luis-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/clima/rio-negro/bariloche/clima-en-bariloche-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/clima/cordoba/clima-en-ciudad-de-cordoba-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/clima/buenos-aires/tres-arroyos/clima-en-tres-arroyos-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/clima/cordoba/villa-maria/clima-en-villa-de-maria-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/clima/entre-rios/gualeguaychu/clima-en-gualeguaychu-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/clima/entre-rios/concordia/clima-en-concordia-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/clima/cordoba/clima-en-general-paz-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/clima/buenos-aires/junin/clima-en-junin-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/clima/buenos-aires/la-plata/clima-en-la-plata-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/sociedad/sombra-drenaje-y-mobiliario-asi-sera-el-nuevo-parque-de-la-ciudad-con-mas-de-15000-metros-cuadrados-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/economia/en-el-primer-trimestre-del-ano-cayo-un-43-la-cantidad-de-nuevos-jubilados-de-la-anses-respecto-de-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/economia/campo/disputa-por-1500-hectareas-el-empresario-roberto-urquia-y-una-organizacion-de-campesinos-firmaron-un-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/economia/explosivos-enterrados-nid24042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/clima",
-      "addedAt": "2026-04-24T06:45:12.495Z",
-      "priority": 2
-    },
-    {
-      "url": "https://t.co/t0i56pPbcS",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/autor/david-sanger-2289",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/estados-unidos/el-bloqueo-de-trump-en-ormuz-amenaza-con-sepultar-la-incipiente-distension-con-china-nid15042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/israel-esta-considerando-un-alto-el-fuego-en-el-libano-mientras-continua-su-ofensiva-nid15042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://t.co/Iw9iELKsDV",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/un-analista-internacional-explico-en-detalle-por-que-se-empieza-a-hablar-de-otra-cumbre-en-la-guerra-nid14042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://t.co/e74lm6hL8r",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://t.co/dnHR2oz0ZN",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://t.co/Q07nAosJyq",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://t.co/h4msgvaPTl",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/iran-amenaza-con-frenar-todo-el-comercio-en-tres-areas-clave-si-eeuu-sigue-con-el-bloqueo-en-ormuz-nid15042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/guerra-migracion-iran-los-8-episodios-que-prepararon-el-enfrentamiento-entre-trump-y-el-papa-nid15042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/massimo-faggioli-para-trump-el-vaticano-debe-someterse-a-su-mesianismo-politico-pero-leon-xiv-saco-nid14042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/trump-arremetio-contra-leon-xiv-y-el-papa-dijo-que-no-tiene-intencion-de-entrar-en-un-debate-nid13042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-la-guerra-entre-estados-unidos-israel-e-iran-hoy-nid13042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/los-huties-de-yemen-estan-listos-para-entrar-a-la-guerra-junto-a-iran-y-peligra-otro-estrecho-nid26032026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/autor/elisabetta-pique-121",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/el-opositor-hungaro-peter-magyar-sepulta-en-las-urnas-el-sueno-de-un-orban-eterno-nid12042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/asi-se-puede-derrotar-al-trumpismo-el-editorial-de-the-new-york-times-tras-la-derrota-de-orban-nid14042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://t.co/dJxKJcEcmO",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/autor/lucia_boccio",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://t.co/tsu4i322r4",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/tema/guerra-en-medio-oriente",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/tema/estados-unidos-tid473",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/tema/iran-tid30677",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/tema/the-trust-project-tid68036",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-viernes-24-de-nid24042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/en-que-consiste-la-nueva-estrategia-del-regimen-irani-a-casi-dos-meses-de-iniciada-la-guerra-segun-nid24042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-jueves-23-de-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-martes-14-de-nid14042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-como-sigue-el-cese-al-fuego-hoy-lunes-13-de-nid13042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/agredieron-al-principe-heredero-exiliado-de-iran-reza-pahlavi-durante-su-aparicion-en-berlin-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/una-nueva-era-y-un-nuevo-liderazgo-los-generales-que-estan-dirigiendo-iran-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/quien-era-la-exreina-de-belleza-mexicana-que-fue-asesinada-por-su-suegra-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/bolivia-y-chile-buscan-restablecer-relaciones-luego-de-medio-siglo-de-distanciamiento-nid23042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/un-tesoro-de-millones-de-anos-como-es-el-proceso-del-ambar-hasta-convertirse-en-joyas-nid24042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-miercoles-15-de-nid15042026",
-      "addedAt": "2026-04-24T06:45:16.117Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/autor/juan-carlos-de-pablo-411",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/autor/gustavo-ybarra-167",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/autor/nicolaspizzi",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/autor/IgnacioGrimaldi",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/politica/declaran-las-jubiladas-que-le-vendieron-el-departamento-a-adorni-y-le-financiaron-mas-del-80-del-nid15042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/politica/la-justicia-investiga-la-refaccion-integral-del-departamento-de-adorni-en-caballito-cocina-banos-y-nid15042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/autor/francisco-olivera-179",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/autor/javier-blanco-170",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://t.co/SGwDYsZtLK",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/autor/hernan-cappiello-154",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/politica/corrupcion-en-la-andis-spagnuolo-y-calvete-seran-nuevamente-indagados-junto-a-otras-27-personas-nid09042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/politica/el-juez-lijo-ordeno-una-nueva-indagatoria-a-diego-spagnuolo-en-la-causa-por-supuesta-corrupcion-en-nid15042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/politica/el-biografo-de-milei-embistio-contra-manuel-adorni-y-pidio-su-renuncia-nid15042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/autor/paula-rossi-13346",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/politica/guillermo-francos-admitio-que-no-descarta-volver-a-la-politica-y-ser-candidato-en-2027-tengo-la-idea-nid15042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/politica/la-justicia-confirmo-el-viaje-de-adorni-y-su-familia-al-caribe-nid15042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/politica/sorpresa-en-el-karinismo-por-la-critica-de-francos-a-adorni-y-su-coqueteo-con-una-candidatura-en-nid15042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/politica/milei-cierra-amcham-acompanado-por-adorni-a-un-ano-de-la-salida-del-cepo-pero-con-la-inflacion-nid14042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/politica/con-el-aval-de-milei-adorni-ya-prepara-una-defensa-judicial-para-su-exposicion-en-el-congreso-nid14042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/politica/un-gobernador-aliado-de-javier-milei-se-adelanta-y-busca-suspender-las-paso-en-su-provincia-nid15042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/politica/familia-judicial-roce-politico-y-controversias-carlos-mahiques-uno-de-los-jueces-que-debe-definir-el-nid22022026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/politica/afagate-un-juez-festejo-su-cumpleanos-en-la-quinta-atribuida-a-toviggino-y-ahora-debe-resolver-en-nid22022026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/politica/carlos-mahiques-va-al-senado-para-defender-su-continuidad-como-camarista-federal-nid15042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/autor/Agust%C3%ADnMaza",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/economia/luis-caputo-elogio-el-acuerdo-con-el-fmi-y-hablo-de-un-pico-de-optimismo-tras-presentarse-ante-nid15042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    },
-    {
-      "url": "https://www.lanacion.com.ar/economia/el-fmi-rebajo-su-proyeccion-sobre-el-superavit-fiscal-y-establecio-una-nueva-meta-de-acumulacion-de-nid15042026",
-      "depth": 2,
-      "sourceUrl": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-repercusiones-de-la-inflacion-de-mazo-y-como-continuan-las-nid15042026",
-      "addedAt": "2026-04-24T06:45:19.648Z",
-      "priority": 2
-    }
-  ],
+  "pending": [],
   "completed": [
     "https://news.ycombinator.com/",
     "https://www.reuters.com/",
@@ -2321,8 +1746,147 @@
     "https://www.lanacion.com.ar/clima/buenos-aires/merlo/clima-en-merlo-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
     "https://www.lanacion.com.ar/clima/buenos-aires/moreno/clima-en-moreno-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
     "https://www.lanacion.com.ar/clima/mendoza/clima-en-ciudad-de-mendoza-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
-    "https://www.lanacion.com.ar/clima/neuquen/clima-en-ciudad-de-neuquen-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026"
+    "https://www.lanacion.com.ar/clima/neuquen/clima-en-ciudad-de-neuquen-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/mendoza/san-rafael/clima-en-san-rafael-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/santa-fe/clima-en-ceres-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/buenos-aires/miramar/clima-en-miramar-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/buenos-aires/moron/clima-en-moron-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/entre-rios/parana/clima-en-parana-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/san-juan/clima-en-ciudad-de-san-juan-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/san-luis/clima-en-ciudad-de-san-luis-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/rio-negro/bariloche/clima-en-bariloche-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/cordoba/clima-en-ciudad-de-cordoba-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/buenos-aires/tres-arroyos/clima-en-tres-arroyos-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/cordoba/villa-maria/clima-en-villa-de-maria-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/entre-rios/gualeguaychu/clima-en-gualeguaychu-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/entre-rios/concordia/clima-en-concordia-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/cordoba/clima-en-general-paz-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/buenos-aires/junin/clima-en-junin-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/clima/buenos-aires/la-plata/clima-en-la-plata-hoy-cual-es-el-pronostico-del-tiempo-para-el-24-de-abril-de-2026-nid23042026",
+    "https://www.lanacion.com.ar/sociedad/sombra-drenaje-y-mobiliario-asi-sera-el-nuevo-parque-de-la-ciudad-con-mas-de-15000-metros-cuadrados-nid23042026",
+    "https://www.lanacion.com.ar/economia/en-el-primer-trimestre-del-ano-cayo-un-43-la-cantidad-de-nuevos-jubilados-de-la-anses-respecto-de-nid23042026",
+    "https://www.lanacion.com.ar/economia/campo/disputa-por-1500-hectareas-el-empresario-roberto-urquia-y-una-organizacion-de-campesinos-firmaron-un-nid23042026",
+    "https://www.lanacion.com.ar/economia/explosivos-enterrados-nid24042026",
+    "https://t.co/t0i56pPbcS",
+    "https://www.lanacion.com.ar/autor/david-sanger-2289",
+    "https://www.lanacion.com.ar/estados-unidos/el-bloqueo-de-trump-en-ormuz-amenaza-con-sepultar-la-incipiente-distension-con-china-nid15042026",
+    "https://www.lanacion.com.ar/el-mundo/israel-esta-considerando-un-alto-el-fuego-en-el-libano-mientras-continua-su-ofensiva-nid15042026",
+    "https://t.co/Iw9iELKsDV",
+    "https://www.lanacion.com.ar/el-mundo/un-analista-internacional-explico-en-detalle-por-que-se-empieza-a-hablar-de-otra-cumbre-en-la-guerra-nid14042026",
+    "https://t.co/e74lm6hL8r",
+    "https://t.co/dnHR2oz0ZN",
+    "https://t.co/Q07nAosJyq",
+    "https://t.co/h4msgvaPTl",
+    "https://www.lanacion.com.ar/el-mundo/iran-amenaza-con-frenar-todo-el-comercio-en-tres-areas-clave-si-eeuu-sigue-con-el-bloqueo-en-ormuz-nid15042026",
+    "https://www.lanacion.com.ar/el-mundo/trump-arremetio-contra-leon-xiv-y-el-papa-dijo-que-no-tiene-intencion-de-entrar-en-un-debate-nid13042026",
+    "https://www.lanacion.com.ar/el-mundo/que-se-sabe-de-la-guerra-entre-estados-unidos-israel-e-iran-hoy-nid13042026",
+    "https://www.lanacion.com.ar/el-mundo/los-huties-de-yemen-estan-listos-para-entrar-a-la-guerra-junto-a-iran-y-peligra-otro-estrecho-nid26032026",
+    "https://www.lanacion.com.ar/autor/elisabetta-pique-121",
+    "https://www.lanacion.com.ar/el-mundo/el-opositor-hungaro-peter-magyar-sepulta-en-las-urnas-el-sueno-de-un-orban-eterno-nid12042026",
+    "https://t.co/dJxKJcEcmO",
+    "https://www.lanacion.com.ar/autor/lucia_boccio",
+    "https://t.co/tsu4i322r4",
+    "https://www.lanacion.com.ar/tema/guerra-en-medio-oriente",
+    "https://www.lanacion.com.ar/tema/estados-unidos-tid473",
+    "https://www.lanacion.com.ar/tema/iran-tid30677",
+    "https://www.lanacion.com.ar/tema/the-trust-project-tid68036",
+    "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-viernes-24-de-nid24042026",
+    "https://www.lanacion.com.ar/el-mundo/en-que-consiste-la-nueva-estrategia-del-regimen-irani-a-casi-dos-meses-de-iniciada-la-guerra-segun-nid24042026",
+    "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-jueves-23-de-nid23042026",
+    "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-tension-en-medio-oriente-hoy-martes-14-de-nid14042026",
+    "https://www.lanacion.com.ar/el-mundo/guerra-de-estados-unidos-e-israel-contra-iran-en-vivo-como-sigue-el-cese-al-fuego-hoy-lunes-13-de-nid13042026",
+    "https://www.lanacion.com.ar/el-mundo/agredieron-al-principe-heredero-exiliado-de-iran-reza-pahlavi-durante-su-aparicion-en-berlin-nid23042026",
+    "https://www.lanacion.com.ar/el-mundo/una-nueva-era-y-un-nuevo-liderazgo-los-generales-que-estan-dirigiendo-iran-nid23042026",
+    "https://www.lanacion.com.ar/el-mundo/quien-era-la-exreina-de-belleza-mexicana-que-fue-asesinada-por-su-suegra-nid23042026",
+    "https://www.lanacion.com.ar/el-mundo/bolivia-y-chile-buscan-restablecer-relaciones-luego-de-medio-siglo-de-distanciamiento-nid23042026",
+    "https://www.lanacion.com.ar/el-mundo/un-tesoro-de-millones-de-anos-como-es-el-proceso-del-ambar-hasta-convertirse-en-joyas-nid24042026",
+    "https://www.lanacion.com.ar/autor/juan-carlos-de-pablo-411",
+    "https://www.lanacion.com.ar/autor/gustavo-ybarra-167",
+    "https://www.lanacion.com.ar/autor/nicolaspizzi",
+    "https://www.lanacion.com.ar/autor/IgnacioGrimaldi",
+    "https://www.lanacion.com.ar/politica/declaran-las-jubiladas-que-le-vendieron-el-departamento-a-adorni-y-le-financiaron-mas-del-80-del-nid15042026",
+    "https://www.lanacion.com.ar/politica/la-justicia-investiga-la-refaccion-integral-del-departamento-de-adorni-en-caballito-cocina-banos-y-nid15042026",
+    "https://www.lanacion.com.ar/autor/francisco-olivera-179",
+    "https://www.lanacion.com.ar/autor/javier-blanco-170",
+    "https://t.co/SGwDYsZtLK",
+    "https://www.lanacion.com.ar/autor/hernan-cappiello-154",
+    "https://www.lanacion.com.ar/politica/corrupcion-en-la-andis-spagnuolo-y-calvete-seran-nuevamente-indagados-junto-a-otras-27-personas-nid09042026",
+    "https://www.lanacion.com.ar/politica/el-juez-lijo-ordeno-una-nueva-indagatoria-a-diego-spagnuolo-en-la-causa-por-supuesta-corrupcion-en-nid15042026",
+    "https://www.lanacion.com.ar/politica/el-biografo-de-milei-embistio-contra-manuel-adorni-y-pidio-su-renuncia-nid15042026",
+    "https://www.lanacion.com.ar/autor/paula-rossi-13346",
+    "https://www.lanacion.com.ar/politica/guillermo-francos-admitio-que-no-descarta-volver-a-la-politica-y-ser-candidato-en-2027-tengo-la-idea-nid15042026",
+    "https://www.lanacion.com.ar/politica/la-justicia-confirmo-el-viaje-de-adorni-y-su-familia-al-caribe-nid15042026",
+    "https://www.lanacion.com.ar/politica/sorpresa-en-el-karinismo-por-la-critica-de-francos-a-adorni-y-su-coqueteo-con-una-candidatura-en-nid15042026",
+    "https://www.lanacion.com.ar/politica/con-el-aval-de-milei-adorni-ya-prepara-una-defensa-judicial-para-su-exposicion-en-el-congreso-nid14042026",
+    "https://www.lanacion.com.ar/politica/un-gobernador-aliado-de-javier-milei-se-adelanta-y-busca-suspender-las-paso-en-su-provincia-nid15042026",
+    "https://www.lanacion.com.ar/politica/familia-judicial-roce-politico-y-controversias-carlos-mahiques-uno-de-los-jueces-que-debe-definir-el-nid22022026",
+    "https://www.lanacion.com.ar/politica/afagate-un-juez-festejo-su-cumpleanos-en-la-quinta-atribuida-a-toviggino-y-ahora-debe-resolver-en-nid22022026",
+    "https://www.lanacion.com.ar/politica/carlos-mahiques-va-al-senado-para-defender-su-continuidad-como-camarista-federal-nid15042026",
+    "https://www.lanacion.com.ar/autor/Agust%C3%ADnMaza",
+    "https://www.lanacion.com.ar/economia/luis-caputo-elogio-el-acuerdo-con-el-fmi-y-hablo-de-un-pico-de-optimismo-tras-presentarse-ante-nid15042026",
+    "https://www.lanacion.com.ar/economia/el-fmi-rebajo-su-proyeccion-sobre-el-superavit-fiscal-y-establecio-una-nueva-meta-de-acumulacion-de-nid15042026"
   ],
-  "failed": [],
-  "lastUpdated": "2026-04-29T08:24:48.893Z"
+  "failed": [
+    {
+      "url": "https://t.co/t0i56pPbcS",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-30T08:23:52.046Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://t.co/Iw9iELKsDV",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-30T08:24:05.198Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://t.co/e74lm6hL8r",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-30T08:24:10.458Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://t.co/dnHR2oz0ZN",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-30T08:24:12.508Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://t.co/Q07nAosJyq",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-30T08:24:14.557Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://t.co/h4msgvaPTl",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-30T08:24:16.606Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://t.co/dJxKJcEcmO",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-30T08:24:36.894Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://t.co/tsu4i322r4",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-30T08:24:42.249Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://www.lanacion.com.ar/el-mundo/un-tesoro-de-millones-de-anos-como-es-el-proceso-del-ambar-hasta-convertirse-en-joyas-nid24042026",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-30T08:25:24.097Z",
+      "retryCount": 0
+    },
+    {
+      "url": "https://t.co/SGwDYsZtLK",
+      "error": "Crawl returned null (excluded, blocked, or error)",
+      "failedAt": "2026-04-30T08:25:49.327Z",
+      "retryCount": 0
+    }
+  ],
+  "lastUpdated": "2026-04-30T08:26:35.842Z"
 }

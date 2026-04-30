@@ -1,8 +1,17 @@
 {
-  "lastUpdated": "2026-04-29T08:24:49.086Z",
-  "totalDays": 15,
+  "lastUpdated": "2026-04-30T08:26:35.988Z",
+  "totalDays": 16,
   "totalSites": 83,
   "dates": [
+    {
+      "date": "2026-04-30",
+      "pageCount": 68,
+      "categories": [
+        "Culture",
+        "Technology",
+        "General"
+      ]
+    },
     {
       "date": "2026-04-29",
       "pageCount": 100,
@@ -219,18 +228,18 @@
   ],
   "sites": [
     {
+      "id": "ddf2dbfa1053",
+      "domain": "www.lanacion.com.ar",
+      "title": "Últimas noticias de Argentina y el mundo - LA NACION",
+      "lastCrawled": "2026-04-30",
+      "crawlCount": 4
+    },
+    {
       "id": "2af0325dd2f3",
       "domain": "www.infobae.com",
       "title": "Infobae América - Infobae",
       "lastCrawled": "2026-04-29",
       "crawlCount": 5
-    },
-    {
-      "id": "ddf2dbfa1053",
-      "domain": "www.lanacion.com.ar",
-      "title": "Últimas noticias de Argentina y el mundo - LA NACION",
-      "lastCrawled": "2026-04-29",
-      "crawlCount": 3
     },
     {
       "id": "050569c06968",
