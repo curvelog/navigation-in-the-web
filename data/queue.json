@@ -1826,67 +1826,6 @@
     "https://www.lanacion.com.ar/economia/luis-caputo-elogio-el-acuerdo-con-el-fmi-y-hablo-de-un-pico-de-optimismo-tras-presentarse-ante-nid15042026",
     "https://www.lanacion.com.ar/economia/el-fmi-rebajo-su-proyeccion-sobre-el-superavit-fiscal-y-establecio-una-nueva-meta-de-acumulacion-de-nid15042026"
   ],
-  "failed": [
-    {
-      "url": "https://t.co/t0i56pPbcS",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-30T08:23:52.046Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://t.co/Iw9iELKsDV",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-30T08:24:05.198Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://t.co/e74lm6hL8r",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-30T08:24:10.458Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://t.co/dnHR2oz0ZN",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-30T08:24:12.508Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://t.co/Q07nAosJyq",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-30T08:24:14.557Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://t.co/h4msgvaPTl",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-30T08:24:16.606Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://t.co/dJxKJcEcmO",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-30T08:24:36.894Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://t.co/tsu4i322r4",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-30T08:24:42.249Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://www.lanacion.com.ar/el-mundo/un-tesoro-de-millones-de-anos-como-es-el-proceso-del-ambar-hasta-convertirse-en-joyas-nid24042026",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-30T08:25:24.097Z",
-      "retryCount": 0
-    },
-    {
-      "url": "https://t.co/SGwDYsZtLK",
-      "error": "Crawl returned null (excluded, blocked, or error)",
-      "failedAt": "2026-04-30T08:25:49.327Z",
-      "retryCount": 0
-    }
-  ],
-  "lastUpdated": "2026-04-30T08:26:35.842Z"
+  "failed": [],
+  "lastUpdated": "2026-05-01T08:12:07.961Z"
 }
