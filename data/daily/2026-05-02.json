@@ -1,0 +1,20 @@
+{
+  "date": "2026-05-02",
+  "daySummary": "No pages were successfully crawled today.",
+  "totalPagesCrawled": 0,
+  "newSitesDiscovered": 0,
+  "byCategory": {},
+  "pages": [],
+  "generatedAt": "2026-05-02T07:45:06.678Z",
+  "stats": {
+    "totalAttempted": 0,
+    "successfulCrawls": 0,
+    "failedCrawls": 0,
+    "blockedByRobots": 0,
+    "securityIssues": 0,
+    "avgResponseTimeMs": 0,
+    "totalDataBytes": 0,
+    "durationSeconds": 0,
+    "categoriesFound": []
+  }
+}
