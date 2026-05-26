@@ -1,8 +1,13 @@
 {
-  "lastUpdated": "2026-05-25T07:41:30.937Z",
-  "totalDays": 41,
+  "lastUpdated": "2026-05-26T07:19:28.371Z",
+  "totalDays": 42,
   "totalSites": 83,
   "dates": [
+    {
+      "date": "2026-05-26",
+      "pageCount": 0,
+      "categories": []
+    },
     {
       "date": "2026-05-25",
       "pageCount": 0,
